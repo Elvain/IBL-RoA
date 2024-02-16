@@ -1,0 +1,690 @@
+#k_africa
+##d_kairouan ###################################
+###c_kairwan
+4594 = {	#KAIROUAN
+	culture = maghrebi
+	religion = ibadi
+	holding = castle_holding
+}
+4593 = {	#SABIBA
+	holding = none
+}
+4595 = {	#RAQQADA
+	holding = castle_holding
+}
+4596 = {	#MANSURIYA
+	holding = none
+	955.1.1 = {
+		holding = city_holding
+	}
+}
+4597 = {	#AL ABBASIYA
+	holding = castle_holding
+}
+14412 = {	#SBEITLA
+	holding = none
+}
+###c_jalula
+4592 = {	#JALULA
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+}
+4591 = {	#AL_ARIBUS
+	#holding = none
+}
+4753 = {	#SILYANA
+	holding = none
+}
+14424 = {	#ZANFOUR
+	holding = none
+}
+
+###c_west_qamuda
+4598 = {	#AL-QASRAYN
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+	1060.1.1 = {
+		culture = maghrebi
+	}
+}
+4599 = {	#QAFSA
+	holding = city_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+14411 = {	#AL-HURIYA
+	holding = church_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+###c_tala
+4624 = {	#TALA
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+	
+	# History
+	1074.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+	1080.1.1 = {
+		culture = maghrebi
+	}
+}
+14425 = {	#DUQQA
+	holding = city_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+14426 = {	#DAR_MADYAN
+	holding = none
+}
+
+###c_tabassa
+4623 = {	#TABASSA
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+	
+	# History
+	1074.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+	1075.1.1 = {
+		culture = maghrebi
+	}
+}
+4625 = {	#MAYDARA
+	#holding = none
+}
+4626 = {	#MASKIYANA
+	#holding = none
+}
+14427 = {	#MAJJANA
+	#holding = city_holding
+}
+
+###c_madila
+4607 = {	#MADILA
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+	1055.1.1 = {
+		religion = ashari
+		culture = maghrebi
+	}
+}
+4606 = {	#MADAS
+	holding = none
+}
+
+##d_tunis ###################################
+###c_tunis
+4582 = {	#TUNIS
+	culture = baranis
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	867.1.1 = {
+		religion = ashari
+		buildings = {
+			common_tradeport_01
+			barracks_01
+		}
+	}
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_02
+			barracks_01
+			#hunting_grounds_01
+		}
+	}
+}
+4583 = {	#QARTAJANA
+	holding = castle_holding
+}
+4584 = {	#NABEUL
+	holding = church_holding
+}
+14415 = {	#IKLIBIYA
+	holding = none
+}
+14416 = {	#RADIS
+	holding = city_holding
+}
+
+###c_fahs
+14420 = {	#FAHS
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+}
+14419 = {	#TABURBA
+	holding = church_holding
+}
+4581 = {	#ZAGHWAN
+	holding = city_holding
+}
+14421 = {	#KARBA
+	holding = none
+}
+
+###c_satfura
+4585 = {	#BANZART
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+}
+14417 = {	#TINJA
+	holding = none
+}
+14418 = {	#EL-FAOUAR
+	holding = none
+}
+
+###c_medjerda
+4589 = {	#BAJA_MEDJERDA
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+}
+14422 = {	#AGBIA
+	#holding = none
+}
+
+###c_tabarqa
+4586 = {	#TABARQA
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+}
+4587 = {	#MANSA'L-KHARAZ
+	holding = city_holding
+}
+
+##d_bejaia###################################
+###c_bejaia
+4637 = {	#BEJAIA
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_01
+			#watchtowers_01
+			pastures_01
+		}
+	}
+}
+14431 = {	#TAKULAT
+	holding = city_holding
+}
+14430 = {	#AL-MANSURIYA
+	holding = none
+}
+
+###c_jijil
+4636 = {	#JIJEL
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+}
+14434 = {	#AL_KULL
+	holding = city_holding
+}
+14432 = {	#SKIKDA
+	holding = none
+}
+
+###c_annaba
+4588 = {	#ANNABA
+	culture = baranis
+	religion = ibadi
+	holding = castle_holding
+}
+4752 = {	#IZAN
+	holding = church_holding
+}
+14333 = {	#Bab Zana
+	holding = none
+}
+
+##d_kroumerie ###################################
+###c_constantine
+4631 = {	#CONSTANTINE
+	culture = baranis
+	religion = ibadi
+	holding = castle_holding
+}
+4632 = {	#TIJIS
+	#holding = none
+}
+4630 = {	#QALAMA
+	#holding = none
+}
+
+###c_satif
+4639 = {	#SATIF
+	culture = baranis
+	religion = najdat
+	holding = castle_holding
+}
+14331 = {	#KABUNA
+	holding = city_holding
+}
+14435 = {	#TARFALA
+	holding = none
+}
+
+###c_ikjan
+4638 = {	#IKJAN
+	culture = baranis
+	religion = najdat
+	holding = castle_holding
+}
+4635 = {	#MILA_SATIF
+	holding = city_holding
+}
+14433 = {	#JEMILA
+	holding = none
+}
+
+###c_bilizma
+4634 = {	#BILIZMA
+	culture = baranis
+	religion = ibadi
+	holding = castle_holding
+
+	# History
+	1066.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+4643 = {	#NGAOUS
+	holding = church_holding
+	
+	# History
+	1057.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+14332 = {	#BATNA
+	holding = none
+}
+
+###c_kroumerie
+4628 = {	#TIFASH
+	culture = baranis
+	religion = ibadi
+	holding = castle_holding
+}
+4629 = {	#TABURSHIQ
+	#holding = none
+}
+4590 = {	#SIQQABANARIYA
+	#holding = none
+}
+
+###c_baghaya
+4627 = {	#BAGHAYA
+	culture = baranis
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1060.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+	1070.1.1 = {
+		religion = ashari
+		culture = maghrebi
+	}
+}
+14428 = {	#WADI_NINI
+	#holding = none
+}
+14429 = {	#FAJJ-AL-QASR
+	holding = city_holding
+	
+	# History
+	1060.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+4620 = {	#QASR-AL-IFRIQI
+	#holding = none
+}
+
+##d_gabes ###################################
+###c_gabes
+4573 = {	#GABES
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+}
+4574 = {	#AL HAMMA
+	holding = city_holding
+}
+14339 = {	#Sumata
+	holding = none
+}
+
+###c_sfax
+4575 = {	#SFAX
+	culture = baranis
+	religion = ashari
+	holding = castle_holding
+}
+4576 = {	#EL_JEM
+	holding = city_holding
+}
+
+###c_mahdiya
+4578 = {	#MAHDIYA
+	culture = maghrebi
+	religion = ashari
+	holding = castle_holding
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_01
+			barracks_01
+			#plantations_01
+		}
+	}
+}
+4577 = {	#SLAKTA
+	holding = none
+}
+14413 = {	#ROUGGA
+	holding = church_holding
+}
+
+###c_mahdiya
+4580 = {	#SUSA
+	culture = maghrebi
+	religion = ashari
+	holding = castle_holding
+}
+4579 = {	#MONASTIR
+	holding = city_holding
+}
+14414 = {	#AHRIKILIYA
+	holding = none
+}
+
+##d_jerid ###################################
+###c_qashtiliya
+4601 = {	#TOZEUR
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+4600 = {	#TAQYUS
+	holding = city_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+4602 = {	#HAMMA
+	holding = none
+}
+4603 = {	#NAFTA
+	holding = church_holding
+	
+	# History
+	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+
+###c_souf
+4604 = {	#SOUF
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1062.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+4605 = {	#DOUZ
+	holding = none
+}
+14338 = {	#Bishri
+	holding = none
+}
+
+###c_bir_amir
+4572 = {	#BIR AMIR
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1062.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+6321 = {	#SINAWIN
+	holding = none
+}
+
+##d_tripolitania ###################################
+###c_tripolitana
+4557 = {	#LIBTRIPOLI
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+}
+4568 = {	#SABRATHA
+	holding = city_holding
+}
+14345 = {	#MANU
+	holding = none
+}
+
+###c_yefren
+4569 = {	#TAMAZDA
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+}
+4558 = {	#TIRI
+	holding = none
+}
+4559 = {	#DJADO_JAFARA
+	holding = church_holding
+	
+	# History
+	1066.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+
+###c_djerba
+4562 = {	#JERBA
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1066.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+4565 = {	#JARJIS
+	holding = church_holding
+	
+	# History
+	1066.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+4566 = {	#BUGHRARA
+	holding = city_holding
+	
+	# History
+	1066.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+14341 = {	#Medenin
+	holding = none
+}
+
+###c_jafara
+4561 = {	#ZUWARA
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1066.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+14343 = {	#Tittawin
+	holding = none
+}
+
+###c_demmer
+14342 = {	#Tamulast
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+}
+4560 = {	#NALUT
+	holding = none
+}
+4567 = {	#FURSATA
+	holding = none
+}
+
+##d_syrte ###################################
+###c_syrte
+4552 = {	# 4552 - SYRTE
+	culture = butr
+	#culture = zanata
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+	1055.1.1 = {
+		culture = maghrebi
+		religion = ashari
+	}
+}
+4550 = {	#AL_ALGHAILA
+	holding = none
+}
+14347 = {	#Maghmadas
+	holding = city_holding
+	
+	# History
+	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+
+###c_labda
+4556 = {	#LABDA
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+4554 = {	#TAWURGHA
+	holding = church_holding
+	
+	# History
+	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+4555 = {	#MISURATA
+	holding = city_holding
+	
+	# History
+	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = none
+	}
+}
+
+###c_waddan
+4563 = {	#WADDAN
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+4564 = {	#TINNAI
+	holding = none
+}
+8984 = {	#TEMEDD
+	holding = none
+}
+14346 = {	#Sukna
+	holding = none
+}
+
+###c_tajrift
+4553 = {	#TAJRIFT
+	culture = butr
+	religion = ibadi
+	holding = castle_holding
+	
+	# History
+	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
+		holding = tribal_holding
+	}
+}
+8983 = {	#JUFRA
+	holding = none
+}
+14349 = {	#Wadi_farigh
+	holding = none
+}

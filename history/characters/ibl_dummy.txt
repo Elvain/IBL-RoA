@@ -1,0 +1,99 @@
+﻿#father_dummy0001 = {
+#	name = "dummy"
+#	dynasty = 1069092
+#	religion = muwalladi
+#	culture = baranis
+#	1999.1.1 = {
+#		birth = yes
+#	}
+#	2222.1.1 = {
+#		death = yes
+#	}
+#}
+#dummy0001 = {
+#	name = "dummy"
+#	dynasty_house = house_razinid
+#	religion = muwalladi
+#	culture = baranis
+#	father = father_dummy0001
+#	2000.1.1 = {
+#		birth = yes
+#	}
+#	2000.1.1 = {
+#		death = yes
+#	}
+#}
+#father_dummy0002 = {
+#	name = "dummy"
+#	dynasty = butr_zanata
+#	religion = muwalladi
+#	culture = baranis
+#	1999.1.1 = {
+#		birth = yes
+#	}
+#	2222.1.1 = {
+#		death = yes
+#	}
+#}
+#dummy0002 = {
+#	name = "dummy"
+#	dynasty_house = house_ifrinid
+#	religion = muwalladi
+#	culture = baranis
+#	father = father_dummy0002
+#	2000.1.1 = {
+#		birth = yes
+#	}
+#	2000.1.1 = {
+#		death = yes
+#	}
+#}
+dummy0003 = {
+	name = "dummy"
+	dynasty = zanata_rashid
+	religion = muwalladi
+	culture = baranis
+	2000.1.1 = {
+		birth = yes
+	}
+	2000.1.1 = {
+		death = yes
+	}
+}
+#father_dummy0004 = {
+#	name = "dummy"
+#	dynasty = butr_zanata
+#	religion = muwalladi
+#	culture = baranis
+#	1999.1.1 = {
+#		birth = yes
+#	}
+#	2222.1.1 = {
+#		death = yes
+#	}
+#}
+#dummy0004 = {
+#	name = "dummy"
+#	dynasty_house = house_miknasid
+#	religion = muwalladi
+#	culture = baranis
+#	father = father_dummy004
+#	2000.1.1 = {
+#		birth = yes
+#	}
+#	2000.1.1 = {
+#		death = yes
+#	}
+#}
+dummy0005 = {
+	name = "dummy"
+	dynasty = zarma_tellem
+	religion = muwalladi
+	culture = baranis
+	2000.1.1 = {
+		birth = yes
+	}
+	2000.1.1 = {
+		death = yes
+	}
+}

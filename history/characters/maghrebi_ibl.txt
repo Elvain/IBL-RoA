@@ -1,0 +1,99 @@
+﻿maghrebi001 = {
+	name = "Sulayman"
+	dynasty = maghrebi_sulaymanid
+	religion = ashari
+	trait = sayyid
+	culture = maghrebi
+	father = 33928
+	735.9.22 = {
+		birth = yes
+	}
+	814.3.18 = {
+		death = yes
+	}
+}
+
+maghrebi002 = {
+	name = "Muhammad"
+	dynasty = maghrebi_sulaymanid
+	religion = ashari
+	trait = sayyid
+	culture = maghrebi
+	father = maghrebi001
+	767.1.1 = {
+		birth = yes
+	}
+	828.1.11 = {
+		death = yes
+	}
+}
+maghrebi003 = {
+	name = "Isa"
+	dynasty = maghrebi_sulaymanid
+	religion = ashari
+	trait = sayyid
+	culture = maghrebi
+	father = maghrebi002
+	796.1.1 = {
+		birth = yes
+	}
+	854.1.11 = {
+		death = yes
+	}
+}
+maghrebi004 = {
+	name = "Ahmad"
+	dynasty = maghrebi_sulaymanid
+	religion = ashari
+	trait = sayyid
+	culture = maghrebi
+	father = maghrebi002
+	799.1.1 = {
+		birth = yes
+	}
+	870.1.11 = {
+		death = yes
+	}
+}
+maghrebi005 = {
+	name = "Idris"
+	dynasty = maghrebi_sulaymanid
+	religion = ashari
+	trait = sayyid
+	culture = maghrebi
+	father = maghrebi006
+	875.1.1 = {
+		birth = yes
+	}
+	938.1.11 = {
+		death = yes
+	}
+}
+maghrebi006 = {
+	name = "Muhammad"
+	dynasty = maghrebi_sulaymanid
+	religion = ashari
+	trait = sayyid
+	culture = maghrebi
+	father = maghrebi004
+	840.1.1 = {
+		birth = yes
+	}
+	897.1.11 = {
+		death = yes
+	}
+}
+maghrebi007 = {
+	name = "al-Qasim"
+	dynasty = maghrebi_sulaymanid
+	religion = ashari
+	trait = sayyid
+	culture = maghrebi
+	father = maghrebi006
+	872.1.1 = {
+		birth = yes
+	}
+	931.1.11 = {
+		death = yes
+	}
+}

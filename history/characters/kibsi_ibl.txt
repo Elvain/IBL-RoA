@@ -1,0 +1,1160 @@
+﻿#formerly Sao characters just renamed to Kibsi
+#Kibsi characters
+
+# fictional rulers for c_wagadugu
+
+kibsi0001 = {
+	name = "Babadji"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	835.1.1 = {
+		birth = yes
+	}
+	890.1.1 = {
+		death = yes
+	}
+}
+kibsi0002 = {
+	name = "Banou"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0001
+	870.1.1 = {
+		birth = yes
+	}
+	933.1.1 = {
+		death = yes
+	}
+}
+kibsi0003 = {
+	name = "Lougue"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0002
+	915.1.1 = {
+		birth = yes
+	}
+	990.1.1 = {
+		death = yes
+	}
+}
+kibsi0004 = {
+	name = "Morba"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0003
+	973.1.1 = {
+		birth = yes
+	}
+	1050.1.1 = {
+		death = yes
+	}
+}
+kibsi0005 = {
+	name = "Diombele"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0004
+	1022.1.1 = {
+		birth = yes
+	}
+	1081.1.1 = {
+		death = yes
+	}
+}
+kibsi0006 = {
+	name = "Sinkolo"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0005
+	1062.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+kibsi0007 = {
+	name = "Djimde"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0006
+	1100.1.1 = {
+		birth = yes
+	}
+	1159.1.1 = {
+		death = yes
+	}
+}
+kibsi0008 = {
+	name = "Bar"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0007
+	1142.1.1 = {
+		birth = yes
+	}
+	1199.1.1 = {
+		death = yes
+	}
+}
+kibsi0009 = {
+	name = "Yombolba"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0008
+	1180.1.1 = {
+		birth = yes
+	}
+	1235.1.1 = {
+		death = yes
+	}
+}
+kibsi0010 = {
+	name = "Sinkolo"
+	dynasty = kibsidyn001
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0009
+	1215.1.1 = {
+		birth = yes
+	}
+	1270.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_pura
+kibsi0011 = {
+	name = "Goro" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	830.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+kibsi0012 = {
+	name = "Damango" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0011
+	865.1.1 = {
+		birth = yes
+	}
+	930.1.1 = {
+		death = yes
+	}
+}
+kibsi0013 = {
+	name = "Sinkolo" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0012
+	910.1.1 = {
+		birth = yes
+	}
+	983.1.1 = {
+		death = yes
+	}
+}
+kibsi0014 = {
+	name = "Nangole" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0013
+	960.1.1 = {
+		birth = yes
+	}
+	1035.1.1 = {
+		death = yes
+	}
+}
+kibsi0015 = {
+	name = "Nangole" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0014
+	1018.1.1 = {
+		birth = yes
+	}
+	1075.1.1 = {
+		death = yes
+	}
+}
+kibsi0016 = {
+	name = "Gana" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0015
+	1058.1.1 = {
+		birth = yes
+	}
+	1115.1.1 = {
+		death = yes
+	}
+}
+kibsi0017 = {
+	name = "Damango" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0016
+	1095.1.1 = {
+		birth = yes
+	}
+	1149.1.1 = {
+		death = yes
+	}
+}
+kibsi0018 = {
+	name = "Gana" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0017
+	1132.1.1 = {
+		birth = yes
+	}
+	1195.1.1 = {
+		death = yes
+	}
+}
+kibsi0019 = {
+	name = "Goro" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0018
+	1177.1.1 = {
+		birth = yes
+	}
+	1230.1.1 = {
+		death = yes
+	}
+}
+kibsi0020 = {
+	name = "Peliaba" #fictional
+	dynasty = kibsidyn002
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0019
+	1210.1.1 = {
+		birth = yes
+	}
+	1264.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_gueguere
+kibsi0021a = {
+	name = "Karembe" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	817.1.1 = {
+		birth = yes
+	}
+	858.1.1 = {
+		death = yes
+	}
+}
+kibsi0021f = {
+	name = "Kusure" #fictional
+	female = yes
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0021a
+	840.1.1 = {
+		birth = yes
+	}
+	897.1.1 = {
+		death = yes
+	}
+}
+kibsi0021 = {
+	name = "Djigande" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0021a
+	835.1.1 = {
+		birth = yes
+	}
+	890.1.1 = {
+		death = yes
+	}
+}
+kibsi0022 = {
+	name = "Karembe" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0021
+	870.1.1 = {
+		birth = yes
+	}
+	933.1.1 = {
+		death = yes
+	}
+}
+kibsi0023 = {
+	name = "Arama" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0022
+	915.1.1 = {
+		birth = yes
+	}
+	990.1.1 = {
+		death = yes
+	}
+}
+kibsi0024 = {
+	name = "Kamia" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0023
+	973.1.1 = {
+		birth = yes
+	}
+	1050.1.1 = {
+		death = yes
+	}
+}
+kibsi0025 = {
+	name = "Lougue" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0024
+	1022.1.1 = {
+		birth = yes
+	}
+	1081.1.1 = {
+		death = yes
+	}
+}
+kibsi0026f = {
+	name = "Deye" #fictional
+	female = yes
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0025
+	1046.1.1 = {
+		birth = yes
+	}
+	1099.1.1 = {
+		death = yes
+	}
+}
+kibsi0026 = {
+	name = "Pergourou" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0025
+	1062.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+kibsi0027 = {
+	name = "Bamadio" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0026
+	1100.1.1 = {
+		birth = yes
+	}
+	1159.1.1 = {
+		death = yes
+	}
+}
+kibsi0028 = {
+	name = "Lougue" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0027
+	1142.1.1 = {
+		birth = yes
+	}
+	1199.1.1 = {
+		death = yes
+	}
+}
+kibsi0029 = {
+	name = "Morba" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0028
+	1180.1.1 = {
+		birth = yes
+	}
+	1235.1.1 = {
+		death = yes
+	}
+}
+kibsi0030 = {
+	name = "Lougue" #fictional
+	dynasty = kibsidyn003
+	religion = west_african_pagan
+	culture = kibsi
+	father = kibsi0029
+	1215.1.1 = {
+		birth = yes
+	}
+	1270.1.1 = {
+		death = yes
+	}
+}
+
+##unused characters
+#fictional rulers for c_garoua
+#
+#kibsi0041 = {
+#	name = "Sikam" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	830.1.1 = {
+#		birth = yes
+#	}
+#	893.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0042 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0041
+#	862.1.1 = {
+#		birth = yes
+#	}
+#	918.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0043 = {
+#	name = "Dobidia" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0042
+#	895.1.1 = {
+#		birth = yes
+#	}
+#	968.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0044 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0043
+#	950.1.1 = {
+#		birth = yes
+#	}
+#	1025.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0045 = {
+#	name = "Lougue" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0044
+#	1005.1.1 = {
+#		birth = yes
+#	}
+#	1066.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0046 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0045
+#	1042.1.1 = {
+#		birth = yes
+#	}
+#	1097.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0047 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0046
+#	1080.1.1 = {
+#		birth = yes
+#	}
+#	1146.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0048 = {
+#	name = "Lougue" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0047
+#	1115.1.1 = {
+#		birth = yes
+#	}
+#	1173.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0049 = {
+#	name = "Sikam" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0048
+#	1154.1.1 = {
+#		birth = yes
+#	}
+#	1210.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0050 = {
+#	name = "Sikam" #fictional
+#	dynasty = kibsidyn005
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0049
+#	1186.1.1 = {
+#		birth = yes
+#	}
+#	1244.1.1 = {
+#		death = yes
+#	}
+#}
+#
+##fictional rulers of c_kotoko
+#kibsi0051 = {
+#	name = "Diombele" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	815.1.1 = {
+#		birth = yes
+#	}
+#	880.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0052 = {
+#	name = "Dobidiayaho" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0051
+#	841.1.1 = {
+#		birth = yes
+#	}
+#	902.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0053 = {
+#	name = "Karembe" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0052
+#	884.1.1 = {
+#		birth = yes
+#	}
+#	953.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0054 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0053
+#	930.1.1 = {
+#		birth = yes
+#	}
+#	1008.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0055 = {
+#	name = "Karembe" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0054
+#	990.1.1 = {
+#		birth = yes
+#	}
+#	1050.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0056 = {
+#	name = "Diombele" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0055
+#	1033.1.1 = {
+#		birth = yes
+#	}
+#	1094.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0057 = {
+#	name = "Peliaba" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0056
+#	1077.1.1 = {
+#		birth = yes
+#	}
+#	1140.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0058 = {
+#	name = "Dobidiayaho" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0057
+#	1120.1.1 = {
+#		birth = yes
+#	}
+#	1181.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0059 = {
+#	name = "Peliaba" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0058
+#	1159.1.1 = {
+#		birth = yes
+#	}
+#	1216.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0060 = {
+#	name = "Diombele" #fictional
+#	dynasty = kibsidyn006
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0059
+#	1193.1.1 = {
+#		birth = yes
+#	}
+#	1254.1.1 = {
+#		death = yes
+#	}
+#}
+#
+##fictional rulers for c_masa and c_kuku
+#kibsi0061 = {
+#	name = "Peliaba" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	835.1.1 = {
+#		birth = yes
+#	}
+#	890.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0062 = {
+#	name = "Diombele" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0061
+#	870.1.1 = {
+#		birth = yes
+#	}
+#	933.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0063 = {
+#	name = "Peliaba" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0062
+#	915.1.1 = {
+#		birth = yes
+#	}
+#	990.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0064 = {
+#	name = "Dobidia" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0063
+#	973.1.1 = {
+#		birth = yes
+#	}
+#	1050.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0065 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0064
+#	1022.1.1 = {
+#		birth = yes
+#	}
+#	1081.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0066 = {
+#	name = "Peliaba" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0065
+#	1062.1.1 = {
+#		birth = yes
+#	}
+#	1120.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0067 = {
+#	name = "Peliaba" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0066
+#	1100.1.1 = {
+#		birth = yes
+#	}
+#	1159.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0068 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0067
+#	1142.1.1 = {
+#		birth = yes
+#	}
+#	1199.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0069 = {
+#	name = "Dobidia" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0068
+#	1180.1.1 = {
+#		birth = yes
+#	}
+#	1235.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0070 = {
+#	name = "Tanamwir" #fictional
+#	dynasty = kibsidyn007
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0069
+#	1215.1.1 = {
+#		birth = yes
+#	}
+#	1270.1.1 = {
+#		death = yes
+#	}
+#}
+#
+##fictional rulers for c_tumak and c_dar_rashid
+#kibsi0071 = {
+#	name = "Dwiyongi" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	842.1.1 = {
+#		birth = yes
+#	}
+#	898.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0072 = {
+#	name = "Biyan" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0071
+#	880.1.1 = {
+#		birth = yes
+#	}
+#	950.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0073 = {
+#	name = "Biyan" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0072
+#	925.1.1 = {
+#		birth = yes
+#	}
+#	1000.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0074 = {
+#	name = "Sinkolo" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0073
+#	980.1.1 = {
+#		birth = yes
+#	}
+#	1035.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0075 = {
+#	name = "Dwiyongi" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0074
+#	1015.1.1 = {
+#		birth = yes
+#	}
+#	1070.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0076 = {
+#	name = "Sinkolo" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0075
+#	1045.1.1 = {
+#		birth = yes
+#	}
+#	1098.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0077 = {
+#	name = "Mahama" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0076
+#	1072.1.1 = {
+#		birth = yes
+#	}
+#	1133.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0078 = {
+#	name = "Mahama" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0077
+#	1099.1.1 = {
+#		birth = yes
+#	}
+#	1163.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0079 = {
+#	name = "Sinkolo" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0078
+#	1132.1.1 = {
+#		birth = yes
+#	}
+#	1195.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0080 = {
+#	name = "Biyan" #fictional
+#	dynasty = kibsidyn008
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0079
+#	1168.1.1 = {
+#		birth = yes
+#	}
+#	1221.1.1 = {
+#		death = yes
+#	}
+#}
+#
+##rulers in c_kagha and c_fika
+#kibsi0081 = {
+#	name = "Lougue" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	850.1.1 = {
+#		birth = yes
+#	}
+#	912.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0082 = {
+#	name = "Arama" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0081
+#	895.1.1 = {
+#		birth = yes
+#	}
+#	970.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0083 = {
+#	name = "Arama" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0082
+#	952.1.1 = {
+#		birth = yes
+#	}
+#	1025.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0084 = {
+#	name = "Djigande" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0083
+#	1000.1.1 = {
+#		birth = yes
+#	}
+#	1060.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0085 = {
+#	name = "Dylm" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0084
+#	1038.1.1 = {
+#		birth = yes
+#	}
+#	1095.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0086 = {
+#	name = "Lougue" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0085
+#	1065.1.1 = {
+#		birth = yes
+#	}
+#	1127.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0087 = {
+#	name = "Wumborja" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0086
+#	1098.1.1 = {
+#		birth = yes
+#	}
+#	1158.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0088 = {
+#	name = "Djigande" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0087
+#	1135.1.1 = {
+#		birth = yes
+#	}
+#	1189.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0089 = {
+#	name = "Arama" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0088
+#	1173.1.1 = {
+#		birth = yes
+#	}
+#	1228.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0090 = {
+#	name = "Wumborja" #fictional
+#	dynasty = kibsidyn009
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0089
+#	1207.1.1 = {
+#		birth = yes
+#	}
+#	1269.1.1 = {
+#		death = yes
+#	}
+#}
+#
+##rulers in c_yau before if became Kanuri
+#kibsi0091 = {
+#	name = "Damango" #fictional
+#	dynasty = kibsidyn010
+#	religion = west_african_pagan
+#	culture = kibsi
+#	837.1.1 = {
+#		birth = yes
+#	}
+#	894.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0092 = {
+#	name = "Goro" #fictional
+#	dynasty = kibsidyn010
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0091
+#	876.1.1 = {
+#		birth = yes
+#	}
+#	950.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0093 = {
+#	name = "Yombolba" #fictional
+#	dynasty = kibsidyn010
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0092
+#	925.1.1 = {
+#		birth = yes
+#	}
+#	993.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0094 = {
+#	name = "Yombolba" #fictional
+#	dynasty = kibsidyn010
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0093
+#	975.1.1 = {
+#		birth = yes
+#	}
+#	1040.1.1 = {
+#		death = yes
+#	}
+#}
+#kibsi0095 = {
+#	name = "Damango" #fictional
+#	dynasty = kibsidyn010
+#	religion = west_african_pagan
+#	culture = kibsi
+#	father = kibsi0094
+#	1018.1.1 = {
+#		birth = yes
+#	}
+#	1073.1.1 = {
+#		death = yes
+#	}
+#}

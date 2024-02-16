@@ -1,0 +1,387 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+#BRITAIN
+13;1690;sea;1019;-1;-1;-1;-1;Slemish-Arran
+14;1684;sea;699;-1;-1;-1;-1;Carrickfergus-Wigtown
+35;1691;sea;696;-1;-1;-1;-1;Mull-Ardnamurchon
+1504;1515;river_large;628;-1;-1;-1;-1;Rochester-Maldon
+1527;1526;river_large;629;-1;-1;-1;-1;London-Southwark
+1546;1549;sea;966;-1;-1;-1;-1;Portsmouth-Carisbrooke
+1667;1673;sea;1019;-1;-1;-1;-1;Caernarfon-Yns Mon
+1684;1699;sea;1019;-1;-1;-1;-1;Wigtown-Ramsey
+1692;1693;sea;992;-1;-1;-1;-1;Skye-Lewis
+1692;1694;sea;696;-1;-1;-1;-1;Skye-Uists
+1693;1694;sea;992;-1;-1;-1;-1;Lewis-Uists
+1690;1689;sea;700;-1;-1;-1;-1;Arran-Islay
+1689;1691;sea;700;-1;-1;-1;-1;Islay-Mull
+1707;8;sea;693;-1;-1;-1;-1;Thurso-Kirkwall
+1711;1692;sea;696;-1;-1;-1;-1;Glenfinnan-Skye
+#IBERIA
+1748;1839;river_large;3250;-1;-1;-1;-1;Faor-Ayamonte
+1833;1835;river_large;3252;-1;-1;-1;-1;Zalaca-Badajoz
+1845;4682;sea;954;-1;-1;-1;-1;Algeciras-Sabta
+1979;1995;river_large;3253;-1;-1;-1;-1;Cabra-Cordoba
+1981;1993;river_large;3253;-1;-1;-1;-1;Seville-Triana
+#FRANCE
+2016;2017;river_large;3247;-1;-1;-1;-1;Nimes-Arles
+2142;2144;river_large;3224;-1;-1;-1;-1;Bordeaux-Blaye
+2261;2267;river_large;3227;-1;-1;-1;-1;Saumur-Angers
+2175;2179;river_large;3234;-1;-1;-1;-1;Harcourt-Rouen
+2151;2152;river_large;3226;-1;-1;-1;-1;Rais-Nantes
+2332;2181;river_large;3236;-1;-1;-1;-1;Montfort-Mantes
+2333;2357;river_large;3236;-1;-1;-1;-1;Paris-Saint-Denis
+#GERMANY
+2113;2401;sea;3230;-1;-1;-1;-1;Bergen op Zoom-Brielle
+2402;2401;sea;3230;-1;-1;-1;-1;Dort-Brielle
+2425;2103;river_large;3231;-1;-1;-1;-1;Tiel-Nijmegen
+2101;2677;river_large;3231;-1;-1;-1;-1;Moers-Essen
+2407;2412;sea;973;-1;-1;-1;-1;Aalkmar-Wadeilannen
+2413;2412;sea;973;-1;-1;-1;-1;Leeuwarden-Wadeilannen
+2802;2803;river_large;3237;-1;-1;-1;-1;Hamburg-Buxtehude
+2814;2899;river_large;3239;-1;-1;-1;-1;Havelberg-Weben
+#ITALY
+2489;2491;river_large;3245;-1;-1;-1;-1;Roncaglia-Cremona
+2497;2530;river_large;3244;-1;-1;-1;-1;Mantua-Guastalla
+2525;2527;river_large;3243;-1;-1;-1;-1;Rovigo-Ferrara
+2627;2633;sea;8653;-1;-1;-1;-1;Reggio-Messina
+2652;2658;sea;8637;-1;-1;-1;-1;Bonifacio-Olbia
+#SCANDINAVIA
+55;81;sea;1001;-1;-1;-1;-1;Lindholm-Aalborg
+227;228;sea;999;-1;-1;-1;-1;Taulov-Middelfart
+64;67;sea;999;-1;-1;-1;-1;Naestved-Nykobing
+65;69;sea;999;-1;-1;-1;-1;Odense-Slagelse
+66;68;sea;999;-1;-1;-1;-1;Svendborg-Nakskov
+67;68;sea;999;-1;-1;-1;-1;Nykobing-Nakskov
+73;433;sea;999;-1;-1;-1;-1;Helsingborg-Helsingora
+180;216;sea;1005;-1;-1;-1;-1;Rauma-Sund
+270;272;sea;986;-1;-1;-1;-1;Nidaros-Hitrar
+307;314;sea;1003;-1;-1;-1;-1;Kalmar-Borgholm
+344;217;sea;1005;-1;-1;-1;-1;Osthammar-Jomala
+341;336;sea;959;-1;-1;-1;-1;Sigtuna-Tälje
+257;256;river_large;8559;-1;-1;-1;-1;Mithrhordaland-Sunnhordaland
+262;263;river_large;8558;-1;-1;-1;-1;Stolsheimen-Fjarland
+#BALTICS
+89;90;sea;632;-1;-1;-1;-1;Maasilinna-Muhu
+89;91;sea;639;-1;-1;-1;-1;Maasilinna-Hiiumaa
+92;91;sea;646;-1;-1;-1;-1;Haapsalu-Hiiumaa
+93;90;sea;632;-1;-1;-1;-1;Lihula-Muhu
+110;88;sea;639;-1;-1;-1;-1;Piltene-Kuressaare
+104;108;river_large;3241;-1;-1;-1;-1;Riga-Ikskila
+137;150;river_large;1081;-1;-1;-1;-1;Duagavpils-Oknist
+#POLAND
+2830;2831;river_large;1052;-1;-1;-1;-1;Danzig-Wislana
+4921;3198;river_large;1053;-1;-1;-1;-1;Bydgoszcz-Chelmno(Kulm)
+4919;4922;river_large;1053;-1;-1;-1;-1;Wloclawek-Dobrzyn
+4940;529;river_large;1053;-1;-1;-1;-1;Gostynin-Plock
+530;4939;river_large;1055;-1;-1;-1;-1;Czersk-Garwolin
+#WALLACHIA
+4997;508;river_large;1059;-1;-1;-1;-1;Calarasi-Silistra
+514;507;river_large;1060;-1;-1;-1;-1;Turnu-Nikopolis
+516;3667;river_large;1061;-1;-1;-1;-1;Severin-Klodovo
+# HUNGARY
+3803;522;river_large;1066;-1;-1;-1;-1;Visegrad-Pest
+3805;3807;river_large;1066;-1;-1;-1;-1;Szekesfehevar-Kalocsa
+3808;3976;river_large;1066;-1;-1;-1;-1;Esztergom-Bény
+3809;3916;river_large;1067;-1;-1;-1;-1;Komárom-Bátorkeszi
+3610;518;river_large;8560;-1;-1;-1;-1;Vakovo-Bacs
+#GREECE
+472;3710;sea;1038;-1;-1;-1;-1;Buthrothum-Corfu
+3701;474;sea;1037;-1;-1;-1;-1;Vonitsa-Cephalonia
+474;3696;sea;1037;-1;-1;-1;-1;Cephalonia-Zakynthos
+3727;3726;sea;942;-1;-1;-1;-1;Boudounitsa-Oreoi
+485;3730;sea;942;-1;-1;-1;-1;Chalkis-Thebes
+3755;3756;sea;942;-1;-1;-1;-1;Andros-Tinos
+484;3756;sea;942;-1;-1;-1;-1;Naxos-Tinos
+484;3757;sea;1017;-1;-1;-1;-1;Naxos-Thera
+488;3725;sea;8666;-1;-1;-1;-1;Demetrias-Skopelos
+3726;3725;sea;942;-1;-1;-1;-1;Oreoi-Skopelos
+3740;3741;sea;936;-1;-1;-1;-1;Kos-Lindos
+3741;3742;sea;8661;-1;-1;-1;-1;Lindos-Karpathos
+3751;487;sea;1111;-1;-1;-1;-1;Alexandria Troas-Mytilene
+3767;3769;sea;8665;-1;-1;-1;-1;Alexandria Xanthia-Thasos
+495;3749;sea;947;-1;-1;-1;-1;Kalliopolis-Lampsakos
+496;5565;sea;947;-1;-1;-1;-1;Constantinople-Chalcedon
+#BALKANS
+464;459;sea;8650;-1;-1;-1;-1;Senj-Krk
+459;2521;sea;8650;-1;-1;-1;-1;Krk-Cres
+3555;3556;sea;1109;-1;-1;-1;-1;Mokro-Hvar
+3556;3569;sea;1109;-1;-1;-1;-1;Hvar-Ston
+#RUSSIA
+169;170;river_large;1006;-1;-1;-1;-1;Nyen-Pähkinälinna
+552;5116;river_large;1079;-1;-1;-1;-1;Turov-Mikashevichy
+5095;5122;river_large;1083;-1;-1;-1;-1;Chornobyl-Rechytsa
+5135;5134;river_large;1082;-1;-1;-1;-1;Haradok-Vitebsk
+5129;5131;river_large;3242;-1;-1;-1;-1;Polotsk-Myory
+5138;5154;river_large;1085;-1;-1;-1;-1;Ladoga-Kirishi
+5137;5254;river_large;8569;-1;-1;-1;-1;Novgorod-Svolensk
+5143;5162;river_large;8570;-1;-1;-1;-1;Rusa-Kholm
+5161;5151;river_large;1087;-1;-1;-1;-1;Luki-Nevel
+5160;193;river_large;8571;-1;-1;-1;-1;Podporozhye-Aunus
+5171;5164;river_large;1106;-1;-1;-1;-1;Andreapol-Torzhok
+5173;5164;river_large;8578;-1;-1;-1;-1;Tver-Torzhok
+5173;5175;river_large;8578;-1;-1;-1;-1;Tver-Kashin
+572;5176;river_large;1105;-1;-1;-1;-1;Yaroslavl-Mologa
+5247;5251;river_large;8580;-1;-1;-1;-1;Plyos-Kostroma
+584;585;river_large;1098;-1;-1;-1;-1;NizhnyNovgorod-Gorodets
+584;5235;river_large;8574;-1;-1;-1;-1;NizhnyNovgorod-Pavlovo
+5253;580;river_large;1102;-1;-1;-1;-1;VaskinaPolyana-Ryazan
+5253;5228;river_large;1099;-1;-1;-1;-1;VaskinaPolyana-PereyaslavlRyazanski
+5238;5228;river_large;1099;-1;-1;-1;-1;Yegoryevsk-PereyaslavlRyazanski
+587;5218;river_large;1104;-1;-1;-1;-1;Mozhaysk-Suvorov
+5204;5208;river_large;1074;-1;-1;-1;-1;Trubetsk-Lokot
+5221;568;river_large;1078;-1;-1;-1;-1;Gnezdovo-Smolensk
+5119;5225;river_large;8565;-1;-1;-1;-1;Babruysk-Cherykaw
+5201;554;river_large;1073;-1;-1;-1;-1;Unenezh-Chernigov
+5122;554;river_large;1077;-1;-1;-1;-1;Rechytsa-Chernigov
+547;554;river_large;8564;-1;-1;-1;-1;Kiev-Chernigov
+547;555;river_large;1072;-1;-1;-1;-1;Kiev-Pereyaslavl
+#BJARMALAND
+5156;5816;river_large;1101;-1;-1;-1;-1;Beloozero-Ostrov
+5157;5824;river_large;8579;-1;-1;-1;-1;Cherepovets-Vologda
+572;5828;river_large;1098;-1;-1;-1;-1;Yaroslavl-Vyatskoye
+5798;5799;river_large;5855;-1;-1;-1;-1;Kholmogory-Arkhangelsk
+5840;5841;river_large;5857;-1;-1;-1;-1;Kotlas-Usyorga
+#PONTIC STEPPE
+5268;512;river_large;1056;-1;-1;-1;-1;Odessa-Cetatea Alba
+5257;5021;river_large;1057;-1;-1;-1;-1;Ladyzyn-Soroca
+5263;5189;river_large;1071;-1;-1;-1;-1;Cherkassy-Voin
+5274;557;river_large;8563;-1;-1;-1;-1;Dnipro-Khortytsia
+5269;558;river_large;1070;-1;-1;-1;-1;Kherson-Oleshye
+562;598;sea;8670;-1;-1;-1;-1;Kerch-Tmutarkan (Kerch strait)
+5291;595;river_large;8584;-1;-1;-1;-1;Siyahtepe-Sarysyn
+5290;607;river_large;1090;-1;-1;-1;-1;Golden Hills-Sarkel
+596;597;river_large;8585;-1;-1;-1;-1;Tana-Azov
+604;620;river_large;1092;-1;-1;-1;-1;Khazaran-Itil
+595;619;river_large;1093;-1;-1;-1;-1;Sarysyn-Saray
+#VOLGA BULGARIA
+588;590;river_large;1097;-1;-1;-1;-1;Yoshkar-Ola-Cheboksary
+614;611;river_large;8581;-1;-1;-1;-1;Ashli-Kazan
+614;610;river_large;1096;-1;-1;-1;-1;Ashli-Bolghar
+5411;609;river_large;8582;-1;-1;-1;-1;Banja-Sumar
+592;5347;river_large;1103;-1;-1;-1;-1;Saratov-Engels
+593;5287;river_large;1090;-1;-1;-1;-1;Khopyor-Kazanskaya
+610;5397;river_large;8577;-1;-1;-1;-1;Bolghar-Kashan
+5408;5403;river_large;5510;-1;-1;-1;-1;Yar Calli-Elabuga
+886;5450;river_large;5511;-1;-1;-1;-1;Perm-Nytva
+#CANARIAS
+849;8713;sea;8622;-1;-1;-1;-1;GranCanaria-Tenerife
+849;8714;sea;8622;-1;-1;-1;-1;GranCanaria-Fuerteventura
+8714;8715;sea;8622;-1;-1;-1;-1;Fuerteventura-Lanzarote
+#EGYPT
+6043;6047;river_large;6026;-1;-1;-1;-1;Daqahla-Samannud
+6042;6057;river_large;6028;-1;-1;-1;-1;Cairo-Gizeh
+6049;6054;river_large;6027;-1;-1;-1;-1;Nastarawa-Damanhur
+6063;6064;river_large;6028;-1;-1;-1;-1;Al-Bahnasa-Ihrit
+6067;6068;river_large;6029;-1;-1;-1;-1;Al-Ushmunain-Ansina
+6070;6071;river_large;6029;-1;-1;-1;-1;Asyut-Bawit
+6077;6078;river_large;6125;-1;-1;-1;-1;Qus-Armant
+#SUB-SAHARAN AFRICA
+8115;8087;river_large;8092;-1;-1;-1;-1;Bonny-Nembe
+8086;8111;river_large;8093;-1;-1;-1;-1;Ode Itseriki-Onitsha
+8085;6548;river_large;8094;-1;-1;-1;-1;Kyadya-Bida
+6553;6915;river_large;6796;-1;-1;-1;-1;Yauri-Kaoje
+6570;6714;river_large;6796;-1;-1;-1;-1;Rozi-Pekinga
+6577;6579;river_large;6794;-1;-1;-1;-1;Gao-Koima
+6608;6670;river_large;6793;-1;-1;-1;-1;Kabara-Bangu
+6620;6647;river_large;6791;-1;-1;-1;-1;Mara-Kaniana
+#MESOPOTAMIA
+4822;4823;river_large;6127;-1;-1;-1;-1;Kaskar-An-Numaniya
+4797;4824;river_large;6126;-1;-1;-1;-1;Iskaf-Humaniya
+6008;6021;river_large;6128;-1;-1;-1;-1;Nahr Simmara-Matara Iraq
+#ARABIA
+6157;6156;sea;1394;-1;-1;-1;-1;Al-Khatt-Uwal
+6150;6156;sea;1394;-1;-1;-1;-1;Murwab-Uwal
+4186;4187;sea;1393;-1;-1;-1;-1;Shahru-Laft (Strait of Hormuz)
+6132;4187;sea;1393;-1;-1;-1;-1;Musandam-Laft (Strait of Hormuz)
+6282;8340;sea;1385;-1;-1;-1;-1;Al-Mandab-Assab
+6282;8341;sea;1385;-1;-1;-1;-1;Al-Mandab-Awbuk
+8286;8280;sea;8673;-1;-1;-1;-1;Buri-Dahlak Kebir
+#INDIA
+1295;3355;sea;1397;-1;-1;-1;-1;Kanthakota-Morvi
+1297;3400;river_large;8681;-1;-1;-1;-1;Debul-Sauvira
+1138;1175;river_large;1308;-1;-1;-1;-1;Bhakkar-Aror
+1339;3408;river_large;1309;-1;-1;-1;-1;Rajanpur-Chachran
+1340;3417;river_large;8588;-1;-1;-1;-1;Karor-Dera Ghazi Khan
+1178;3410;river_large;8590;-1;-1;-1;-1;Karur-Askhanda
+3421;3423;river_large;8591;-1;-1;-1;-1;Pancapura-Abohar
+1127;3383;river_large;8593;-1;-1;-1;-1;Akruresvara-Navasarika
+1262;1194;river_large;8594;-1;-1;-1;-1;Thalner-Sindkheda
+7910;7913;river_large;8598;-1;-1;-1;-1;Palwancha-Bhadracala
+1123;7916;river_large;8597;-1;-1;-1;-1;Vengipura-Draksharama
+7836;1201;river_large;8596;-1;-1;-1;-1;Kannanur-Karavur
+7836;7807;river_large;8595;-1;-1;-1;-1;Kannanur-Uraiyur
+7836;1115;river_large;8595;-1;-1;-1;-1;Kannanur-Tanjavur
+7838;1115;river_large;8595;-1;-1;-1;-1;Nagapattinam-Tanjavur
+1319;1240;river_large;1311;-1;-1;-1;-1;Bikrampur-Fathabad
+1323;856;river_large;456;-1;-1;-1;-1;Nabadwipa-Santipura
+1243;842;river_large;456;-1;-1;-1;-1;Karnasubarna-Raktamrittika
+1243;839;river_large;1312;-1;-1;-1;-1;Karnasubarna-Rampur Boalia
+1325;848;river_large;1316;-1;-1;-1;-1;Madhupur-Somapur
+1321;815;river_large;8603;-1;-1;-1;-1;Kamarupanagara-Pragyotisapura
+1418;813;river_large;8604;-1;-1;-1;-1;Haruppeswara-Numaligarh
+837;843;river_large;1313;-1;-1;-1;-1;Gaur-Agmahl
+1154;879;river_large;1315;-1;-1;-1;-1;Pataliputra-Hajipur
+1163;1281;river_large;8602;-1;-1;-1;-1;Varanasi-Chunar
+927;931;river_large;8600;-1;-1;-1;-1;Bhubaneswar-Athgarh
+1360;8712;sea;8683;-1;-1;-1;-1;Mahal-Thiladhunmathi #Maldives
+#KUTCH
+1295;3385;sea;1397;-1;-1;-1;-1;Kanthakota-Kasara
+#HOLLAND
+2113;2112;sea;3229;-1;-1;-1;-1;Bergen op Zoom-Middelberg
+2115;2112;sea;3229;-1;-1;-1;-1;Bruges-Middelberg
+#BURMA
+10963;11521;river_large;8610;-1;-1;-1;-1;Sale-Tanyaung
+9588;10961;river_large;8609;-1;-1;-1;-1;Sriksetra-Hpo U;U
+9599;11528;river_large;8607;-1;-1;-1;-1;Dala-Pyapon
+9633;9626;river_large;8606;-1;-1;-1;-1;Myaungmya-Bogale
+9556;9568;river_large;8610;-1;-1;-1;-1;Ava-Sagaing
+10962;9563;river_large;8609;-1;-1;-1;-1;Magwe-Minbu
+11529;11060;river_large;8608;-1;-1;-1;-1;Nyaungdon-Pantanaw
+9641;9569;river_large;8611;-1;-1;-1;-1;Singu-Hanlin
+9644;10972;river_large;9886;-1;-1;-1;-1;Myataung-Katha
+9828;10661;river_large;10772;-1;-1;-1;-1;Bik-Tanangsi
+##MAINLAND SOUTHEAST ASIA
+10130;11372;river_large;11415;-1;-1;-1;-1;Chanthabuli-Nong Khai
+10140;10054;river_large;11416;-1;-1;-1;-1;Nakhon Phanom-Tha Khek
+9990;10622;river_large;10244;-1;-1;-1;-1;Kottinagara-Sadek
+10242;10621;river_large;10244;-1;-1;-1;-1;Angkor Borei-Kiri Vong
+10628;10213;river_large;10179;-1;-1;-1;-1;Longvek-Amarendrapura
+10213;11454;river_large;10245;-1;-1;-1;-1;Amarendrapura-Preah Theat Baray
+10617;10243;river_large;10245;-1;-1;-1;-1;Ugrapura-Tbong Khmum
+10220;10221;river_large;10246;-1;-1;-1;-1;Sambor Borei-Preaek Prasab
+10067;11410;river_large;11411;-1;-1;-1;-1;Pakse-Phontong
+10037;11359;river_large;11413;-1;-1;-1;-1;Sayaburi-Nan
+11363;10040;river_large;11413;-1;-1;-1;-1;Chomphet-Luang Prabang
+11515;9869;river_large;9886;-1;-1;-1;-1;Sinbo-Banmaw
+10180;10181;river_large;11598;-1;-1;-1;-1;Thonburi-Phra Pradaeng
+10183;10184;river_large;11598;-1;-1;-1;-1;Ayutthaya-Wiset Chai Chan
+11565;10185;river_large;11598;-1;-1;-1;-1;Singhapura-Lavapura
+10085;11255;river_large;11599;-1;-1;-1;-1;Tak-Wang Prachop
+11258;11259;river_large;11600;-1;-1;-1;-1;Hang Dong-Pak Bong
+10057;10143;river_large;11417;-1;-1;-1;-1;Khantabouli-Mukdahan
+# CHINA AND SOUTHEAST ASIA
+9976;10831;river_large;13043;-1;-1;-1;-1;Comment
+9967;9956;river_large;13043;-1;-1;-1;-1;Comment
+10867;10783;river_large;13043;-1;-1;-1;-1;Comment
+10867;9981;river_large;13043;-1;-1;-1;-1;Comment
+9974;10872;river_large;13043;-1;-1;-1;-1;Comment
+10866;10830;river_large;13047;-1;-1;-1;-1;Comment
+10840;9963;river_large;13047;-1;-1;-1;-1;Comment
+9954;10877;river_large;13052;-1;-1;-1;-1;Comment
+11347;11346;river_large;13052;-1;-1;-1;-1;Comment
+12775;12731;river_large;13056;-1;-1;-1;-1;Comment
+12822;12780;river_large;13056;-1;-1;-1;-1;Comment
+12786;12860;river_large;13057;-1;-1;-1;-1;Comment
+12786;12784;river_large;13057;-1;-1;-1;-1;Comment
+12545;12523;river_large;13002;-1;-1;-1;-1;Comment
+12347;12306;river_large;12998;-1;-1;-1;-1;Comment
+12326;12288;river_large;12997;-1;-1;-1;-1;Comment
+12281;12229;river_large;12997;-1;-1;-1;-1;Comment
+12281;12274;river_large;13052;-1;-1;-1;-1;Comment
+12281;12224;river_large;13052;-1;-1;-1;-1;Comment
+12249;12318;river_large;12999;-1;-1;-1;-1;Comment
+12249;12236;river_large;12999;-1;-1;-1;-1;Comment
+12327;12302;river_large;13000;-1;-1;-1;-1;Comment
+12389;12331;river_large;13000;-1;-1;-1;-1;Comment
+12501;12413;river_large;13002;-1;-1;-1;-1;Comment
+12572;12513;river_large;13003;-1;-1;-1;-1;Comment
+12605;12550;river_large;13003;-1;-1;-1;-1;Comment
+12586;12520;river_large;13003;-1;-1;-1;-1;Comment
+12834;12885;river_large;13005;-1;-1;-1;-1;Comment
+12883;12897;river_large;13005;-1;-1;-1;-1;Comment
+12974;12939;river_large;13006;-1;-1;-1;-1;Comment
+11808;12941;river_large;13006;-1;-1;-1;-1;Comment
+11868;11826;river_large;12984;-1;-1;-1;-1;Comment
+11941;11904;river_large;12984;-1;-1;-1;-1;Comment
+11965;11904;river_large;12984;-1;-1;-1;-1;Comment
+11966;11914;river_large;12992;-1;-1;-1;-1;Comment
+11966;11924;river_large;12992;-1;-1;-1;-1;Comment
+12411;12372;river_large;13065;-1;-1;-1;-1;Comment
+12099;12115;river_large;13061;-1;-1;-1;-1;Comment
+11976;11853;river_large;13058;-1;-1;-1;-1;Comment
+11966;11924;river_large;12992;-1;-1;-1;-1;Comment
+10780;10786;river_large;10778;-1;-1;-1;-1;Comment
+11253;10172;river_large;11597;-1;-1;-1;-1;Comment
+11568;10170;river_large;11597;-1;-1;-1;-1;Comment
+10039;10052;river_large;11414;-1;-1;-1;-1;Comment
+10129;10049;river_large;11415;-1;-1;-1;-1;Comment
+10492;10495;river_large;10905;-1;-1;-1;-1;Comment
+10504;10505;river_large;10904;-1;-1;-1;-1;Sukalanting-Kubu
+10521;10522;river_large;10908;-1;-1;-1;-1;Seruyan Hilir-Baamang
+10541;10548;river_large;10909;-1;-1;-1;-1;Kuala Kapuas-Banjarmasin
+10535;10532;river_large;10911;-1;-1;-1;-1;Comment
+10460;11046;river_large;10914;-1;-1;-1;-1;Comment
+10466;10469;river_large;10913;-1;-1;-1;-1;Tarakan-Sambaliung
+# Additional
+11150;9744;sea;9773;-1;-1;-1;-1;Jawi Jawi-Maimbung
+9744;11153;sea;9773;-1;-1;-1;-1;Maimbung-Tagima
+11153;9743;sea;9773;-1;-1;-1;-1;Tagima-Samboangan
+10256;10257;sea;9751;-1;-1;-1;-1;Johor-Temasik
+10257;10405;sea;9751;-1;-1;-1;-1;Temasik-Batam
+10347;10404;sea;9751;-1;-1;-1;-1;Teluk Meranti-Karimun
+10404;10405;sea;9751;-1;-1;-1;-1;Karimun-Batam
+10405;10403;sea;9751;-1;-1;-1;-1;Batam-Bintan
+10403;10402;sea;9751;-1;-1;-1;-1;Bintan-Lingga
+10405;10402;sea;9751;-1;-1;-1;-1;Batam-Lingga
+10402;10345;sea;9751;-1;-1;-1;-1;Lingga-Keritang
+10334;10335;sea;9750;-1;-1;-1;-1;Ujung Tanjung-Rupat
+11469;11083;sea;10421;-1;-1;-1;-1;Palas Pasemah-Banten
+10409;10408;sea;10416;-1;-1;-1;-1;Toboali-Belitung
+10409;10381;sea;10416;-1;-1;-1;-1;Toboali-Air Sugihan
+10711;10348;sea;10413;-1;-1;-1;-1;Teluk Lagundri-Batu
+10719;10718;sea;10414;-1;-1;-1;-1;Muara Siberut-Sipura
+10718;10360;sea;10414;-1;-1;-1;-1;Sipura-Bahat Monga
+11028;11033;sea;10424;-1;-1;-1;-1;Bangkalan-Hujunggaluh
+10984;10979;sea;10429;-1;-1;-1;-1;Raung-Buleleng
+11071;11032;sea;10423;-1;-1;-1;-1;Muria-Kayuwangi
+11071;11070;sea;10423;-1;-1;-1;-1;Muria-Jipang
+11716;11719;sea;10598;-1;-1;-1;-1;Bajan-Gane
+11716;11717;sea;10598;-1;-1;-1;-1;Bajan-Obira
+11713;11711;sea;9775;-1;-1;-1;-1;Morotai-Tobelo
+9717;9789;sea;9764;-1;-1;-1;-1;Bo-ol-Maktan
+9717;11307;sea;9764;-1;-1;-1;-1;Bo-ol-Limasawa
+11308;9792;sea;9764;0;0;0;0;Kankabatok-Kalbiga
+9703;11311;sea;9766;0;0;0;0;Sorsogon-Kataruman
+9721;9703;sea;9764;0;0;0;0;Mandaon-Sorsogon
+9709;10691;sea;9763;0;0;0;0;Taytay-Busuanga
+9684;11147;sea;9765;0;0;0;0;Binangonan-Polo
+10968;11240;sea;9798;0;0;0;0;Lombokmirah-Taliwang
+11145;9704;sea;9760;0;0;0;0;Lubang-Paluan
+11155;9708;sea;9758;0;0;0;0;Balabak-Ipolot
+11166;11200;sea;10585;0;0;0;0;Baubau-Wakatobi
+11167;11165;sea;9819;0;0;0;0;Muna-Bangkudu
+11167;11166;sea;9819;0;0;0;0;Muna-Baubau
+11168;11187;sea;10591;0;0;0;0;Banggai-Luwuk
+11168;11205;sea;10591;0;0;0;0;Banggai-Bualemo
+11189;11179;sea;10591;0;0;0;0;Konda-Wowoni
+11227;11197;sea;10607;0;0;0;0;Togean-Ampana
+11246;11663;sea;9798;0;0;0;0;Bima-Komodo
+11669;11670;sea;10574;0;0;0;0;Sika-Lembata
+11670;11671;sea;10574;0;0;0;0;Lembata-Kalabahi
+11671;11681;sea;10574;0;0;0;0;Kalabahi-Maubara
+11672;11673;sea;10559;0;0;0;0;Baadale-Kupang
+11681;11686;sea;10574;0;0;0;0;Maubara-Ilwaki
+12542;13025;sea;10799;0;0;0;0;Leizhou-Qiongshan
+12656;12694;sea;10802;0;0;0;0;Xinhui-Yashan
+9700;9701;sea;9765;0;0;0;0;Salog-Katanduan
+9706;9690;sea;9760;0;0;0;0;Minolo-Balayan
+9719;9715;sea;9768;0;0;0;0;Sialo-Tanghay
+9720;9713;sea;9769;0;0;0;0;Binalbagan-Tigbawan
+9727;11304;sea;9767;0;0;0;0;Suligaw-Dinagat
+9727;11307;sea;9767;0;0;0;0;Suligaw-Limasawa
+9789;9718;sea;9764;0;0;0;0;Maktan-Sugbu
+# Papua New Guinea
+13042;13046;sea;10581;0;0;0;0;Kimaam-Yowied
+13148;13044;sea;10568;0;0;0;0;Waan-Komoran
+13044;13046;sea;10568;0;0;0;0;Komoran-Yowied
+12046;13147;sea;10565;0;0;0;0;Torasi-Maluligal
+11708;11712;sea;10563;0;0;0;0;Rabaraba-Esa'ala
+11700;11712;sea;10563;0;0;0;0;Alotau-Esa'ala
+13110;13116;sea;10589;0;0;0;0;Kokopo-Namatanai
+13144;13143;sea;10595;0;0;0;0;Sawai-Serui
+13145;13146;sea;10595;0;0;0;0;Ansus-Biak
+# Japan
+13474;13471;sea;13510;0;0;0;0;Hakodate-Nukanobu
+13473;13469;sea;13505;0;0;0;0;Hiyama-Tsugaru
+# Sakhalin
+13705;13798;sea;12986;0;0;0;0;Nigir-Pobogi
+-1;-1;;-1;-1;-1;-1;-1;

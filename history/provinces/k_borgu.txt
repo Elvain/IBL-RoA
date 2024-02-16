@@ -1,0 +1,232 @@
+#k_banza
+##d_zamfara ###################################
+
+###c_zamfara
+6540 = {	#DUTSI
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+14097 = {	#KIAWA
+	holding = none
+}
+14128 = {	#MARADUN
+	holding = none
+}
+
+###c_yandoto
+14096 = {	#YANDOTO
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+14095 = {	#MAFARA
+	holding = none
+}
+6542 = {	#ANKA
+	holding = none
+}
+
+###c_sokoto
+6541 = {	#SOKOTO
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+6543 = {	#GUSAU -> JEGA
+	holding = none
+}
+6554 = {	#GUMMI
+	holding = none
+}
+
+###c_kaduna
+6550 = {	#KADUNA
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+6551 = {	#ZURU
+	holding = none
+}
+14131 = {	#WASAGU
+	holding = none
+}
+
+##d_kebbi ###################################
+
+###c_kebbi
+6555 = {	#KEBBI
+	culture = sorko #mainly to lower the Hausa influence
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	# History
+	1150.1.1 = {
+		culture = hausa
+	}
+}
+6556 = {	#SOKOTO-NORTH -> SURAME
+	culture = mossi
+	religion = west_african_pagan
+	holding = none
+	# History
+	1250.1.1 = {
+		culture = butr
+		religion = ashari
+		}
+}
+14132 = {	#KOKO
+	holding = none
+}
+14133 = {	#DAKINGARI
+	holding = none
+}
+
+###c_yauri
+6553 = {	#YAURI
+	culture = sorko #mainly to lower the Hausa influence
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	# History
+	1150.1.1 = {
+		culture = hausa
+	}
+}
+6552 = {	#KONTOKORO
+	holding = none
+}
+6905 = {	#ULAIRA
+	holding = none
+}
+
+##d_nupe ###################################
+
+###c_nupe
+6908 = {	#RABA
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+6906 = {	#KULFO
+	holding = none
+}
+6907 = {	#KUTIGI
+	holding = none
+}
+6909 = {	#GBAJIGBO
+	holding = none
+}
+
+###c_bida
+6548 = {	#BIDA
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+8936 = {	#GBARA
+	holding = none
+}
+8937 = {	#AGAIE
+	holding = none
+}
+
+###c_guwari
+8103 = {	#GUWARI
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	# History
+	1050.1.1 = {
+		culture = gbagyi
+	}
+}
+6547 = {	#TARUGA
+	holding = none
+}
+6549 = {	#MINNA
+	holding = none
+}
+
+###c_opanda
+8101 = {	#UMAISHA
+	culture = akpoto
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+8100 = {	#LOWER_GUARA
+	holding = none
+}
+6546 = {	#NOK
+	holding = none
+}
+
+###c_kyadya
+8085 = {	#KYADYA
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+8077 = {	#LOKOJA
+	holding = none
+}
+8078 = {	#KAKANDA
+	holding = none
+}
+
+##d_borgu ###################################
+
+# 6717 - MADEKALI
+6717 = {	# 6717 - MADEKALI
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 6718 - BUSA
+6718 = {	# 6718 - BUSA
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 6915 - KAOJE
+6915 = {	# 6915 - KAOJE
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 6916 - ILO
+6916 = {	# 6916 - ILO
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 8034 - TODO
+8034 = {
+	# Misc
+	culture = ewe
+	religion = west_african_orisha_pagan
+	# History
+}

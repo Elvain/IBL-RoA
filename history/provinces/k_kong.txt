@@ -1,0 +1,46 @@
+#k_kong
+##d_loropeni ###################################
+###c_loropeni
+6960 = {	#LOROPENI
+	culture = lobi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+6974 = {	#IRINGU
+	holding = none
+}
+14402 = {	#GOVITAN
+	holding = none
+}
+
+###c_komoe
+6975 = {	#KOMOE
+	culture = lobi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+14403 = {	#KELEWORO
+	holding = none
+}
+6977 = {	#KONG-NORTH
+	holding = none
+}
+
+###c_tyendugu
+6984 = {	#BANIFING
+	culture = bobo
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+
+#----- ORIGINAL --------------
+# 8147 - WORODUGU
+8147 = {
+	# Misc
+	culture = bobo
+	religion = west_african_pagan
+	# History
+}

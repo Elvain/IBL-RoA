@@ -1,0 +1,405 @@
+##d_upper_gurma AKA Hombori ###################################
+###c_upper_gurma
+6582 = {	# GURMA-RHAROUS
+	culture = zarma
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	1150.1.1 = {
+		culture = songhai
+		religion = ashari
+	}
+
+}
+
+9991 = {	#TIABOU
+	holding = none
+}
+
+###c_hombori
+6677 = {	# HOMBORI
+	culture = tellem
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+
+6674 = {	#ZAMPIA -> KAYKAY
+	holding = none
+}
+
+9990 = {	#BOUBANKI
+	holding = none
+}
+
+9989 = {	#GOSSI
+	holding = none
+}
+
+### c_kurmina
+6673 = {	#KORIENZA
+	culture = zarma
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	1226.1.1 = { religion = ashari }
+}
+
+6670 = {	#BANGU
+	holding = none
+}
+
+6671 = {	#SAFARE
+	holding = none
+}
+
+6672 = {	#NGUMA
+	holding = none
+}
+
+##d_kawkaw (part) ###################################
+###c_gao
+6577 = {	# GAO
+	culture = gaw
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	867.1.1 = {
+		buildings = {
+			market_villages_01
+		}
+	}
+	920.1.1 = { religion = ashari }
+	935.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		buildings = {
+			cereal_fields_01
+			hunting_grounds_01
+		}
+	}
+	1150.1.1 = { culture = songhai }
+}
+
+6576 = {	#GADEI
+	holding = none
+}
+
+6578 = {	#SARNAH
+	holding = none
+
+	# History
+	935.1.1 = { holding = city_holding }
+}
+	
+6580 = {	#BOUREM
+	holding = none
+}
+
+8988 = {	#TILEMSI
+	holding = none
+}
+
+###c_ansongo
+6575 = {	# ANSONGO
+	culture = gaw
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+	1150.1.1 = { culture = songhai }
+}
+6574 = {	# KAMGALA
+	holding = none
+}
+8989 = {	# TIANAME
+	holding = none
+
+	# History
+	935.1.1 = { holding = city_holding }
+}
+
+###c_kukiya
+6572 = {	# KUKIYA
+	culture = gaw
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+	1150.1.1 = { culture = songhai }
+}
+6571 = {	# TILLABERI
+	holding = none
+
+	# History
+	935.1.1 = { holding = city_holding }
+}
+8990 = {	# YASSAN
+	holding = none
+}
+6573 = {	# TANDO_HUSUBIYA
+	holding = none
+
+	# History
+	935.1.1 = { holding = church_holding }
+}
+
+###c_bura
+6684 = {	# BURA
+	culture = sorko
+	religion = west_african_bidu_pagan
+	#religion = west_african_bida_pagan
+	holding = tribal_holding
+	
+	# History
+	1150.1.1 = { culture = songhai }
+}
+
+6683 = {	# GABOU_BURA
+	holding = none
+}
+
+###c_koima
+6579 = {	# KOIMA
+	culture = sorko
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = { holding = castle_holding }
+	1150.1.1 = {
+		culture = songhai
+		religion = ashari
+	}
+}
+14392 = {	# TESSIT
+	holding = none
+
+	# History
+	935.1.1 = { holding = church_holding }
+}
+14442 = {	# YATAKALA
+	holding = none
+}
+
+##############################
+
+###c_dyamare
+6570 = {	#ROZI
+	culture = sorko
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+	1250.1.1 = {
+		culture = songhai
+		religion = ashari
+	}
+}
+
+6568 = {	#DOSSO
+	holding = none
+}
+
+# 6569 - GAYA2
+6569 = {	#GAYA2 / Gaya
+	holding = none
+}
+
+###c_say
+6688 = {	# SAY
+	culture = sorko
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	
+	# History
+	1250.1.1 = { culture = mossi }
+	
+}
+6713 = {	# BURUNFONGO
+	holding = none
+}
+14393 = {	# YAGHA
+	holding = none
+}
+14441 = {	# SAGA_SAY
+	holding = none
+}
+
+
+# 6581 - TIRAKKA
+6581 = {	# 6681 - TIRAKKA
+	
+	# Misc
+	culture = zarma
+	religion = west_african_bidu_pagan
+	
+	# History
+	989.1.1 = {
+		#special_building_slot = sankore_university
+		special_building = sankore_university
+	}
+	1150.1.1 = { culture = songhai }
+
+}
+
+# 6608 - KABARA
+6608 = {	# 6608 - KABARA
+	
+	# Misc
+	culture = bozo
+	religion = west_african_bidu_pagan
+	#religion = west_african_bida_pagan
+	
+	# History
+	960.1.1 = { religion = ibadi }
+	1083.1.1 = { religion = ashari }
+
+}
+
+# 6609 - TIMBUKTU
+6609 = {	# 6609 - TIMBUKTU
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = ibadi
+	
+	# History
+	1050.1.1 = { religion = ashari } #almoravid
+	#1200.1.1 = { religion = ashari }
+
+}
+
+# 6610 - ARAWAN
+6610 = {	# 6610 - ARAWAN
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = ibadi
+	
+	# History
+	1050.1.1 = { religion = ashari } #Almoravid
+
+}
+
+# 6612 - KILLI
+6612 = {	# 6612 - KILLI
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = ibadi
+	
+	# History
+	1050.1.1 = { religion = ashari } #almoravid
+	#1200.1.1 = { religion = ashari }
+
+}
+
+# 6656 - ARAWAN_ROAD
+6656 = {	# 6656 - ARAWAN_ROAD
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = ibadi
+	
+	holding = none
+	
+	# History
+	1050.1.1 = { religion = ashari } #Almoravid
+	#1200.1.1 = { religion = ashari }
+
+}
+
+# 6714 - PEKINGA
+6714 = {	# 6714 - PEKINGA
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 6715 - BIRNIN_LAFIYA
+6715 = {	# 6715 - BIRNIN_LAFIYA
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+################################
+###c_meneka
+8992 = {	#MENEKA
+	culture = gaw
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	1050.1.1 = {
+		religion = ashari
+		culture = butr
+	}
+}
+8991 = {	#ERANGA
+	holding = none
+}
+
+###c_ouallam
+14070 = {	#OUALLAM
+	culture = gaw
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+}
+14071 = {	#SIMIRI
+	holding = none
+}
+
+8995 = {	#SARGAN
+	holding = none
+}
+
+###c_fakara
+8994 = {	#Zarmaganda AKA Hamdallaye
+	culture = gaw
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+}
+14072 = {	#LIBORE
+	holding = none
+}
+14073 = {	#KIRTACHI
+	holding = none
+}
+
+###c_zarma #Zigui
+8993 = {	#ZARMATAREY
+	culture = gaw
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+
+	# History
+	1050.1.1 = { culture = mossi }
+}
+14074 = {	#KIOTA
+	holding = none
+}

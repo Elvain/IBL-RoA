@@ -1,0 +1,398 @@
+#k_bohemia
+##d_bohemia ###################################
+###c_praha
+4125 = {	#PRAHA
+	culture = czech
+	religion = slavic_pagan
+	holding = castle_holding
+	867.1.1 = {
+		buildings = {
+			hill_forts_01
+		}
+	}
+	883.1.1 = {
+		religion = catholic
+	}
+	1066.1.1 = {
+		buildings = {
+			hill_forts_01
+			hill_farms_01
+			#hunting_grounds_01
+			#pastures_01
+		}
+	}
+}
+4126 = {	#VYSEHRAD
+	holding = church_holding
+}
+8981 = {	#STARE_MESTO
+	holding = city_holding
+}
+4127 = {	#BEROUN
+	900.1.1 = {
+		holding = city_holding
+	}
+	holding = none
+}
+4128 = {	#MELNIK
+	holding = none
+	1066.1.1 = {
+		holding = castle_holding
+	}
+}
+4130 = {	#SLANY
+	holding = none
+}
+
+###c_litomerice
+4129 = {	#LITOMERICE
+	culture = czech
+	religion = slavic_pagan
+	holding = tribal_holding
+	883.1.1 = {
+		religion = catholic
+		holding = castle_holding
+	}
+}
+4131 = {	#BILINA
+	holding = none
+	993.1.1 = {
+		holding = castle_holding
+	}
+}
+14101 = {	#OSEK
+	holding = none
+	993.1.1 = {
+		holding = church_holding
+	}
+}
+4133 = {	#DECIN
+	holding = none
+	993.1.1 = {
+		holding = city_holding
+	}
+}
+4135 = {	#ZITAVA
+	holding = none
+}
+
+###c_zatec
+4147 = {	#ZATEC
+	culture = czech
+	religion = slavic_pagan
+	holding = tribal_holding
+	883.1.1 = {
+		religion = catholic
+		holding = castle_holding
+	}
+}
+4132 = {	#KADAN
+	holding = none
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+4141 = {	#SEDLEC -> TEPLA
+	holding = none
+	1066.1.1 = { #
+		holding = church_holding
+	}
+}
+4142 = {	#LOKET
+	holding = none
+}
+14100 = {	#DREVIC
+	holding = none
+}
+
+###c_plzen
+4145 = {	#PLZEN
+	culture = czech
+	religion = slavic_pagan
+	holding = tribal_holding
+	883.1.1 = {
+		religion = catholic
+		holding = castle_holding
+	}
+}
+4143 = {	#STRIBRO
+	holding = none	
+	883.1.1 = {
+		holding = city_holding
+	}
+}
+8982 = {	#PLASY
+	holding = none
+	1066.1.1 = { #historically founded in 1144
+		holding = church_holding
+	}
+}
+4144 = {	#PRIMDA
+	holding = none
+}
+4146 = {	#DOMAZLICE
+	holding = none
+}
+4149 = {	#PRACHEN
+	holding = none
+}
+
+###c_doudleby
+4154 = {	#DOUDLEBY
+	culture = czech
+	religion = slavic_pagan
+	holding = tribal_holding
+	883.1.1 = {
+		religion = catholic
+		holding = castle_holding
+	}
+}
+4150 = {	#NETOLICE
+	holding = none
+}
+4153 = {	#ROZMBERK
+	holding = none
+}
+4152 = {	#KRUMLOV
+	holding = none
+	1100.1.1 = {
+		holding = city_holding
+	}
+}
+4151 = {	#PISEK
+	holding = none
+	883.1.1 = {
+		holding = city_holding
+	}
+}
+4157 = {	#BECHYNE
+	holding = none
+	883.1.1 = {
+		holding = church_holding
+	}
+}
+
+###c_boleslav
+4136 = {	#BOLESLAV
+	culture = czech
+	religion = slavic_pagan
+	holding = castle_holding
+	883.1.1 = {
+		religion = catholic
+	}
+}
+8980 = {	#LIBICE
+	holding = none
+	950.1.1 = {
+		holding = city_holding
+	}
+}
+14102 = {	#ZELEZNICE
+	holding = none
+}
+4134 = {	#BEZDEZ
+	holding = none
+}
+
+###c_hradec
+4138 = {	#HRADEC
+	culture = czech
+	religion = slavic_pagan
+	holding = tribal_holding
+	883.1.1 = {
+		religion = catholic
+		holding = castle_holding
+	}
+}
+4137 = {	#DVUR-CHVOJNO
+	holding = none
+}
+4139 = {	#JAROMER -> OPATOVICE
+	holding = none
+	1073.1.1 = { #historical foundation of the monastery
+		holding = church_holding
+	}
+}
+4140 = {	#VRACLAV
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+###c_kladsko
+3047 = {	#KLADZKO
+	culture = czech
+	religion = slavic_pagan
+	867.1.1 = {
+		holding = castle_holding
+	}
+	883.1.1 = { religion = catholic }
+}
+14175 = {	#POLICE (nad Metují)
+	holding = none
+	1200.1.1 = {
+		holding = church_holding
+		#monastery founded in early XIII century
+	}
+}
+
+###c_caslav
+4161 = {	#CASLAV
+	culture = czech
+	religion = slavic_pagan
+	867.1.1 = {
+		#holding = castle_holding
+		special_building_slot = kutna_hora_mines_01
+	}
+	883.1.1 = { religion = catholic }
+	1000.1.1 = {
+		special_building = kutna_hora_mines_01
+	}
+}
+8979 = {	#KOURIM
+	holding = none
+	950.1.1 = {
+		holding = city_holding
+	}
+}
+4160 = {	#CHRUDIM
+	holding = none
+}
+4158 = {	#MILEVSKO -> OSTROV (klášter = monastery)
+	holding = none
+	999.1.1 = { #historical foundation of the monastery
+		holding = church_holding
+	}
+}
+4156 = {	#CHYNOV
+	holding = none
+}
+
+##d_moravia ###################################
+###c_olomouc
+4165 = {	#OLOMOUC
+	culture = slovien
+	religion = slavic_pagan
+	holding = castle_holding
+	831.1.1 = { religion = catholic }
+	1030.1.1 = { culture = czech }
+	1066.1.1 = {
+		buildings = {
+			curtain_walls_01
+			cereal_fields_01
+			#barracks_01
+		}
+	}
+}
+4181 = {	#UNICOV
+	holding = none
+}
+4148 = {	#KROMERIZ
+	holding = none
+}
+8977 = {	#HRADISKO
+	holding = church_holding
+}
+14103 = {	#STAVENICE
+	holding = none
+}
+
+###c_opava
+4184 = {	#OPAVA
+	culture = slovien
+	religion = slavic_pagan
+	holding = castle_holding
+	831.1.1 = { religion = catholic }
+	1030.1.1 = { culture = czech }
+}
+4183 = {	#HRADEC NAD MORAVICI
+	holding = city_holding
+}
+
+###c_prerov
+4182 = {	#PREROV
+	culture = slovien
+	religion = slavic_pagan
+	holding = castle_holding
+	831.1.1 = {
+		religion = catholic
+	}
+	1030.1.1 = {
+		culture = czech
+	}
+}
+4159 = {	#SPYTIHNEV
+	holding = none
+}
+8976 = {	#LANDEK
+	holding = none
+}
+
+###c_jihlava -> Velehrad
+4169 = {	#BRECLAV
+	culture = slovien
+	religion = slavic_pagan
+	holding = castle_holding
+	831.1.1 = {
+		religion = catholic
+	}
+	1030.1.1 = {
+		culture = czech
+	}
+}
+4170 = {	#HODONIN
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+8975 = {	#VELEHRAD
+	holding = church_holding
+}
+8999 = {	#VESELI
+	holding = none
+}
+
+###c_brno
+4168 = {	#BRNO
+	culture = slovien
+	religion = slavic_pagan
+	holding = castle_holding
+	831.1.1 = { religion = catholic }
+	1030.1.1 = { culture = czech }
+}
+4167 = {	#IVANICE
+	holding = none
+}
+4163 = {	#ZDAR
+	holding = none
+}
+14104 = {	#RAJHRAD
+	holding = none
+}
+
+###c_znojmo
+4166 = {	#ZNOJMO
+	culture = slovien
+	religion = slavic_pagan
+	holding = castle_holding
+	831.1.1 = {
+		religion = catholic
+	}
+	1030.1.1 = {
+		culture = czech
+	}
+}
+4164 = {	#BITOV
+	holding = none
+}
+3080 = {	#MIKULOV
+	#german colonization of southern parts
+	1160.1.1 = { culture = german }
+}
+4162 = {	#JIHLAVA
+	holding = none
+}
+4155 = {	#TELCZ
+	holding = none
+}

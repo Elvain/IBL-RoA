@@ -1,0 +1,240 @@
+#k_gur
+##d_dagomba ###################################
+###c_dagomba
+14407 = {	#TAMALE
+	culture = guan
+	religion = west_african_pagan
+	holding = tribal_holding
+
+	# History
+	1050.1.1 = {
+		culture = dagaaba 
+	}
+}
+14406 = {	#KUMBUNGU
+	holding = none
+}
+14408 = {	#SAKULO
+	holding = none
+}
+
+###c_yendi
+6942 = {	#YENDI
+	culture = guan
+	religion = west_african_pagan
+	holding = tribal_holding
+
+	# History
+	1050.1.1 = {
+		culture = gur #konkomba 
+	}
+}
+14409 = {	#NAKURUGU
+	holding = none
+}
+14410 = {	#KPANDAI
+	holding = none
+}
+
+###c_salaga
+6943 = {	#SALAGA
+	culture = guan
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+6945 = {	#MAWLI
+	holding = none
+}
+
+##d_gonja ###################################
+###c_gonja
+6966 = {	#BUIPE
+	culture = guan
+	religion = west_african_pagan
+	holding = tribal_holding
+
+	1080.1.1 = {
+		culture = dagaaba
+	}
+}
+6944 = {	#MOLE_SOUTH
+	holding = none
+}
+6958 = {	#BOLE2
+	holding = none
+}
+
+###c_daboya
+6946 = {	#DABOYA
+	culture = dagaaba
+	religion = west_african_pagan
+	holding = tribal_holding
+
+	1050.1.1 = {
+		culture = dagaaba
+	}
+}
+6957 = {	#UPPER_MOLE
+	holding = none
+}
+14395 = {	#SISSILI
+	holding = none
+}
+
+##d_lobi ###################################
+###c_lobi
+6951 = {	#LOBI -> LAWA
+	culture = lobi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+6950 = {	#LEO
+	holding = none
+}
+14396 = {	#NIEGO
+	holding = none
+}
+
+###c_gueguere
+14398 = {	#GUEGUERE
+	culture = kibsi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+6954 = {	#BOROMO -> ORONKU
+	holding = none
+}
+14397 = {	#WAHABU
+	holding = none
+}
+
+###c_jebugu
+14399 = {	#JEBUGU
+	culture = lobi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+14400 = {	#KORO-LOBI
+	holding = none
+}
+14401 = {	#GAOUA
+	holding = none
+}
+
+###c_pura
+6952 = {	#PURA
+	culture = kibsi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+14376 = {	#TENADO
+	holding = none
+}
+14405 = {	#POA
+	holding = none
+}
+
+###c_dyulaso
+6973 = {	#BOBO_DYULASSO
+	culture = bobo
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+6972 = {	#BUGURIBA
+	holding = none
+}
+14373 = {	#BAMA-LOBI
+	holding = none
+}
+
+##d_wa ###################################
+###c_wa
+6956 = {	#WA
+	culture = lobi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+6955 = {	#MOHOUN
+	holding = none
+}
+14404 = {	#DORIMON
+	holding = none
+}
+
+###c_bouna
+6959 = {	#BOUNA
+	culture = lobi
+	religion = west_african_pagan
+	holding = tribal_holding
+
+}
+8126 = {	#KULANGO
+	holding = none
+}
+
+##d_mamprusi ###################################
+###c_mamprusi
+6934 = {	#PUSUGA
+	culture = dagaaba
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+}
+
+6933 = {	# SANSANE_MANGO
+	holding = none
+}
+
+6940 = {	# JIMBALE
+	holding = none
+}
+
+6941 = {	# SAKOGU
+	holding = none
+}
+
+###c_kuisugu
+6937 = {	#KUISUGU
+	culture = gur
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+
+6936 = {	# DIKUTATENI
+	holding = none
+}
+
+6938 = {	# PERMA
+	holding = none
+}
+
+###c_pendjari
+6930 = {	#MEKROU
+	culture = gur
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+
+6929 = {	# ALIBORI
+	holding = none
+}
+
+6931 = {	# KOUANDE
+	holding = none
+}
+
+6932 = {	# YOHONGOU
+	holding = none
+}
+

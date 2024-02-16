@@ -1,0 +1,126 @@
+﻿nupe = {
+	color = hsv{ 0.95 0.35 0.7 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_central_african
+	language = language_chadic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_parochialism
+		tradition_music_theory
+	}
+	
+	name_list = name_list_nupe
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = african
+	}
+}
+
+jukun = {
+	
+	color = hsv{ 0.93 0.55 0.5 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_central_african
+	language = language_chadic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tribe_unity
+		tradition_mystical_ancestors
+		tradition_hunters
+	}
+	
+	name_list = name_list_nupe
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = african
+	}
+#	dynasty_names = {
+#		"dynn_Jukun" # a Nupe tribe
+#		"dynn_Wukari"
+#		"dynn_Takum"
+#		"dynn_Donga"
+#		"dynn_Akwana"
+#		"dynn_Arufu"
+#		"dynn_Pindiga"
+#		"dynn_Gwana"
+#		"dynn_Kwona"
+#		"dynn_Kona"
+#		"dynn_Akpa"
+#		"dynn_Wapan"
+#		"dynn_Gwana"
+#		"dynn_Kwana"
+#		"dynn_Donzomga"
+#		"dynn_Tasefu"
+#		"dynn_Jibu"
+#		"dynn_Wase"
+#		"dynn_Matswen"
+#		"dynn_Wurbo"
+#		"dynn_Ankwe"
+#		"dynn_Katakpa"
+#		"dynn_Agbukenjo"
+#		"dynn_Agwabi"
+#		"dynn_Ndewi"
+#	}
+#	
+#	male_names = {
+#		Awudumanu Ashu Agyo Awudu Adi Aji Atsi Agudu Ugari Rakuwi Angyu Agbukenjo
+#		Abe Aten Kuvyo Agwabi Kutaku Kumagbu Ashoshu Adibasa Madugu Amatsonde Tsoke Ashu Zikengyu
+#		Abutsokwa Wutso Amatsonde Anyapa Agabi Agyo Agyibwi Ashukwi Daju Agbumanu Tsokwa Shumanu Ndewi Nubumga
+#	}
+#	female_names = {
+#		Agabi Ato Naba Tokwa Anuba Atsibi Nyanivya Abiji Angye Ladi Wakenjo Giakwa Adakwa Bayu Shokwa 
+#		Wakaku Awanya Matsonde Alayi Atsi Angyu Wagbadu Adashuku Atogbama Awutso Agyeakwa Daje
+#	}
+#	
+#	#founder_named_dynasties = yes
+#	
+#	ethnicities = {
+#		10 = african
+#	}
+#	mercenary_names = {
+#		{ name = "mercenary_company_servants_of_kenjo" }
+#		{ name = "mercenary_company_raiders_of_kenjo" }
+#                    { name = "mercenary_company_raiders_of_kenjo" }
+#                   { name = "mercenary_company_amas_own" }
+#                    { name = "mercenary_company_company_of_the_crocodile" }
+#                    { name = "mercenary_company_akus_exiles" }
+#                    { name = "mercenary_company_followers_of_kenjo" }
+#                    { name = "mercenary_company_chidos_own" }
+#	}
+}
+gbagyi = {
+	color = hsv{ 0.85 0.4 0.5 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_central_african
+	language = language_chadic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_caravaneers
+		tradition_parochialism
+		tradition_family_entrepreneurship
+	}
+	
+	name_list = name_list_hausa
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = african
+	}
+}

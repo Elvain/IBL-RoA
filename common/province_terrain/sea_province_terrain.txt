@@ -1,0 +1,2235 @@
+﻿# e_burma
+## k_pagan
+    9561=hills # b_remyo
+	9832=hills # b_shwebontha
+	9565=hills # b_mindon
+	9573=farmlands # b_binnaka
+	9593=plains # b_toungoo
+	9595=plains # b_swa
+	9572=hills # b_taungnyo
+	9634=farmlands # b_aunglan
+	10961=hills # b_hpo_u
+	9591=floodplains # b_henzada
+	9588=farmlands # b_sriksetra
+	10959=farmlands # b_shwetaung
+	10960=hills # b_nattalin
+	11520=mountains # b_mindat
+	9590=plains # b_thayetmyo
+	11519=jungle # b_pauk
+	11573=hills # b_htilin
+	11578=jungle # b_kanaung
+	11579=floodplains # b_kyonpaw
+	11585=hills # b_khabaungkyo
+	11584=hills # b_bwihikho
+	11586=hills # b_thalaingma
+	11576=hills # b_sidokthaya
+## k_tagaung
+    9646=farmlands # b_myedu
+	10971=farmlands # b_malei
+	9569=farmlands # b_hanlin10091
+	9644=hills # b_katha
+	10972=farmlands # b_myataung
+	9871=hills # b_mongkawng
+	9874=hills # b_utiri_pale
+	11054=hills # b_bumhpabum
+	9866=hills # b_layshi
+	9867=mountains # b_lahe
+	9868=mountains # b_nanyun
+	9863=jungle # b_hkamti
+	9864=jungle # b_homalin
+	11512=jungle # b_hpakant
+	11513=hills # b_kamaing
+	11514=hills # b_indawgyi
+	11515=hills # b_sinbo
+	11516=jungle # b_indaw
+	11574=mountains # b_hakha
+	11575=hills # b_sunle
+	11590=jungle # b_mingon
+	11589=jungle # b_pyaunbyin
+	11752=jungle # b_pinlebu
+	11753=hills # b_mogok
+# k_thaton
+    9631=jungle # b_negrais
+	9632=floodplains # b_kusima
+	9633=wetlands # b_myaungmya
+	9626=wetlands # b_bogale
+	11060=floodplains # b_pantanaw
+	11059=floodplains # b_maubin
+	9596=farmlands # b_pegu
+	11063=farmlands # b_vaan
+	9638=plains # b_nyaunglebin
+	9636=hills # b_phyu
+	11062=jungle # b_hmawbi
+	9597=jungle # b_laganpahun
+	9599=floodplains # b_dala
+	11061=jungle # b_dagon
+	9823=floodplains # b_hpa_an
+	9824=hills # b_hlaingbwe
+	9883=hills # b_hpapun
+	9629=farmlands # b_mawlamyine
+	9882=jungle # b_rew
+	9825=jungle # b_lamain
+	10093=hills # b_mae_klong
+	10092=mountains # b_thong_pha_phum
+	10091=jungle # b_sai_yok
+	10786=hills # b_amya
+	9826=mountains # b_kawkareik
+	9827=hills # b_payathonzu
+	9880=jungle # b_thayetchaung
+	10780=hills # b_myitta
+	9826=jungle # b_myeik
+	9829=jungle # b_kanmaw
+	10664=hills #b_kainggyaung
+	9831=mountains # b_chaungwa
+	11523=jungle # b_ngwesaung
+	11524=floodplains # b_thabaung
+	11525=wetlands # b_ngapudaw
+	11526=wetlands # b_laputta
+	11527=floodplains # b_wakema
+	11528=wetlands # b_pyapon
+	11529=floodplains # b_nyaungdon
+	11530=jungle # b_hlegu
+	11531=mountains # b_bago_yoma
+	11532=farmlands # b_mi_chen
+	11533=wetlands # b_ohn_hne
+	11534=wetlands # b_thongwa
+	11535=plains # b_taikkala
+	11536=hills # b_bikalaeng
+	11537=plains # b_yan_tamim
+	9630=hills # b_donwun
+	11538=jungle # b_hlaingbwe
+	11539=hills # b_to_kaw_to
+	11540=plains # b_mudeung
+	11541=jungle # b_zartabyin
+	10661=jungle # b_tanangsi
+	11758=jungle # b_palaw
+	11759=jungle # b_yebyu
+	11760=jungle # b_lenya
+#k_shan
+##d_north_shan
+    9846=hills # b_lashio
+	11067=mountains # b_panghseng
+	11068=hills # b_kutkai
+	11069=hills # b_namhkam
+	9847=mountains # b_loi_leng
+	10901=mountains # b_mongsu
+	9844=hills # b_namhsan
+	9853=hills # b_panghsang
+	9854=hills # b_manglon
+	9852=hills # b_hopang
+	9947=mountains # b_pangwaun
+	9851=mountains # b_kokang
+	11394=mountains # b_manton
+	11395=mountains # b_tangyang
+	11405=jungle # b_mabein
+##d_hsipaw
+    11066=hills # b_goteik
+	9843=forest # b_monglong
+	9841=forest # b_mongkung
+	9848=jungle # b_kenglon
+	9888=forest # b_mongtung
+	9850=jungle # b_laikha
+	9849=hills # b_mongnawng
+	11397=hills # b_kar_li
+	11407=hills # b_panglong
+##d_yawnghwe/d_mongpai
+    9570=plains # b_yawnghwe
+	9839=hills # b_hsatung
+	9838=jungle # b_hsi_hseng
+	9840=hills # b_lawksawk
+	9835=hills # b_myelat
+	9833=hills # b_pinlaung
+	9834=hills # b_kalaw
+	9594=plains # b_mong_pai
+	9836=hills # b_loikaw
+	11064=hills # b_demoso
+	9837=hills # b_pasawng
+	11398=hills # b_mongpawng
+	11399=jungle # b_hopong
+	11406=plains # b_mongping
+##d_mongnai
+    9855=jungle # b_mongnai
+	9856=hills # b_keng_tawng
+	9857=hills # b_mawkmai
+	9858=hills # b_mongpan
+	11408=hills # b_mongton
+	11396=jungle # b_mongkyawt
+	11400=mountains # b_mehsakun
+#d_kengtung
+	11605=hills
+	10734=hills
+	10733=jungle
+	9908=jungle
+    9859=hills # b_kengtung
+	9862=hills # b_mong_hpyak
+	9860=hills # b_mong_hsat
+	9861=jungle # b_tha_khilek
+	9913=hills # b_mueang_hai
+	11607=hills # b_meng_ngaat
+	11603=jungle # b_cheng_law
+	11608=jungle #
+	9915=hills # b_chiang_hung
+	11609=hills # b_meng_yang_noi
+	11606=hills # b_meng_hing
+	10895=hills # b_mengnaidao
+	11380=hills # b_mong_ping
+	11381=hills # b_mong_khet
+	11401=mountains # b_monghla
+	11402=jungle # b_menglun
+	11403=hills # b_mongyawn
+	10894=jungle # b_mengla
+	9914=jungle # b_linan
+# k_hariphunchai
+##d_chiang_mai
+	10082=hills # b_ban_don
+	11270=mountains # b_pang_mapha
+	10083=hills # b_khun_yuam
+	11263=hills # b_mae_la_noi
+	10084=mountains # b_mae_sariang
+	10080=plains # b_phrao
+	11267=jungle # b_mae_on
+	11269=hills # b_doi_saket
+	10075=hills # b_chiang_dao
+	11258=hills # b_hang_dong
+	10077=mountains # b_omkoi
+	11268=plains # b_chiang_mai
+	10196=hills # b_samoeng
+	11265=plains # b_tha_kan
+	11262=jungle # b_chom_thong
+	10076=hills # b_chang_khoeng
+##d_ngoenyang
+    10072=farmlands # b_ngoenyang
+	10073=farmlands # b_phan
+	10079=jungle # b_fang
+	11272=plains # b_chaing_saen
+	11274=hills # b_pa_po
+	10074=plains # b_chiang_khong
+	11273=mountains # b_kaen
+	10120=plains # b_phayao
+	11275=plains # b_wiang_lo
+	11276=hills # b_pong
+## d_nan
+    10121=jungle # b_nan
+	11278=plains # b_lae
+	10122=hills # b_mae_charim
+	11278=plains # b_lae
+	11279=hills # b_bo_kluea
+	11280=hills # b_wiang_si_sa_ket
+	11281=plains # b_phichai
+	10124=mountains # b_saen_to
+	10123=hills # b_uttaradit
+## d_sayaburi
+    10037=mountains # b_sayaburi
+	10039=hills # b_kenthao
+	11367=mountains # b_sayaburi
+	11358=mountains # b_hong_sa
+	10038=hills # b_khop
+## d_haripunjaya
+    10081=plains # b_haripunjaya
+	11260=hills # b_tha_sop_sao
+	11261=hills # b_hang_sat
+	11257=hills # b_sop_yao
+	11259=plains # b_pak_bong
+	11256=hills # b_mae_lan
+	10197=plains # b_lampang
+	11264=hills # b_ngao
+	11266=hills # b_chae_hom
+	11286=jungle # b_mae_tha
+	10125=jungle # b_phrae
+	11277=jungle # b_song_th
+	10126=hills # b_long
+## d_tak
+# plains have been just left out as it is default
+	10085=jungle # b_ban_tak
+	10198=hills # b_thoen
+	11255=jungle # b_pa_mamuang
+	10086=hills # b_sam_ngao
+	10087=mountains # b_mae_ramat
+	10088=mountains # b_tha_song_yang
+	11254=hills # b_pho_pha
+	10128=jungle # b_si_satchanalai
+	10170=farmlands # b_chakangrao
+## d_phetchabun
+    11293=hills # b_chon_daen
+	10167=jungle # b_lom_sak
+	11288=hills #b_lom_kao
+	11289=hills # b_nam_nao
+	11290=mountains # b_khao_kho
+	11284=mountains # b_chat_trakan
+	10139=mountains # b_ban_yaeng
+	11286=hills # b_pa_mak
+	10168=jungle # b_si_thep
+	11294=jungle # b_nong_phai
+	11295=jungle # b_tha_rong
+	11287=farmlands # b_phum
+	10169=farmlands # b_tha_lo
+	10138=farmlands # b_phitsanulok
+# e_zomia
+# k_nanzhao
+    ## d_yon_zon_mi
+        ### c_yon_zon_mi
+            11141=farmlands #b_yon_zon_mi
+            9900=hills #b_er_guer
+            9898=hills #b_lo_ho
+            10669=hills #b_dali
+            11142=hills #b_deang_dam
+        ### c_yunnan
+            10675=forest #b_yunnan
+            10670=hills #b_bi_ge
+            11317=hills #b_ji_zu
+            11316=hills #b_shang_cheng
+        ### c_ma_shy
+            10684=hills #b_ma_shy
+            10671=hills #b_bwot_lung
+            9902=forest #b_la_ga
+    ## d_lung_dong
+        ### c_lung_dung
+            10685=forest #b_lung_dung
+            9928=forest #b_me_ddi
+        ### c_ddi_yi
+            9901=hills #b_ddi_yi
+            10900=hills #b_py_ly
+        ### c_wo_lu
+            9929=hills #b_wo_lu_dam
+            10676=forest #b_sufu
+            9931=forest #b_lu_by
+        ### c_shuangbai
+            10897=hills #b_shuangbai
+            11315=hills #b_zi_wu
+            11616=hills #b_xuchu
+    ## d_yi_du
+        ### c_yi_du
+            9895=mountains #b_yi_du
+            10890=hills #b_moutong
+            9896=mountains #b_yongning
+        ### c_kun_ming
+            9919=hills #b_kun_ming
+            10686=hills #b_songwai
+        ### c_maso
+            9897=mountains #b_maso
+            11271=mountains #b_lugu
+            10674=hills #b_ngwu_dam
+    ## d_lcags_zam
+        ### c_lcags_zam
+            9317=mountains #b_lcags_zam
+            9316=mountains #b_ywi_tsi
+        ### c_koksang
+            9894=mountains #b_nomu
+            9946=mountains #b_koksang
+        ### c_lang_kion
+            10672=mountains #b_miu_lang_kion
+            10735=mountains #b_lang_kion
+            9893=mountains #b_kion_dam
+    ## d_yongchang
+        ### c_yongchang
+            9892=hills #b_yongchang
+            9899=hills #b_shengxiang
+            10683=jungle #b_dang_biong
+            11602=jungle #b_changning
+            11314=hills #b_mang_chang
+        ### c_yinsheng
+            9903=jungle #b_yinsheng
+            11323=hills #b_yun_xian
+        ### c_tuonan
+            11319=hills #b_tuonan
+            9904=hills #b_khiang_lang
+        ### c_man_kueng
+            9905=jungle#b_man_kueng
+            9906=hills #b_qang_ying
+    ## d_kainan
+        ### c_kainan
+            10678=jungle #b_kainan
+            11611=hills #b_mengtong
+            9910=jungle #b_zhenyuan
+            11614=jungle #b_wenjing
+        ### c_buri_yn
+            11601=hills #b_buri_yn
+            11612=jungle#b_si_mao
+            9907=jungle #b_tai_dam
+            10680=jungle #b_ma_lung
+        ### c_in_yuan
+            9912=jungle #b_in_yuan
+            11613=jungle #b_tongguan
+        ### c_mang_xie
+            11318=hills #b_mang_xie
+            9909=hills #b_mengban
+            11617=hills #b_yizhi_yn
+            10679=hills #b_weiyuan
+            11610=jungle #b_mengjia
+    ## d_huichuan
+        ### c_huichuan
+            10673=hills #b_huichuan
+            9923=hills #b_nyi_ddix
+            9922=hills #b_nok_dam
+            11143=mountains #b_huidong
+        ### c_jianchang
+            9917=mountains #b_jianchang
+            10892=mountains #b_taideng
+            9918=mountains #b_baozhai
+        ### c_a_du
+            9921=mountains #b_a_du
+            9916=mountains #b_phung_ba
+        ### c_khuo
+            10688=mountains #b_khuo
+            10893=mountains #b_pu_jjy
+        ### c_khiong
+            9920=mountains #b_khiong
+            11324=mountains #b_yi_hai
+    ## d_tuodong
+        ### c_tuodong
+            11140=farmlands #b_si_cein
+            9933=farmlands #b_chang_kou
+            9936=plains #b_laphu_lung
+            9934=plains #b_shing_ma
+        ### c_dzi_khe
+            11338=hills #b_dzi_khe
+            9940=jungle #b_mie_lyr
+            11339=jungle #b_zhu_yuan
+        ### c_ni_jiao
+            11340=plains #b_ni_jiao
+            11342=plains #b_pu_zhei_hei
+        ### c_shi_tsong
+            9938=plains #b_shi_tsong
+            11344=plains #b_luo_xiong
+            11343=plains #b_fu_le
+            9927=plains #b_u_shwi
+        ### c_lu_nai
+            11337=plains #b_lu_nai
+            11336=plains #b_da_mo
+        ### c_anning_yn
+            9935=hills #b_anning_yn
+            11615=hills #b_xinxing
+            11159=hills #b_lang_kwong
+            10690=hills #b_jinning
+            11322=hills #b_liu_jie
+        ### c_lu_khuon
+            10689=hills #b_lu_khuon
+            9930=forest #b_li_lung
+            11329=hills #b_tang_dian
+            11351=hills #b_sa_lao
+    ## d_shicheng
+        ### c_shicheng
+            10899=plains #b_zhanyi
+            11335=plains #b_malong
+            11332=plains #b_zhong_an
+            11334=plains #b_qilin_yn
+        ### c_dongchuan
+            9926=hills #b_dongchuan
+            9932=forest #b_zim_dam
+            9924=hills #b_lo_lu
+        ### c_u_mung
+            11327=forest #b_zhuti
+            11326=hills #b_long_tou
+            10891=forest #b_a_bang
+            11325=hills #b_tanggu
+        ### c_mo_mie
+            9925=plains #b_lai_bin
+            11331=plains #b_yang_chang
+            11328=forest #b_zhe_hai
+            11330=plains #b_reshui
+        ### c_pu_an
+            10855=plains #b_pu_an
+            11333=plains #b_pingguan
+    ## d_tonghai
+        ### c_tonghai
+            10896=hills #b_tonghai
+            9937=hills #b_bien_dam
+            10681=hills #b_yuanjiang
+            11604=hills #b_malong2
+        ### c_goje
+            11346=hills #b_goje
+            11349=jungle #b_ami
+            11348=jungle #b_bengu
+            9943=hills #b_kayongbu
+        ### c_hohoxe
+            9944=jungle #b_hohoxe
+            11347=hills #b_duo_yi_shu
+        ### c_butou
+            9949=hills #b_shipingyi
+            9942=hills #b_huili
+            11345=jungle #b_qujiang
+	# d_lcags_zam
+	    9317=mountains # b_lcags_zam
+		9316=mountains # b_ywi_tsi
+		9894=mountains # b_nomu
+		9946=mountains # b_koksang
+		10735=mountains # b_lang_kion
+		10672=mountains # b_miu_lang_kion
+		9893=mountains # b_kion_dam
+	# d_myitkyina
+	    9873=jungle # b_lishui
+		9872=jungle # b_myitkyina
+		9869=plains # b_bhamo
+		11113=jungle # b_shwegu
+		9875=mountains # b_triang_bang
+		9877=hills # b_sumprabum
+		9879=mountains # b_mangshi
+		9876=mountains # b_putao
+		10902=mountains # b_kawnglanghpu
+		9878=mountains # b_nogmung
+		11571=hills # b_laizar
+		11572=jungle # b_myitsone
+	# d_mang_shuea
+	    10903=hills # b_mang_shuea
+		11320=mountains # b_mang_bing
+		9889=hills # b_mong_mao
+		9890=mountains # b_zhen_xi
+		11321=hills # b_yaxi
+		11312=mountains # b_zhan_da
+# k_laos
+## d_luang_nam_tha
+    10034=jungle # b_nam_tha
+	10035=hills # b_takka_sila
+	11355=hills # b_na_le
+	10033=jungle # b_muang_sing
+	11353=hills # b_long_lo
+	11354=jungle # b_huai_sai
+	10032=hills # b_nam_kha
+	11352=hills # b_ton_pheung
+## d_luang_prabang
+    10040=jungle # b_luang_prabang
+	10042=hills # b_phonxay
+	11363=mountains # b_chomphet
+	11364=mountains # b_phou_khoun
+	10041=hills # b_nam_bak
+	10043=hills # b_viengkham
+	11361=hills # b_nam_ngoi
+	11362=jungle # b_pak_ou
+	11357=jungle # b_pak_beng
+	11356=hills # b_houn_lo
+	10036=mountains # b_beng
+## d_phongsali
+    10666=hills # b_phongsali
+	10031=hills # b_yout_ou
+	11360=hills # b_mai_da
+	10030=mountains # b_khoua
+## d_xiangkhouang
+    10047=hills # b_phou_kout
+	10048=hills # b_kham
+	11365=jungle # b_phuan
+	11376=hills # b_nong_het
+	10044=mountains # b_houaphanh
+	10045=hills # b_muang_hiem
+## d_chantabuli
+    10051=farmlands # b_chantabuli
+	11372=farmlands # b_sai_thani
+	11371=jungle # b_thoulakhom
+	11370=hills # b_meun
+	11368=jungle # b_feuang
+	10052=plains # b_xanakharm
+	11369=jungle # b_phon_hong
+	10071=jungle # b_phainam
+	11359=hills # b_nan_lo
+	11366=hills # b_vangvieng
+	10053=mountains # b_xaisomboun
+	11374=hills # b_viengthong
+	11373=hills # b_borikhane
+	10049=jungle # b_pakxan
+	11375=jungle # b_pakkading
+# k_annam
+## d_son_tay
+    10863=forest  # b_phu_yen
+    10871=hills  # b_oua_hinh
+    10865=hills  # b_xuan_dai
+    10794=hills  # b_muang_chien
+    9962=hills  # b_nghia_lo
+    9963=mountains  # b_tu_le
+    10840=hills  # b_van_yen
+    9961=forest  # b_trieu_le
+    10850=forest  # b_luc_an
+    10884=plains  # b_tam_duong
+    10814=plains  # b_doan_hung
+    10835=forest  # b_son_duong
+    10872=farmlands  # b_yen_lac
+    10830=farmlands  # b_phong_chau
+    10866=plains  # b_thanh_ba
+    10887=plains  # b_ha_hoa
+## d_lao_nhai
+    9954=mountains  # b_cam_duong
+    10853=hills  # b_bao_ha
+    10285=forest  # b_muang_chan
+    10837=hills  # b_lai
+    10836=hills  # b_thanh_huyen
+    9955=hills  # b_thanh_qui
+    9953=mountains  # b_xieng_my
+    10857=hills  # b_chieu_tan
+    10886=hills  # b_thuy_vi
+    10877=hills  # b_nam_si
+## d_muong
+    9983=hills  # b_chiang_ko
+    10823=hills  # b_muong_lat
+    9959=hills  # b_muang_wat
+    10843=forest  # b_moc
+    10845=forest  # b_da_bac
+    9957=forest  # b_mai_da
+    9978=forest  # b_duong_xamh
+    10825=forest  # b_lac_son
+	11378=hills # b_sam_tay
+	11379=hills # b_muang_quan
+	11377=mountains # b_muang_et
+	10046=hills # b_vieng_say
+## d_cu_duc
+    10798=plains  # b_cam_xuyen
+    9980=hills  # b_ngang
+    9979=plains  # b_ke_vinh
+    10806=plains  # b_dien_chau
+    10809=hills  # b_ban_khang
+    9984=mountains  # b_ky_son
+    10807=mountains  # b_tuong_duong
+    10804=jungle  # b_thanh_chuong
+    10665=jungle  # b_anh_son
+    9985=jungle  # b_do_luong
+    10801=wetlands  # b_ha_tinh
+    10800=jungle  # b_huong_son
+## d_cuu_chan
+    9964=plains  # b_hoa_luan
+    10820=plains  # b_gia_vien
+    10832=plains  # b_kim_bang
+    9967=farmlands  # b_phu_ly
+    10831=wetlands  # b_bo_hai_khauh
+    10819=wetlands  # b_vong_doan
+    9956=farmlands  # b_pho_hien
+    9976=farmlands  # b_tuc_mac
+    10810=plains  # b_tinh_gia
+    10284=forest  # b_phu_quy
+    10888=forest  # b_lam_kinh
+    10812=hills  # b_thuong_xuan
+    9982=plains  # b_thanh_hoa
+    10816=plains  # b_tu_pho
+    10818=plains  # b_tay_do
+## d_hai_dong
+    9969=forest  # b_tan_yen
+    10876=hills  # b_an_bang
+    9972=farmlands  # b_an_lao
+    9977=farmlands  # b_dong_trieu
+    10824=plains  # b_van_don
+    9973=wetlands  # b_thuy_dong
+    10860=farmlands  # b_van_kiep
+    9975=farmlands  # b_thanh_lam_2
+    9966=wetlands  # b_vinh_lai
+## d_kinh_bac
+    10878=farmlands  # b_hiep_hoa
+    10868=forest  # b_dinh_ca
+    10029=plains  # b_thai_nguyen
+    10879=plains  # b_phuong_nhan
+    10867=farmlands  # b_dai_lang
+    9971=plains  # b_thach_that
+    9981=farmlands  # b_long_bien
+    10783=farmlands  # b_luy_lau
+    10838=farmlands  # b_do_dong_giang
+    9974=farmlands  # b_duong_lam
+    10885=plains  # b_huu_lungng
+    9970=plains  # b_na_ngan
+    10883=hills  # b_vinh_binh
+    10813=hills  # b_to_mau
+    10834=forest  # b_mon
+## d_muang_thaeng
+    10858=hills  # b_muang_thaeng
+    10842=hills  # b_muang_ma
+    9952=hills  # b_muang_fang
+    10873=mountains  # b_tung_lang
+    10861=mountains  # b_phu_phang
+    9951=hills  # b_na_tiat
+    10847=mountains  # b_muang_te
+    9950=mountains  # b_muang_lay
+    10841=hills  # b_khiem
+    9958=forest  # b_muang_lo
+    10870=hills  # b_muang_moui
+    10852=forest  # b_mai_son
+## d_lo
+    9939=mountains  # b_tu_long
+    10846=mountains  # b_ma_lat
+    10805=mountains  # b_ma_bach
+    10826=forest  # b_tuyen_quang
+    10854=forest  # b_vi_long
+    10859=hills  # b_yen_binh
+    10848=forest  # b_do_kim
+    10862=hills  # b_vi_xuyen
+    10282=hills  # b_thien_bao
+    10881=mountains  # b_meo_vac
+    10833=mountains  # b_baliping
+    9960=hills  # b_yen_minh
+## d_nong
+    10882=hills  # b_thong_nong
+    10880=hills  # b_kim_pha
+    10874=hills  # b_pac_mieu
+    10864=hills  # b_tang
+    10829=forest  # b_bac_kan
+    9965=hills  # b_ba_be
+    10856=forest  # b_vu_lac
+    10839=forest  # b_khoui_sap
+    9968=hills  # b_that_nguyen
+    10283=forest  # b_dong_khe
+    10875=hills  # b_tu_lang
+    10792=plains  # b_cingsae_si
+    10851=hills  # b_nazboh_en
+    10795=hills  # b_baisheng
+
+# k_champa
+## d_amaravati
+    ### c_indrapura
+        10745=farmlands # b_indrapura
+        9991=jungle # b_yan_kaksmindra
+        10744=hills # b_ma_cek
+        11097=jungle # b_khang
+        11098=plains # b_haripura
+    ### c_mahaparvata
+        11096=hills # b_mahaparvata
+        10742=plains # b_sa_huyen
+        9992=plains # b_dravapura
+    ### c_kon_tum
+        11094=hills # b_kon_tum
+        9997=mountains # b_ro_ngao
+    ### c_bahnar
+        9994=hills # b_bahnar
+        11092=hills # b_hayav
+    ### c_simhapura
+        10747=farmlands # b_simhapura
+        10746=jungle # b_sambhubhadresvara
+        11099=hills # b_bhing
+        11100=hills # b_prao
+        11101=hills # b_darong
+## d_vijaya
+    ### c_vijaya
+        10741=farmlands # b_vijaya
+        11095=hills # b_vidyanapura
+        11091=jungle # b_turong
+        10007=farmlands # b_yang_mtian
+        10740=jungle # b_ceng_ko
+    ### c_aia_ru
+        10008=jungle # b_aia_ru
+        11090=hills # b_koh_meng
+        10739=jungle # b_harek_kah
+## d_tribhuvanadevi
+    ### c_visnupura_vn
+        8690=farmlands # b_visnupura_vn
+        9989=farmlands # b_navap
+        11104=jungle # b_bal_dil
+    ### c_kandarpapura
+        10748=jungle # b_kandarpapura
+        9986=wetlands # b_amarendrapura
+        11102=wetlands # b_lurong
+        11103=jungle # b_uu_tut
+    ### c_melhi
+        9987=jungle # b_ulik
+        9988=jungle # b_kurung
+## d_panduranga
+    ### c_panduranga
+        10000=plains # b_virapura
+        11110=jungle # b_bal_batsinang
+        10013=plains # b_parik
+        11111=hills # b_bal_hangao
+        10749=plains # b_bal_sri_banay
+        10645=hills # b_hamu_linang
+    ### c_kauthara
+        10002=hills # b_po_nagar
+        11114=jungle # b_aia_trang
+        10732=jungle # b_irahani
+        10653=plains # b_kam_ranh
+        10643=hills # b_madahura
+    ### c_lach
+        10004=jungle # b_k_ho
+        10001=hills # b_sre
+        11112=hills # b_da_don
+    ### c_pajai
+        11107=hills # b_jrin
+        10005=jungle # b_malithit
+        10642=plains # b_bal_ula
+## d_dagar
+    ### c_dagar
+        11087=plains # b_yang_prong
+        10276=jungle # b_ploi_me
+    ### c_dak_lak
+        9995=plains # b_krong_buk
+        10297=jungle # b_krong_ana
+        10009=hills # b_krong_kma
+    ### c_jarai
+        9993=jungle # b_ia_krai
+        11093=hills # b_ploi_kodur
+    ### c_ayun_pa
+        11088=jungle # b_drang_lai
+        9996=jungle # b_yang_mum
+        11089=jungle # b_bang_keng
+## d_sap
+    ### c_baigaur
+        11105=wetlands # b_baigaur
+        10011=jungle # b_balau
+        10010=wetlands # b_uu_kan
+        11106=plains # b_cay_gao
+    ### c_kraong
+        10014=jungle # b_kraong
+        10623=plains # b_ba_ria
+        10295=jungle # b_ham_tan
+## d_ma_vn
+    ### c_cho_ro
+        11108=plains # b_da_gui
+        11109=jungle # b_to
+        10624=plains # b_krung
+    ### c_mnong
+        9999=jungle # b_gar_
+        9998=jungle # b_si_to
+    ### c_blao
+        10644=jungle # b_ngan
+        10015=jungle # b_stieng
+        10296=jungle # b_bao_lam
+
+
+# e_pilipinas
+## d_ifugao
+    ### c_lagawe
+        9671=mountains
+    ### c_apayao
+        9664=mountains
+    ### c_buguias
+        10758=mountains
+        9672=mountains
+    ### c_kalinga
+        10757=mountains
+        9670=mountains
+## d_pulaoan
+    ### c_ipolot
+        9708=hills
+        11155=jungle
+    ### c_aborlan
+        10769=hills
+    ### c_busuanga
+        10691=jungle
+    ### c_taytay
+        10768=jungle
+		9709=jungle
+## d_cagayan_valley
+    ### c_aparri
+        10754=wetlands
+        10753=jungle
+    ### c_aborlan
+        10756=floodplains
+        9665=floodplains
+    ### c_balintang
+        10278=hills
+        11156=hills
+    ### c_bolo
+        9666=floodplains
+        10752=floodplains
+        10755=floodplains
+    ### c_bayombong
+        9668=hills
+        10006=floodplains
+        9667=jungle
+    ### c_burubur
+        10694=hills
+        9669=hills
+## d_agta
+    ### c_dupaningan
+        11151=mountains
+    ### c_divilikan
+        10695=mountains
+    ### c_kasiguran
+        9682=jungle
+    ### c_binangonan
+        9681=hills
+        9684=hills
+    ### c_polo
+        11147=jungle
+## d_lanao
+    ### c_masiu
+        11470=wetlands
+    ### c_baloi
+        9779=hills
+    ### c_unayan
+        9738=plains
+    ### c_bayabao
+        11154=hills
+## d_mait
+    ### c_lubang
+        11145=jungle
+        9704=hills
+    ### c_mait_ph
+        11157=hills
+        9705=jungle
+        9707=jungle
+    ### c_minolo
+        11144=wetlands
+        9706=hills
+    ### c_mamburao
+        10767=jungle
+        11158=jungle
+## d_sambali
+    ### c_hubek
+        9685=hills
+        9677=wetlands
+    ### c_masinlok
+        10750=jungle
+        9675=jungle
+## d_pangasinan
+    ### c_bolinao
+        9676=plains
+    ### c_binalatongan
+        9673=farmlands
+        10738=farmlands
+        9674=farmlands
+    ### c_agoo
+        10765=wetlands
+        9662=plains
+## d_iluek
+    ### c_laoag
+        10763=plains
+        9660=plains
+    ### c_bigan
+        9661=wetlands
+    ### c_narbakan
+        10764=forest
+        9663=plains
+## d_pangpang
+    ### c_bakulud
+        9678=jungle
+        9679=farmlands
+        11149=jungle
+    ### c_pinagpanaan
+        9680=jungle
+        10751=jungle
+        10693=jungle
+## d_tondo
+    ### c_pulilan
+        9686=farmlands
+    ### c_taytay
+        9688=wetlands
+    ### c_tondo
+        9687=plains
+        11148=farmlands
+## d_maynila
+    ### c_maynila
+        9683=wetlands
+        11146=wetlands
+    ### c_pangil
+        9693=wetlands
+        9692=hills
+    ### c_tangway
+        9689=hills
+## d_kumintang
+    ### c_tulay
+        9691=jungle
+    ### c_balayan
+        9690=plains
+    ### c_galban
+        11115=jungle
+## d_tayabas
+    ### c_tayabas
+        9694=hills
+        9697=jungle
+        9695=jungle
+    ### c_malindug
+        9696=hills
+## d_lupah_sug
+    ### c_jawi_jawi
+        11150=jungle
+    ### c_sug
+        9744=plains
+        11152=jungle
+    ### c_tagima
+        11153=jungle
+## d_samboangan
+    ### c_kumalarang
+        9740=jungle
+    ### c_dapitan
+        9741=jungle
+        9739=hills
+    ### c_samboangan
+        9743=plains
+        9742=jungle
+        9778=jungle
+## d_bikol
+    ### c_katanduan
+        9701=jungle
+    ### c_albay
+        10766=wetlands
+        9702=plains
+    ### c_daet
+        9698=jungle
+        9699=jungle
+    ### c_sorsogon
+        9703=jungle
+    ### c_naga
+        10692=plains
+        9700=jungle
+## d_masbat
+    ### c_masbat
+        9721=jungle
+        9791=jungle
+## d_panay
+    ### c_lomlom
+        9710=jungle
+    ### c_hantik
+        9712=plains
+    ### c_akean
+        9711=jungle
+        11116=jungle
+    ### c_dumangas
+        11117=jungle
+        10696=plains
+    ### c_oton
+        9713=farmlands
+        11160=farmlands
+## d_bo_ol
+    ### c_bo_ol
+        9717=plains
+        9716=jungle
+## d_buglas
+    ### c_tanghay
+        9715=hills
+        11120=jungle
+    ### c_diyolongan
+        9790=hills
+        11119=jungle
+    ### c_tanghay
+        11118=jungle
+    ### c_binalbagan
+        9720=plains
+    ### c_magsungay
+        9714=jungle
+## d_sugbu
+    ### c_nahalin
+        9788=jungle
+    ### c_sialo
+        9719=jungle
+    ### c_sugbu
+        9718=plains
+        9789=jungle
+## d_east_bisaya
+    ### c_kankabatok
+        11308=wetlands
+    ### c_abuyog
+        9726=hills
+        11307=jungle
+    ### c_ormok
+        9725=jungle
+        11309=jungle
+    ### c_ibabao
+        9722=jungle
+        11311=wetlands
+    ### c_borongan
+        9723=hills
+        11310=jungle
+    ### c_kalbiga
+        9792=plains
+    ### c_libunao
+        9724=plains
+## d_butuan
+    ### c_suligaw
+        9727=hills
+        11304=jungle
+    ### c_tandag
+        9781=hills
+        9782=jungle
+    ### c_butuan
+        9728=farmlands
+    ### c_agusan
+        9729=jungle
+        10699=floodplains
+        11306=floodplains
+## d_himologan
+    ### c_himologan
+        9732=forest
+    ### c_bukidnon
+        9733=forest
+        10697=forest
+        11305=hills
+        11651=hills
+## d_maguindanao
+    ### c_kotabatu
+        9735=wetlands
+        9736=floodplains
+        9785=floodplains
+        11652=floodplains
+    ### c_lebak
+        10698=hills
+        9737=floodplains
+        11653=wetlands
+    ### c_flomlok
+        9734=hills
+## d_dabaw
+    ### c_dinadasan
+        9784=hills
+        11654=forest
+    ### c_dabaw
+        9786=plains
+        9787=jungle
+    ### c_bisaya
+        9730=plains
+    ### c_baganga
+        9783=hills
+        9731=floodplains
+        10700=hills
+## d_sandakan
+    ### c_sandakan
+        9803=wetlands
+        9805=jungle
+    ### c_kudat
+        9793=hills
+        9807=jungle
+    ### c_tawau
+        9799=jungle
+        9801=wetlands
+        9800=jungle
+
+# e_suvarnaphum
+## k_isana #plains are ignored
+    ### d_nakhon_phanom
+	    10140=farmlands # b_nakhon_phanom
+		11424=farmlands # b_marukkha_nakorn
+		10142=plains # b_phang_phrao
+		10129=jungle # b_chai_buri
+		10057=farmlands # b_khantabuli
+		11386=farmlands # b_phonsim
+		11387=jungle # b_outhomphone
+		10060=hills # b_phine
+		10058=hills # b_assaphone
+		11388=jungle # b_sonburi
+		10062=jungle # b_thapangthong
+		10143=jungle # b_mukdahan
+		11426=hills # b_wan_yai
+		11385=farmlands # b_soum_lo
+		10055=jungle # b_hineboun
+		11404=hills # b_koun_kham
+		10054=hills # b_tha_khek
+	### d_mahasay
+	    11383=jungle # b_mahasay
+		11384=mountains # b_bualapha
+		10059=hills # b_seponh
+		10061=jungle # b_nong
+		10050=mountains # b_khamkeut
+		10056=mountains # b_nakai
+	### d_sekong
+	    10065=jungle # b_sekong
+		11390=hills # b_dak_cheung
+		10066=mountains # b_kaleum
+		10070=jungle # b_saysetha
+		10069=hills # b_sanamsai
+		10646=hills # b_sansay
+		10063=jungle # b_salavan
+		11391=hills # b_paksong
+		10064=jungle # b_thoumlane
+	### d_shrestapura
+	    10647=hills # b_huei_thamo
+		10068=hills # b_don_khong
+		11410=jungle # b_phontong
+		11393=jungle # b_mounlapamok
+		11436=hills # b_khong_chiam
+		11432=hills # b_chanla_na_dom
+		10147=jungle # b_det_udom
+		11389=hills # b_khong_sedon
+	### d_nong_khai
+	    10130=farmlands # b_phon_phaeng
+		11303=farmlands # b_phen
+		11302=farmlands # b_nong_han
+		11299=jungle # b_tha_bo
+		10136=jungle # b_loei
+		11298=hills # b_na_sao
+		10137=hills # b_nam_nao
+		11297=hills # b_wang_saphung
+		10133=jungle # b_nong_bua_lam_phu
+	### d_mae_si
+	    11425=hills # b_kut_bak
+		10164=jungle # b_khaset_sombun
+		11446=jungle # b_chum_phae
+		11442=jungle # b_nong_kong_kaeo
+		11444=jungle # b_ka_long
+		10731=jungle # b_khao_din_bueng_don
+	### d_khorakhapura
+	    11438=jungle # b_sema
+		10639=jungle # b_dan_chapo
+		10640=hills # b_chan_thuek
+		10186=jungle # b_chai_badan
+		10163=hills # b_nong_bua_daeng
+		10165=jungle # b_dan_chuan
+		10161=hills # b_khon_buri
+	### d_kok_khan
+	    10148=jungle # b_si_sa_ket
+		11433=hills # b_lamduan
+		10149=hills # b_khantaralak
+		11434=hills # b_sikhoraphum
+		10156=hills # b_phanom_rung
+		10150=hills # b_kuupatai
+## k_chenla
+	### d_sambor_prei_kuk # plains are ignored
+		10775=jungle # b_phnom_yong
+		10209=jungle # b_phnom_santouk
+		10617=jungle # b_ugrapura
+		10217=wetlands # b_kampong_kdei
+		10770=wetlands # b_andet
+		10214=wetlands # b_srey
+		10213=wetlands # b_prey_nokor
+		11456=farmlands # b_kampong_thma
+	### d_aninditapura
+	    10771=wetlands # b_bakong
+		10610=wetlands # b_phnom_krom
+		10293=farmlands # b_hariharalaya
+		11451=farmlands # b_nokor_pheas
+		11460=farmlands # b_srei_snam
+		10237=jungle # b_kbal_spean
+		10609=jungle # b_khna
+		10779=jungle # b_khvav
+		10236=hills # b_beng_mealea
+		11458=jungle # b_tbaeng_meanchey
+		10228=jungle # b_lingapura
+		10277=jungle # b_trapeang
+		10790=plains # b_samraong
+		10626=hills # b_preah_vihear
+		10229=jungle # b_neak_buos
+		11453=jungle # b_choam_ksant
+	### d_battambang
+	    10613=wetlands # b_baset
+		10627=plains # b_bakan
+		10210=jungle # b_pailin
+		10612=jungle # b_samlout
+		10208=wetlands # b_ek_phnom
+		10782=farmlands # b_neang
+		11449=jungle # b_phnom_proek
+		11450=farmlands # b_phnom_srok
+		10781=farmlands # b_baos_sbov
+	### d_dviradapura
+		10216=farmlands # b_dviradapura
+	    10227=farmlands # b_chaturmukha
+		10628=farmlands # b_longvek
+		11452=farmlands # b_tuek_phos
+		11457=wetlands # b_bantaey_dei
+		10226=hills # b_phnom_kravanh
+		10663=jungle # b_phumi_rovieng
+		10662=hills # b_phnom_aoral
+		10291=hills # b_phnom_sruoch
+	### d_vyadhapura
+	    10242=floodplains # b_angkor_borei
+		10215=farmlands # b_phnom_bayong
+		10620=farmlands # b_neang_khmao
+		10658=floodplains # b_chisor
+        10016=jungle # b_ba_ra
+		10012=floodplains # b_prey_rodum
+		11461=jungle # b_chum_kiri
+		11455=jungle # b_phnom_chhngok
+		10665=jungle # b_bantaey_meas
+		10222=jungle # b_chhloung
+		10621=floodplains # b_kiri_vong
+		11454=floodplains # b_preah_theat_baray
+		10231=floodplains # b_prasat_sang
+	### d_can_tho
+		9990=wetlands # b_kottinagara
+		10022=wetlands # b_prey_kin
+		10020=farmlands # b_an_giang
+		10025=jungle # b_kien_giang
+		10289=jungle # b_ke_mot
+        10018=wetlands # b_vung_gou
+        10019=wetlands # b_phsar_dek
+        10003=wetlands # b_trah_pung
+		10622=wetlands # b_sadek
+		10021=floodplains # b_mot_chrouk
+		10017=floodplains # b_cho_lon
+		10026=wetlands # b_soc_trang
+		10023=wetlands # b_ca_mau
+		10024=wetlands # b_bac_lieu
+	### d_ban_lun
+	    10224=jungle # b_mondul_kiri
+		10615=jungle # b_kaoh_nheak
+		10777=jungle # b_dei_ey
+		10223=hills # b_senmonorom
+		10776=jungle # b_pechr_chenda
+		10235=jungle # b_ta_veang
+		10233=jungle # b_ban_lung
+		10234=jungle # b_koun_mom
+	### d_koh_kong
+	    10219=jungle # b_koh_kong
+		10659=hills # b_srae_ambel
+		10218=jungle # b_khemara_phoumin
+		10290=hills # b_thma_bang
+		10630=jungle # b_veal_veaeng
+		10844=jungle # b_ream
+		10656=jungle # b_kampong_seila
+	### d_sambhupura
+	    10221=jungle # b_bantaey_chrouy
+		10619=jungle # b_preaek_prasab
+		10616=jungle # b_koh_krieng
+		10240=hills # b_sandepheap
+		10238=jungle # b_phnom_preah_theat
+		10785=jungle # b_preah_meas
+		10239=jungle # b_thala_borivat
+		10784=jungle # b_chheab
+		10729=jungle # b_mlu_prey
+## k_lavapura # plains are default
+	### d_lavapura
+		10185=floodplains # b_lavapura
+		10288=farmlands # b_tak_pha
+		11564=floodplains # b_sala_li_lao
+		10636=jungle # b_phu_kha
+		10637=jungle # b_khok_charoen
+		10159=jungle # b_nong_sarai
+		11560=jungle # b_raeng_khoi
+		10183=floodplains # b_ayutthaya
+		10181=wetlands # b_phra_pradaeng
+		10184=wetlands # b_wiset_chai_chan
+		11563=wetlands # b_ban_pan
+		10182=wetlands # b_ban_talat_khwan
+		11565=floodplains # b_singhapura
+		10635=farmlands # b_chainatburi
+		10171=jungle # b_khlong_lan
+		11567=jungle # b_huainam_hom
+		11253=farmlands # b_phayuha_khiri
+		10173=farmlands # b_chumsaeng
+	### d_u_thong
+	    10633=wetlands # b_u_thong
+		10177=wetlands # b_suvarnapura_th
+		10178=floodplains # b_nang_buat
+		11557=wetlands # b_sakhonburi
+		10180=wetlands # b_thonburi
+		10632=wetlands # b_nakhon_chai_si
+		10175=hills # b_ban_rai
+		11566=jungle # b_pradu_yuen
+		10176=jungle # b_ka_rung
+		10638=jungle # b_kanchanaburi
+		10090=hills # b_si_sawat
+		10089=jungle # b_bo_phloi
+	### d_tambralinga
+		10109=floodplains # b_tambralinga
+		11129=hills # b_thung_song
+		10111=jungle # b_thung_yai
+		10105=jungle # b_wiang_sa
+		11134=jungle # b_ban_na
+		10102=hills # b_sa_ulao
+		10103=plains # b_chaiya
+		10104=jungle # b_khiri_rat_nikhom
+		11136=hills # b_khao_ka
+	### d_takola
+		10106=jungle # b_takola
+		11131=hills # b_tako_klang
+		11132=hills # b_bu_nga
+		10107=hills # b_salang
+		10108=hills # b_pantai_smor
+		11128=jungle # b_klong_thom
+	### d_kra
+	    10098=hills # b_uthomporn
+		11137=jungle # b_tha_sae
+		10097=jungle # b_pribpri
+		10095=jungle # b_na_yang
+		11139=jungle # b_pranburi
+		10652=jungle # b_nong_ya_plong
+		10281=wetlands # b_khu_bua
+		10099=hills # b_ranong
+		10101=jungle # b_tako
+		10100=mountains # b_ranong
+		9830=hills # b_zardan
+		10657=hills # b_bokpyin
+		11756=jungle # b_kadan
+		11757=hills # b_lanbi
+	### chan_kabui
+		10190=hills # b_chan_kabui
+		10192=jungle # b_trat
+		11448=jungle # b_bo_rai
+		10650=hills # b_khlong_phlu
+		10651=jungle # b_phya_re
+		10195=wetlands # b_stoeng_chraw
+		10188=farmlands # b_sri_mahosot
+		11559=farmlands # b_kabin_buri
+		10189=plains # b_phra_stoeng
+		10247=farmlands # b_phrom_hod
+		10193=jungle # b_rayong
+## arakan india misc
+	11522=jungle # b_gwa
+	11542=jungle # b_kaptai
+	11543=jungle # b_chakaria
+	9865=mountains # b_kohima
+	821=hills # b_herombial
+	854=hills # b_tlawng
+	11544=hills # b_myebon
+	11545=mountains # b_thanphanbin
+	11546=hills # b_toungup
+	11547=plains # b_shwehle
+	824=mountains # megahlaya
+	1245=mountains # meahlaya
+	9583=mountains # b_thabeik_taung
+	9584=jungle # b_matamahuri
+	11580=hills # b_kyauktaw
+	11581=mountains # b_paletwa
+	10797=hills # b_kyeintali
+	#bengal
+	1240=wetlands # b_fathabad
+	1236=wetlands # b_chandradvipa
+	835=wetlands # b_bagerhat
+	836=wetlands # b_ishwaripur
+	863=wetlands # b_chatrabhog
+	862=wetlands # b_sagardwip
+	864=wetlands # b_chandraketugarh
+	861=wetlands # b_pabna
+	830=wetlands # b_pattikera
+	#tibet
+	9948=hills # b_muli
+
+
+## d_langkasuka
+    10116=jungle #b_singora
+    10115=jungle #b_chenok
+    11122=jungle #b_tiba
+    10113=jungle #b_mardelong
+    11127=jungle #b_khuhasawan
+    11125=jungle #b_pak_payoon
+    11123=jungle #b_rattaphum
+    10117=jungle #b_narathiwat
+    10118=jungle #b_pattani
+    10119=jungle #b_yala
+## d_kedah
+    10248=jungle #b_kedah
+    10249=jungle #b_penang
+    10250=hills #b_kuala_kangsar
+    10251=jungle #b_manjung
+    10112=jungle #b_terang
+    11126=jungle #b_kantang
+    11124=jungle #b_palanda
+    10114=jungle #b_setul
+    11121=jungle #b_langkawi
+## d_ujong_tanah
+    10256=jungle #b_johor
+    10259=jungle #b_mersing
+    10436=jungle #b_kota_tinggi
+    10258=jungle #b_segamat
+    10255=jungle #b_batu_palat
+    10257=hills #b_temasik
+    10253=jungle #b_melaka
+    10254=jungle #b_kuala_pilah
+    10252=jungle #b_kuala_selangor
+    10438=jungle #b_kuala_langat
+    10439=jungle #b_klang
+## d_kelantan
+    10265=jungle #b_kelantan
+    10266=jungle #b_kampung_rajah
+    10264=jungle #b_terengganu
+    10261=jungle #b_kuala_dungun
+## d_pahang
+    10260=jungle #b_pekan
+    10437=jungle #b_rompin
+    10269=jungle #b_paya_besar
+    10263=jungle #b_temerloh
+    10434=jungle #b_maran_bera
+    10268=jungle #b_jerantut
+    10435=jungle #b_lipis
+    10262=hills #b_raub
+    10267=hills #b_gua_musang
+## d_lamuri
+    10303=hills #b_lamuri
+    11472=plains #b_kutaraja
+    11471=hills #b_loknga
+    10304=hills #b_daya
+    10917=jungle #b_panga
+    10915=jungle #b_perlak
+    10312=jungle #b_langsa
+    11249=jungle #b_tamiang
+    10305=hills #b_pedir
+    11473=hills #b_tangse
+    10427=jungle #b_pasai
+    11474=jungle #b_pasangan
+    10916=hills #b_samalanga
+    10308=jungle #b_bireuen
+    11475=jungle #b_jambu_ayer
+## d_gayo
+    10310=hills #b_takengon
+    10311=hills #b_ketambe
+    10918=hills #b_linge
+    10315=jungle #b_simeulue
+    10306=jungle #b_pasikaram
+    10307=jungle #b_seunagan
+    10309=jungle #b_susoh
+    10313=jungle #b_tapaktuan
+    10919=jungle #b_raket
+    10314=jungle #b_singkil
+## d_aru
+    10316=plains #b_aru
+    10318=jungle #b_benteng_putri_hijau
+    11250=plains #b_deli_sea
+    10743=hills #b_karo
+    10428=plains #b_kutambaru
+    10320=jungle #b_simalungun
+    11251=jungle #b_batubara
+    10319=jungle #b_serdeng_bedagai
+    10321=jungle #b_asahan
+    11252=jungle #b_panai
+    10327=jungle #b_bilah
+    10710=jungle #b_kota_pinang
+    10326=jungle #b_kualuh
+    10331=jungle #b_padang_lawas
+    10332=jungle #b_north_padang_lawas
+## d_batak
+    11476=hills #b_samosir
+    10322=jungle #b_toba
+    10323=hills #b_humbang
+    10325=jungle #b_silindung
+    10317=hills #b_dairi
+    11463=hills #b_pakpak_bharat
+    10329=jungle #b_mandailing
+    10330=hills #b_panyabungan
+    10324=jungle #b_tapanuli_tengah
+    11464=jungle #b_sibolga
+    10333=hills #b_padang_sidempuan
+    10328=jungle #b_nias
+    10711=jungle #b_nias_2
+    10348=jungle #b_batu_islands
+## d_jambi
+    10369=jungle #b_muaro_jambi
+    10949=wetlands #b_dusun_mudo
+    10931=wetlands #b_tanjung
+    10721=jungle #b_sungai_cemara
+    10950=wetlands #b_simpang_jelita
+    10367=wetlands #b_rantau_rasau
+    10934=jungle #b_kuala_jambi
+    10951=wetlands #b_teluk_dawan
+    10952=jungle #b_pematang_lumut
+    10368=jungle #b_tanjung_bolo
+    10946=jungle #b_lubuk_besar
+    10941=jungle #b_bram_itam
+    10942=jungle #b_merlung
+    10932=jungle #b_muara_bulian
+    10371=jungle #b_benteng
+    10374=jungle #b_merangin
+    10945=jungle #b_berangan
+    10370=jungle #b_muara_tebo
+    10940=jungle #b_teluk_kuali
+    10939=jungle #b_tanah_garo
+    10372=jungle #b_tenah_sepanggal
+    10725=jungle #b_senemat_ulu
+    10938=jungle #b_senemat
+## d_kerinci
+    10948=jungle #b_bangko
+    10375=jungle #b_sarolangun
+    10933=jungle #b_bukit_bungkul
+    10936=hills #b_tanjung_dalam
+    10724=jungle #b_serolangun
+    10947=jungle #b_air_hitam
+    10935=jungle #b_pemuncak
+    10373=hills #b_kerinci
+    10937=hills #b_siulak_deras
+## d_siak
+    10335=jungle #b_dumai
+    10334=wetlands #b_rokan_hilir
+    10708=jungle #b_dumai_2
+    10336=jungle #b_rokan_hulu
+    10709=jungle #b_dumai_4
+    10405=jungle #b_batam
+    10404=jungle #b_karimun
+    10403=hills #b_bintan
+    10402=jungle #b_lingga
+    10338=jungle #b_kampar
+    10339=jungle #b_east_kampar
+    10720=jungle #b_kampar_2
+    10728=jungle #b_kampar_3
+    10340=jungle #b_siak
+    10727=jungle #b_senapelan
+    10714=wetlands #b_siak_2
+    10713=jungle #b_siak_3
+    10337=jungle #b_bengkalis
+    10341=wetlands #b_meranti_islands
+    10712=jungle #b_indragiri_2
+    10343=jungle #b_indragiri_hulu
+    10344=wetlands #b_north_indragiri_hilir
+    10345=wetlands #b_south_indragiri_hilir
+    10346=jungle #b_west_pelalawan
+    10726=jungle #b_pelalawan_2
+    10347=wetlands #b_east_pelalawan
+## d_mentawai
+    10355=jungle #b_siberut
+    10719=jungle #b_siberut_2
+    10360=jungle #b_mentawai_islands
+    10718=jungle #b_north_mentawai
+## d_minangkabau
+    10351=hills #b_pariangan
+    10359=hills #b_tanah_datar
+    11465=hills #b_agam
+    11467=hills #b_singkarak
+    11466=jungle #b_limapuluh_koto
+    10353=jungle #b_padang_pariaman
+    10352=jungle #b_maninjau
+    10354=jungle #b_painan
+    10350=hills #b_pasaman
+    10349=jungle #b_batahan
+    10430=jungle #b_inderapura
+    10361=jungle #b_mukomuko
+    10358=jungle #b_dharmasraya
+    10342=jungle #b_sijunjung
+    10356=jungle #b_sungai_pagu
+    10357=hills #b_muaro_labuh
+## d_palembang
+    10379=floodplains #b_palembang
+    10923=floodplains #b_sebalik
+    10920=wetlands #b_sungai_batang
+    10925=floodplains #b_muara_padang
+    10924=floodplains #b_makarti_jaya
+    10922=wetlands #b_terlangu
+    10716=floodplains #b_purnajaya
+    10953=jungle #b_mesuji_raya
+    10382=floodplains #b_pedamaran
+    10928=jungle #b_tambangan
+    10715=jungle #b_cengal
+    10926=jungle #b_sungai_menang
+    10381=wetlands #b_air_sugihan
+    10927=jungle #b_tulung_selapan
+    10376=jungle #b_banyuasin
+    10930=jungle #b_muara_merang
+    10921=jungle #b_tanah_pilih
+    10377=jungle #b_lubuk_bintialo
+    10722=jungle #b_keluang
+    10410=jungle #b_north_bangka
+    10409=jungle #b_south_bangka
+    10408=jungle #b_belitung
+## d_bangkahulu
+    10362=jungle #b_tanek_redjang
+    10363=hills #b_central_bengkulu
+    10717=jungle #b_central_bengkulu_2
+    10432=hills #b_lebong
+    10431=jungle #b_south_bengkulu
+    10364=jungle #b_seluma
+    10365=jungle #b_enggano
+## d_basemah
+    10387=jungle #b_ogan_komering_ulu
+    10385=hills #b_ogan_komering_ulu_selatan
+    10386=plains #b_ogan_komering_ulu_timur
+    10380=jungle #b_musi_rawas
+    10944=jungle #b_surulangun
+    10723=jungle #b_musi_rawas_2
+    10378=jungle #b_musi_rawas_utara
+    10383=hills #b_empat_lawang
+    10384=hills #b_lahat
+    10954=jungle #b_prabumulih
+    10929=jungle #b_pagarkaja
+    10943=jungle #b_sanga_desa
+    10388=jungle #b_muara_enim
+## d_lampung
+    10389=jungle #b_tulang_bawang
+    10433=jungle #b_mesuji
+    10394=plains #b_central_lampung
+    11468=plains #b_menggala
+    10395=wetlands #b_sekampung
+    10396=plains #b_natar
+    11469=plains #b_palas_pasemah
+    10392=jungle #b_pekon_bakhu
+    10390=jungle #b_batu_brak
+    10393=jungle #b_tanggamus
+    10391=jungle #b_krui
+## d_burune
+    10455=jungle #b_burune
+    10456=jungle #b_belait
+    11490=jungle #b_limbang
+    9813=jungle #b_pulo_tigah
+    10457=jungle #b_temburong
+    11488=jungle #b_long_seridan
+    11489=hills #b_bakelalan
+    10451=hills #b_belaga
+    11477=jungle #b_long_murum
+    10452=wetlands #b_miri
+    10453=wetlands #b_baram
+    11491=hills #b_pa_dali
+    10454=jungle #b_sibuti
+    10446=jungle #b_tatau
+    10447=jungle #b_sebauh
+## d_santubong
+    10440=wetlands #b_santubong
+    10730=jungle #b_tanamerah
+    10441=wetlands #b_sedu
+    10448=jungle #b_song
+    10449=jungle #b_nanga_merit
+    10450=jungle #b_kapit
+    10444=jungle #b_melanau
+    11486=wetlands #b_tanga_sirik
+    10445=jungle #b_sibu
+    10703=jungle #b_kuta_lingga
+    10442=jungle #b_saribas
+    10443=jungle #b_kalka
+## d_kuripan
+    10546=wetlands #b_tabalong
+    10481=jungle #b_long_ikis
+    10542=jungle #b_kerang
+    10704=jungle #b_penajam
+    10547=wetlands #b_amuntai
+    10548=wetlands #b_banjarmasin
+    10550=jungle #b_martapura
+    10549=wetlands #b_kandangan
+    10538=wetlands #b_bangkuang
+    10536=wetlands #b_malawaken
+    10534=wetlands #b_lahei
+    10705=jungle #b_muara_lawa
+    10482=jungle #b_sendawar
+    11487=jungle #b_bongan
+    10535=wetlands #b_muara_teweh
+    10537=wetlands #b_karau_kuala
+    10545=jungle #b_tanah_bumbu
+    10544=jungle #b_bungkukan
+    10543=jungle #b_sawuku
+## d_katingan
+    10523=wetlands #b_parenggean
+    10522=wetlands #b_baamang
+    11049=jungle #b_katingan_hilir
+    10527=jungle #b_kasongan
+    10524=wetlands #b_penyumpa
+    10528=jungle #b_palangka_raya
+    10540=jungle #b_pujon
+    10541=wetlands #b_kuala_kapuas
+    10526=jungle #b_katingan_kuala
+    10529=jungle #b_puluang_pisau
+## d_dohoi
+    10531=wetlands #b_takajung
+    10533=hills #b_batupau
+    10493=hills #b_ambalau_serawai
+    10525=hills #b_sebaung
+    11052=jungle #b_tumbang_marak
+    10530=jungle #b_kuala_kurun
+    10539=wetlands #b_dandang
+    10532=wetlands #b_sumbur_barito
+    11482=hills #b_tumbang_olong
+## d_tidung
+    10466=wetlands #b_tarakan
+    10464=wetlands #b_tidung
+    10463=wetlands #b_nunukan
+    9801=jungle #b_tawau
+    9799=jungle #b_lahad_datu
+    11480=jungle #b_kalabakan
+    9800=jungle #b_semporna
+    10458=hills #b_malinau
+    10462=hills #b_lumbis
+    11492=hills #b_long_bawan
+    9810=hills #b_koningau
+    9802=hills #b_tongod
+    9811=hills #b_nabawan
+## d_kayan
+    10469=wetlands #b_sambaliung
+    10467=jungle #b_talisayan
+    10468=jungle #b_kelay
+    10470=wetlands #b_segah
+    10465=wetlands #b_peso
+    11047=hills #b_naha_aya
+    10459=hills #b_bahau
+    11493=mountains #b_apau_ping
+    10460=hills #b_datadian
+    11046=hills #b_kihammawon
+## d_kutai
+    10475=wetlands #b_tenggarong
+    10480=wetlands #b_semboja
+    10478=jungle #b_muara_kaman
+    10479=jungle #b_loa_kulu
+    10476=hills #b_tabang
+    10484=hills #b_long_hubung
+    10477=wetlands #b_kenohan
+    11481=hills #b_agung_baru
+    10461=hills #b_long_nawang
+    10483=hills #b_long_apari
+    10473=wetlands #b_muara_wahau
+    10474=hills #b_busang
+    10706=wetlands #b_muara_bengkal
+    10471=wetlands #b_sangkulirang
+    10707=jungle #b_sangata
+    10472=jungle #b_bengalon
+## d_tanjungpura
+    10514=jungle #b_tanjungpura
+    11484=jungle #b_kendawangan
+    10513=jungle #b_pembedilan
+    10519=jungle #b_sukamara
+    10521=wetlands #b_seruyan_hilir
+    11048=jungle #b_pangkalan_bun
+    11050=jungle #b_lamandau
+    10515=jungle #b_nanga_tayap
+    10511=jungle #b_senduruhan
+    11483=jungle #b_singkup
+    10520=wetlands #b_seruyan_hulu
+    10518=jungle #b_arut
+    11051=jungle #b_nanga_bulik
+## d_wijayapura
+    10499=jungle #b_lemukutan
+    10498=jungle #b_tamarato
+    10407=jungle #b_anambas
+    10406=jungle #b_natuna
+    10507=jungle #b_sukadana
+    10506=jungle #b_karimata
+    10505=wetlands #b_kubu
+    10501=jungle #b_pinyuh
+    10503=jungle #b_mandor
+    10504=wetlands #b_sukalanting
+## d_ketungau
+    10492=wetlands #b_ketungau
+    10702=jungle #b_jasa
+    10508=wetlands #b_sanggau
+    11485=jungle #b_tayan_hulu
+    10502=jungle #b_ngabang
+    10500=jungle #b_bengkayang
+    10701=jungle #b_seluas
+    10509=wetlands #b_meliau
+    10512=jungle #b_simpang_hulu
+    10510=wetlands #b_sekadau
+## d_kapuas_hulu
+    10486=wetlands #b_putussibau
+    10490=wetlands #b_badau
+    10487=wetlands #b_embaloh
+    10491=wetlands #b_seberuang
+    10488=wetlands #b_bunut
+    10489=jungle #b_mentebah
+    10485=jungle #b_medamin
+    10495=wetlands #b_sintang
+    10494=wetlands #b_kayan_sintang
+    10496=jungle #b_nanga_pinoh
+    10497=hills #b_belimbing
+## d_mataram
+    10993=farmlands #b_mataram
+    10985=plains #b_kidul
+    10989=plains #b_prambanan
+    11018=farmlands #b_jagaraga
+    11008=plains #b_lawu
+    10994=farmlands #b_warak
+    11000=farmlands #b_pajang
+    11027=farmlands #b_panunggalan
+    11015=plains #b_merbabu
+    11012=hills #b_mamrati
+    10999=jungle #b_borobudur
+## d_panjalu
+    10987=farmlands #b_daha
+    10982=jungle #b_lodaya
+    10996=hills #b_keling
+    10990=hills #b_tumapel
+    10980=jungle #b_kabalan
+    11006=jungle #b_wwatan
+    11009=hills #b_surawana
+    10995=hills #b_wanagiri
+    10983=hills #b_pacitan
+## d_kalingga
+    11032=plains #b_kayuwangi
+    11071=hills #b_muria
+    11023=hills #b_pikatan
+    11034=jungle #b_kedu
+    11020=hills #b_watuhumalang
+    11017=hills #b_garung
+    11038=farmlands #b_panaraban
+    11035=plains #b_pamali
+## d_lumajang
+    10991=jungle #b_pakembangan
+    10992=jungle #b_baluran
+    10998=jungle #b_pasirputih
+    10978=hills #b_balambangan
+    10975=jungle #b_merubetiri
+    10984=hills #b_raung
+    10974=plains #b_alaspurwa
+    10981=plains #b_lumajang
+    10986=hills #b_argapura
+    10988=hills #b_mahameru
+    10977=hills #b_sadeng
+## d_janggala
+    11002=jungle #b_pamotan
+    10997=jungle #b_brahma
+    11010=plains #b_tamwlang
+    11013=plains #b_watugaluh
+    11014=farmlands #b_kahuripan
+    11028=farmlands #b_hujunggaluh
+    11021=farmlands #b_lwaram
+    11025=farmlands #b_kambangwangi
+    11036=farmlands #b_walaing
+    11070=plains #b_jipang
+## d_madura
+    11031=plains #b_sugenep
+    11030=plains #b_sampang
+    11033=plains #b_bangkalan
+    11418=plains #b_ngaliyao
+## d_bali_sea
+    10973=farmlands #b_gianyar
+    10869=hills #b_karangasem
+    10979=hills #b_buleleng
+    10976=hills #b_gurun
+    10969=plains #b_saksak
+    10968=plains #b_lombokmirah
+## d_bima
+    11246=hills #b_bima
+    11247=jungle #b_sanghyang_api
+    11245=jungle #b_bolo_sea
+    11243=jungle #b_dompo
+    11244=jungle #b_sowal
+    11242=hills #b_tambora
+    11241=plains #b_samawa
+    11248=jungle #b_jereweh
+    11240=hills #b_taliwang
+## d_sunda
+    11072=farmlands #b_pakuanpajajaran
+    11039=hills #b_cibadak
+    11073=jungle #b_citarumhulu
+    11040=hills #b_pangrango
+    11079=farmlands #b_kalapa
+    11081=farmlands #b_tangaram
+    11082=farmlands #b_sundapura
+    11026=hills #b_parahyangan
+    11019=hills #b_jampangkulon
+    11016=hills #b_leuweungsancang
+    11074=plains #b_pulasari
+    11045=jungle #b_pangguyangan
+    11042=plains #b_hujungkulon
+    11083=farmlands #b_banten
+    11078=hills #b_bantengirang
+    11080=farmlands #b_pontang
+## d_galuh
+    11037=hills #b_saunggalah
+    11029=plains #b_gunatiga
+    11022=hills #b_kawali
+    11043=farmlands #b_patapan
+    11075=farmlands #b_manuk
+    11001=jungle #b_watukura
+    11005=jungle #b_sarayu
+    11004=hills #b_nusalarang
+    11007=hills #b_pangandaran
+    11024=hills #b_panumwangan
+    11011=hills #b_cangkuang
+    11003=jungle #b_sukapura
+    11077=farmlands #b_batujaya
+    11076=farmlands #b_pamanukan
+    11044=hills #b_guhawpawon
+    11041=hills #b_ciremai
+## d_atoni
+    11673=jungle #b_kupang
+    11672=jungle #b_baadale
+    11675=hills #b_amfoan
+    11676=jungle #b_niki_niki
+    11677=jungle #b_ambeno
+## d_sumba
+    11658=jungle #b_waitabula
+    11660=jungle #b_malahar
+    11661=jungle #b_waingapu
+## d_nipa
+    11665=hills #b_ruteng
+    11663=jungle #b_komodo
+    11666=jungle #b_riung
+    11667=jungle #b_surisina
+    11668=hills #b_ende
+    11669=jungle #b_sika
+    11670=jungle #b_lembata
+## d_tetun
+    11679=hills #b_atambua
+    11681=hills #b_maubara
+    11684=hills #b_baukau
+    11685=jungle #b_lohosupala
+    11682=jungle #b_vikeke
+    11671=jungle #b_kalabahi
+    11686=jungle #b_ilwaki
+    11687=jungle #b_wonreli
+## d_kaili
+    11161=hills #b_palu
+    11213=hills #b_malakosa
+    11169=jungle #b_pipikoro
+    11235=hills #b_lore
+    11220=jungle #b_pasangkayu
+    11236=jungle #b_baras
+## d_tolitoli
+    11210=hills #b_tolitoli
+    11224=jungle #b_tinombo
+    11190=hills #b_balaesang
+    11194=hills #b_sojol
+    11234=hills #b_lambunu
+## d_gorontalo
+    11219=jungle #b_hulondalo
+    11222=jungle #b_tilamuta
+    11206=jungle #b_marisa
+    11237=hills #b_lolak
+    11175=hills #b_molibagu
+    11212=jungle #b_suwawa
+    11181=jungle #b_buol
+    11182=jungle #b_sumalata
+## d_mongondow
+    11186=plains #b_manado
+    11162=jungle #b_karakelong
+    11192=jungle #b_tondano
+    11233=jungle #b_modayag
+    11229=jungle #b_tomohon
+## d_salua
+    11187=jungle #b_luwuk
+    11188=jungle #b_bunta
+    11168=hills #b_salakan
+    11227=hills #b_togean_island
+    11205=hills #b_bualemo
+## d_pamona
+    11176=jungle #b_poso
+    11177=hills #b_pamona
+    11239=hills #b_beturube
+    11195=jungle #b_kolonodale
+    11197=hills #b_ampana
+## d_bungku
+    11196=hills #b_bungku
+    11172=hills #b_marsaoleh
+    11173=jungle #b_asera
+    11230=hills #b_malili
+    11198=hills #b_beteleme
+## d_butungmuna
+    11167=hills #b_muna
+    11166=hills #b_baubau
+    11165=hills #b_bangkudu
+    11200=hills #b_wakatobi
+    11179=hills #b_wowoni
+## d_south_bungku
+    11184=plains #b_tinanggea
+    11189=plains #b_konda
+    11218=jungle #b_bombana
+    11185=jungle #b_pomalaa
+    11170=hills #b_kabaena
+    11221=jungle #b_kendari
+    11183=hills #b_latoma
+## d_mekongka
+    11226=hills #b_lasusua
+    11228=hills #b_porehu
+    11225=hills #b_kolaka
+## d_bugis
+    11215=hills #b_sopeng
+    11216=plains #b_palattae
+    11209=plains #b_watampone
+    11178=plains #b_parepare
+## d_luwu
+    11223=jungle #b_burau
+    11203=jungle #b_palopo
+    11217=plains #b_larompong
+    11238=jungle #b_sengkang
+    11174=hills #b_sidenreng
+## d_mandar
+    11201=jungle #b_topoyo
+    11193=jungle #b_kalukku
+    11202=jungle #b_seko
+    11204=jungle #b_sadan
+## d_mamuju
+    11164=jungle #b_mamuju
+    11180=jungle #b_majene
+    11191=jungle #b_polewali
+    11199=hills #b_mamasa
+    11171=hills #b_toraja
+## d_makassar
+    11232=jungle #b_makassar
+    11211=jungle #b_sungguminasa
+    11231=plains #b_jeneponto
+    11208=jungle #b_bulukumba
+    11214=hills #b_selayar
+## d_seram
+    11701=jungle #b_ambon
+    11702=jungle #b_piru
+    11703=jungle #b_masohi
+    11704=jungle #b_tehoru
+    11705=jungle #b_wahai
+    11706=jungle #b_bobot
+    11707=jungle #b_masiwang
+## d_aru_east
+    11688=jungle #b_dobo
+    11689=jungle #b_koijabi
+    11690=jungle #b_tarangan
+    11691=jungle #b_tepa
+    11692=jungle #b_saumlaki
+    11693=jungle #b_makatiang
+    11694=jungle #b_tual
+## d_sula
+    11695=jungle #b_sanana
+    11696=jungle #b_taliabu
+## d_buru
+    11697=jungle #b_namrole
+    11699=jungle #b_namlea
+## d_halmahera
+    11709=hills #b_tidore
+    11710=hills #b_ternate
+    11711=jungle #b_tobelo
+    11713=hills #b_morotai
+    11714=hills #b_wasile
+    11715=hills #b_binagara
+    11716=hills #b_bajan
+    11717=hills #b_obira
+    11718=hills #b_weda
+    11719=hills #b_gane
+    11720=hills #b_maba
+## d_raja_ampat
+    11722=jungle #b_waisai
+    11723=jungle #b_samate
+    11724=jungle #b_matbat
+## d_bomberai
+    11739=hills #b_kapaur
+    11740=jungle #b_sumuri
+    11741=jungle #b_buruwai
+    11742=jungle #b_karas
+    11743=jungle #b_kowiai
+    11744=jungle #b_aroba
+    11745=jungle #b_kuri
+    11746=hills #b_mairasi
+    11747=hills #b_semimi
+    11748=hills #b_mer
+## d_doberai
+    11726=wetlands #b_seget
+    11727=wetlands #b_teminabuan
+    11728=wetlands #b_konda_east
+    11729=wetlands #b_arandai
+    11730=jungle #b_maybrat
+    11731=jungle #b_moskona
+    11732=jungle #b_abun
+    11733=jungle #b_mpur
+    11734=mountains #b_sougb
+    11735=mountains #b_meyah
+    11736=mountains #b_hatam
+    11737=jungle #b_bintuni
+    11738=jungle #b_wondama
+
+10668=hills
+11313=mountains
+11332=forest
+11334=hills
+11340=hills
+11342=hills
+11344=forest
+11827=mountains
+11943=hills
+11994=hills
+13026=hills
+13030=hills
+13032=mountains
+13033=hills
+13066=forest
+9577=jungle
+9578=jungle
+9869=jungle
+9870=hills
+9891=mountains
+9925=hills
+
+## Papua
+13123=mountains
+13122=mountains
+13125=mountains
+13119=mountains
+13114=mountains
+13127=mountains
+13118=hills
+13154=mountains
+13112=mountains
+13113=mountains
+13107=mountains
+13152=mountains
+13100=mountains
+13156=mountains
+13091=mountains
+13099=mountains
+13158=mountains
+13157=mountains
+13077=mountains
+13084=mountains
+13088=mountains
+13086=mountains
+13097=mountains
+13087=mountains
+13070=mountains
+13051=hills
+12685=mountains
+13104=hills
+13110=mountains
+13133=wetlands
+13135=wetlands
+13082=hills
+13068=wetlands
+13075=hills
+13050=mountains
+13073=jungle
+13042=wetlands
+13148=wetlands
+13046=wetlands
+13044=wetlands
+13079=wetlands
+13096=wetlands
+13105=wetlands
+13120=jungle
+13111=jungle
+13078=wetlands
+13081=wetlands
+13083=jungle
+13089=jungle
+13098=hills
+13108=hills
+13103=wetlands
+13093=jungle
+12937=wetlands
+13049=wetlands
+13067=mountains
+11918=hills
+11708=hills
+11700=hills
+11712=hills
+12699=wetlands
+11721=hills
+11725=hills
+11877=hills
+12963=jungle
+12209=jungle
+13055=jungle
+13071=wetlands
+12861=wetlands
+12113=hills
+13147=hills
+12046=jungle
+12165=jungle
+13048=wetlands
+13072=wetlands
+13041=wetlands
+12799=hills
+13045=wetlands
+13053=jungle
+13085=jungle
+13080=jungle
+13146=hills
+13143=jungle
+12659=hills
+13145=hills
+13131=hills
+13132=wetlands
+13137=wetlands
+13144=wetlands
+13139=jungle
+13142=wetlands
+13140=jungle
+13136=hills
+13126=hills
+13130=hills
+13117=wetlands
+13106=wetlands
+13151=wetlands
+13124=wetlands
+13109=wetlands
+13150=wetlands
+13153=wetlands
+13116=hills
+13121=jungle
+13128=wetlands
+13129=jungle
+13115=jungle
+13138=jungle
+13141=jungle
+13094=hills
+13092=hills
+13101=hills
+13149=mountains
+13095=mountains
+13134=jungle
+13090=mountains
+13102=hills
+13076=jungle
+12230=hills
+13074=jungle
+13040=jungle
+11761=hills
+11698=hills
+11787=jungle
+10828=hills
+12067=jungle
+12982=hills
+
+## d_micronesia
+# c_pohnpei
+13504=jungle
+# c_chuuk
+13508=jungle
+# c_kosrae
+13500=jungle
+## d_palau
+# c_palau
+
+## d_guahan
+# c_guahan
+13520=jungle
+# c_tinian
+13522=jungle
+# c_saipan
+13524=jungle
+# c_rota
+13521=jungle
+## d_yap
+# c_yap
+13511=jungle

@@ -1,0 +1,179 @@
+#k_hausaland
+##d_kano ###################################
+
+###c_kano
+6519 = {	#KANO
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+}
+8926 = {	#SANTOLO
+	holding = none
+}
+14116 = {	#BICHI
+	holding = none
+}
+14114 = {	#TAKUSHEYI -> KARAYE
+	holding = none
+}
+14092 = {	#RINGIM
+	holding = none
+}
+
+###c_gaya_kano
+6528 = {	#KUDU -> GAYA
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+}
+14094 = {	#DUTSE
+	holding = none
+}
+14093 = {	#TSANGAYA
+	holding = none
+}
+
+###c_biram
+6517 = {	#HADEJIA
+	culture = bade
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+6535 = {	#GABAS -> AUYO
+	holding = none
+}
+14119 = {	#GARUN (GABAS)
+	holding = none
+}
+
+###c_daura
+6536 = {	#DAURA
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	867.1.1 = {
+		holding = tribal_holding
+		buildings = {
+			longhouses_01
+			war_camps_01
+		}
+	}
+}
+6518 = {	#KUFAN_KANAWA -> BABURA
+	holding = none
+}
+14117 = {	#GEZAWA
+	holding = none
+}
+
+###c_damagaram
+6559 = {	#ZINDER
+	culture = zaghawa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+}
+14124 = {	#MYRRIA
+	holding = none
+}
+14118 = {	#GUMMEL
+	holding = none
+}
+
+###c_rano
+6529 = {	#RANO
+	culture = gbagyi
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	# History
+	1150.1.1 = {
+		culture = hausa
+	}
+}
+6520 = {	#KURA
+	holding = none
+}
+6530 = {	#DURUM
+	holding = none
+}
+
+##d_katsina ###################################
+
+###c_katsina
+6537 = {	#KATSINA
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+8925 = {	#ZAGAMI
+	holding = none
+}
+14098 = {	#PAUWA
+	holding = none
+}
+14099 = {	#SURAN
+	holding = none
+}
+
+###c_maradi
+6538 = {	#MARANDI -> MARADI
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+14129 = {	#ZURMI
+	holding = none
+}
+
+###c_zaria
+6544 = {	#ZAZZAU
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	# History
+	1050.1.1 = {
+		culture = gbagyi
+	}
+}
+8924 = {	#FATIKA
+	holding = none
+}
+6545 = {	#TURUNKU
+	holding = none
+}
+
+##d_gobir ###################################
+
+###c_gobir
+6539 = {	#GOBIR
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+6558 = {	#GOBIR-EAST
+	holding = none
+}
+8996 = {	#KONNI
+	holding = none
+}
+
+###c_tahoua
+6557 = {	#TAHOUA
+	culture = mossi
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+	# History
+	1250.1.1 = {
+		culture = butr
+		religion = ashari
+		}
+}
+8997 = {	#ADER
+	holding = none
+}
+8998 = {	#MATANKARI
+	holding = none
+}

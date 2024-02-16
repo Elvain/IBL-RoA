@@ -1,0 +1,183 @@
+#k_kwararafa
+##d_kwararafa ###################################
+
+###c_kwararafa
+6533 = {	#KWARARAFA -> BEIPI
+	culture = akpoto
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	1060.1.1 = {
+		culture = jukun
+	}
+}
+8945 = {	#LAU
+	holding = none
+}
+8946 = {	#DAMPAR
+	holding = none
+}
+6525 = {	#MURI
+	holding = none
+}
+14105 = {	#KONA_BENUE
+	holding = none
+}
+
+###c_apa
+6523 = {	#WUKARI -> JIBU
+	culture = akpoto
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	1220.1.1 = {
+		culture = jukun
+	}
+}
+8947 = {	#IBI
+	holding = none
+}
+8950 = {	#TAKUM
+	holding = none
+}
+
+###c_keffi
+8105 = {	#KEFFI
+	culture = akpoto
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+8102 = {	#OPANDA -> KEANA
+	holding = none
+}
+8104 = {	#MODA -> AWE
+	holding = none
+}
+14111 = {	#ROP
+	holding = none
+}
+
+###c_kasar_chiki
+8942 = {	#KASAR_CHIKI
+	culture = gbagyi
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	# History
+	1050.1.1 = {
+		culture = jukun
+	}
+}
+6524 = {	#WASE
+	holding = none
+}
+14110 = {	#YANKARI
+	holding = none
+}
+
+##d_upper_kwararafa ###################################
+
+###c_fika -> Biyri
+6534 = {	#FIKA
+	culture = gbagyi
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	1060.1.1 = {
+		culture = bade
+	}
+
+}
+8939 = {	#DANISKI
+	holding = none
+}
+14107 = {	#BIYRI
+	holding = none
+}
+
+###c_kilba
+8941 = {	#TAGARA
+	culture = jukun
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+}
+8940 = {	#KILBA
+	holding = none
+}
+6827 = {	#BABUR
+	holding = none
+}
+
+###c_kalam
+6532 = {	#GONGOLA -> KALAM
+	culture = jukun
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+}
+8943 = {	#KAFARATI
+	holding = none
+}
+14108 = {	#BOMALA
+	holding = none
+}
+
+###c_pindiga
+8944 = {	#PINDIGA
+	culture = jukun
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+}
+6522 = {	#GOMBE -> PANDA
+	holding = none
+}
+14106 = {	#KUPTO
+	holding = none
+}
+
+##d_bauchi ###################################
+
+###c_bauchi
+6521 = {	#BAUCHI
+	culture = gbagyi
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+
+}
+6531 = {	#JOS
+	holding = none
+}
+8106 = {	#GBAGYE
+	holding = none
+}
+14115 = {	#LERE
+	holding = none
+}
+
+###c_ningi
+8927 = {	#NINGI
+	culture = gbagyi
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+}
+14112 = {	#KAGALAN
+	holding = none
+}
+14113 = {	#KARIYA WURO
+	holding = none
+}
+
+###c_katagum
+6527 = {	#KATAGUM
+	culture = gbagyi
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	1060.1.1 = {
+		culture = bade
+	}
+
+}
+6526 = {	#AZARE
+	holding = none
+}
+14120 = {	#POTISKUM
+	holding = none
+}

@@ -1,0 +1,211 @@
+
+##d_akpoto ###################################
+
+###c_idoma
+8121 = {	#IDOMA
+	culture = akpoto
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8113 = {	#EAST_IGALA
+	holding = none
+}
+
+###c_igala
+8108 = {	#IBAH -> IDAH
+	culture = akpoto
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8107 = {	#IGALA -> AKPOTO
+	holding = none
+}
+
+
+##d_igboland / NRI ###################################
+
+###c_igbo
+8957 = {	#NRI
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8110 = {	#IGBO-UKWU
+	holding = none
+}
+8111 = {	#ONITSHA
+	holding = none
+}
+8109 = {	#ABAKALIKI
+	holding = none
+}
+
+###c_aguleri
+8959 = {	#AGULERI
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8112 = {	#NSUKKA
+	holding = none
+}
+8120 = {	#OTUKPO -> EZZA
+	holding = none
+}
+
+###c_ikwere
+8956 = {	#IKWERE
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8114 = {	#SOUTH_IGBO -> OGWUTA
+	holding = none
+}
+8955 = {	#OWERI
+	holding = none
+}
+
+###c_anioma
+8086 = {	#ODE_ITSERIKI -> ILAH
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8962 = {	#ABOH
+	holding = none
+}
+8954 = {	#ANIOMA
+	holding = none
+}
+
+##d_ejagham ###################################
+
+###c_ibibo
+8117 = {	#CALABAR
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8953 = {	#IKOT_ETUNKO
+	holding = none
+}
+8952 = {	#ORON
+	holding = none
+}
+8118 = {	#CHUKWU
+	holding = none
+}
+
+###c_yako
+8119 = {	#YAKO
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8122 = {	#BENDE
+	holding = none
+}
+8951 = {	#NYAJE
+	holding = none
+}
+
+###c_ogoja
+8948 = {	#OGOJA
+	culture = akpoto
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+}
+8949 = {	#OBUDU
+	holding = none
+}
+
+#######################################################
+######## k_benin ##############
+
+##d_benin ###################################
+
+# c_benin
+8072 = {	#BENIN-CITY -> UBINU
+	culture = edo
+	religion = west_african_orisha_pagan
+	
+	# History
+	867.1.1 = {
+		special_building_slot = walls_of_benin_01
+	}
+
+}
+8071 = {	# BENIN
+	culture = edo
+	religion = west_african_orisha_pagan
+}
+8088 = {	#BENIN_MARSHES -> GWATO
+	holding = none
+}
+8961 = {	#SAPELE
+	holding = none
+}
+
+# c_edo -> Ominije
+8966 = {	#OMINIJE
+	culture = edo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8073 = {	#EDO -> UROMI
+	holding = none
+	
+}
+8076 = {	#OSSE
+	holding = none
+	
+}
+
+# c_warri
+8965 = {	#WARRI
+	culture = edo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8967 = {	#OGBINBIRI
+	holding = none
+	
+}
+
+
+##d_ijaw ###################################
+
+# c_ijaw
+8115 = {	#BONNY
+	culture = edo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8116 = {	#OKRIKA
+	holding = none
+	
+}
+8960 = {	#AMAFA
+	holding = none
+	
+}
+
+# c_urhobo
+8963 = {	#IKIBIRI
+	culture = edo
+	religion = west_african_orisha_pagan
+	holding = tribal_holding
+	
+}
+8964 = {	#OGOBIRI
+	holding = none
+	
+}
+8087 = {	#NEMBE
+	holding = none
+	
+}

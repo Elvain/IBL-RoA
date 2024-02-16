@@ -1,0 +1,854 @@
+﻿#Zarma characters
+
+#placeholders for c_kurmina
+
+zarma0001 = {
+	name = "Djeliba" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	835.1.1 = {
+		birth = yes
+	}
+	890.1.1 = {
+		death = yes
+	}
+}
+zarma0092 = {
+	name = "Tondikiwindi" #fictional
+	female = yes
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0001
+	854.1.1 = {
+		birth = yes
+	}
+	918.1.1 = {
+		death = yes
+	}
+}
+zarma0002 = {
+	name = "Tondikiwindi" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0001
+	870.1.1 = {
+		birth = yes
+	}
+	933.1.1 = {
+		death = yes
+	}
+}
+zarma0003 = {
+	name = "Djiba" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0002
+	915.1.1 = {
+		birth = yes
+	}
+	990.1.1 = {
+		death = yes
+	}
+}
+zarma0004 = {
+	name = "Wallam" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0003
+	973.1.1 = {
+		birth = yes
+	}
+	1050.1.1 = {
+		death = yes
+	}
+}
+zarma0005 = {
+	name = "Kandi" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0004
+	1022.1.1 = {
+		birth = yes
+	}
+	1081.1.1 = {
+		death = yes
+	}
+}
+zarma0093 = {
+	name = "Tarifa" #fictional
+	female = yes
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0005
+	1044.1.1 = {
+		birth = yes
+	}
+	1110.1.1 = {
+		death = yes
+	}
+}
+zarma0006 = {
+	name = "Djeliba" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0005
+	1062.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+zarma0007 = {
+	name = "Kandi" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0006
+	1100.1.1 = {
+		birth = yes
+	}
+	1159.1.1 = {
+		death = yes
+	}
+}
+zarma0008 = {
+	name = "Tondikiwindi" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0007
+	1142.1.1 = {
+		birth = yes
+	}
+	1199.1.1 = {
+		death = yes
+	}
+}
+zarma0009 = {
+	name = "Kandi" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0008
+	1180.1.1 = {
+		birth = yes
+	}
+	1235.1.1 = {
+		death = yes
+	}
+}
+zarma0010 = {
+	name = "Wallam" #fictional
+	dynasty = zarmadyn001
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0009
+	1215.1.1 = {
+		birth = yes
+	}
+	1270.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_upper_gurma
+zarma0011 = {
+	name = "Kandi" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	830.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+zarma0094 = {
+	name = "Tarifa" #fictional
+	female = yes
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0011
+	848.1.1 = {
+		birth = yes
+	}
+	907.1.1 = {
+		death = yes
+	}
+}
+zarma0012 = {
+	name = "Nenwon" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0011
+	865.1.1 = {
+		birth = yes
+	}
+	930.1.1 = {
+		death = yes
+	}
+}
+zarma0013 = {
+	name = "BE_ro" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0012
+	910.1.1 = {
+		birth = yes
+	}
+	983.1.1 = {
+		death = yes
+	}
+}
+zarma0014 = {
+	name = "Dolo" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0013
+	960.1.1 = {
+		birth = yes
+	}
+	1035.1.1 = {
+		death = yes
+	}
+}
+zarma0015 = {
+	name = "BE_ro" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0014
+	1018.1.1 = {
+		birth = yes
+	}
+	1075.1.1 = {
+		death = yes
+	}
+}
+zarma0095 = {
+	name = "Lambu" #fictional
+	female = yes
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0011
+	1048.1.1 = {
+		birth = yes
+	}
+	1109.1.1 = {
+		death = yes
+	}
+}
+zarma0016 = {
+	name = "Nenwon" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0015
+	1058.1.1 = {
+		birth = yes
+	}
+	1115.1.1 = {
+		death = yes
+	}
+}
+zarma0017 = {
+	name = "Kandi" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0016
+	1095.1.1 = {
+		birth = yes
+	}
+	1149.1.1 = {
+		death = yes
+	}
+}
+zarma0018 = {
+	name = "Foday" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0017
+	1132.1.1 = {
+		birth = yes
+	}
+	1195.1.1 = {
+		death = yes
+	}
+}
+zarma0019 = {
+	name = "Ansa" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0018
+	1177.1.1 = {
+		birth = yes
+	}
+	1230.1.1 = {
+		death = yes
+	}
+}
+zarma0020 = {
+	name = "Nenwon" #fictional
+	dynasty = zarmadyn002
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0019
+	1210.1.1 = {
+		birth = yes
+	}
+	1264.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_kouga -> c_hombori
+
+zarma0031 = {
+	name = "Djeliba" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_bidu_pagan
+	culture = zarma
+	843.1.1 = {
+		birth = yes
+	}
+	899.1.1 = {
+		death = yes
+	}
+}
+zarma0099 = {
+	name = "Fadazaw" #fictional
+	female = yes
+	dynasty = zarmadyn004
+	religion = west_african_bidu_pagan
+	culture = zarma
+	father = zarma0031
+	863.1.1 = {
+		birth = yes
+	}
+	920.1.1 = {
+		death = yes
+	}
+}
+zarma0032 = {
+	name = "Alamin" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0031
+	880.1.1 = {
+		birth = yes
+	}
+	950.1.1 = {
+		death = yes
+	}
+}
+zarma0033 = {
+	name = "Baru" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0032
+	930.1.1 = {
+		birth = yes
+	}
+	1005.1.1 = {
+		death = yes
+	}
+}
+zarma0034 = {
+	name = "Bolonbooti" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0033
+	990.1.1 = {
+		birth = yes
+	}
+	1058.1.1 = {
+		death = yes
+	}
+}
+zarma0035 = {
+	name = "Bolonbooti" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0034
+	1040.1.1 = {
+		birth = yes
+	}
+	1102.1.1 = {
+		death = yes
+	}
+}
+zarma0036 = {
+	name = "Alamin" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0035
+	1078.1.1 = {
+		birth = yes
+	}
+	1136.1.1 = {
+		death = yes
+	}
+}
+zarma0037 = {
+	name = "Djeliba" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0036
+	1117.1.1 = {
+		birth = yes
+	}
+	1178.1.1 = {
+		death = yes
+	}
+}
+zarma0038 = {
+	name = "Alamin" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0037
+	1159.1.1 = {
+		birth = yes
+	}
+	1221.1.1 = {
+		death = yes
+	}
+}
+zarma0039 = {
+	name = "Djeliba" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0038
+	1202.1.1 = {
+		birth = yes
+	}
+	1263.1.1 = {
+		death = yes
+	}
+}
+zarma0040 = {
+	name = "Baru" #fictional
+	dynasty = zarmadyn004
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0039
+	1240.1.1 = {
+		birth = yes
+	}
+	1305.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_gondo
+zarma0051 = {
+	name = "Hargani" #fictional
+	dynasty = zarmadyn006
+	religion = west_african_pagan
+	culture = zarma
+	815.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+zarma0052 = {
+	name = "Wallam" #fictional
+	dynasty = zarmadyn006
+	religion = west_african_pagan
+	culture = zarma
+	father = zarma0051
+	841.1.1 = {
+		birth = yes
+	}
+	902.1.1 = {
+		death = yes
+	}
+}
+zarma0053 = {
+	name = "Kandi" #fictional
+	dynasty = zarmadyn006
+	religion = west_african_roog_pagan
+	culture = zarma
+	father = zarma0052
+	884.1.1 = {
+		birth = yes
+	}
+	953.1.1 = {
+		death = yes
+	}
+}
+zarma0054 = {
+	name = "Saa" #fictional
+	dynasty = zarmadyn006
+	religion = west_african_roog_pagan
+	culture = zarma
+	father = zarma0053
+	930.1.1 = {
+		birth = yes
+	}
+	1008.1.1 = {
+		death = yes
+	}
+}
+zarma0055 = {
+	name = "Paye" #fictional
+	dynasty = zarmadyn006
+	religion = west_african_roog_pagan
+	culture = zarma
+	father = zarma0054
+	990.1.1 = {
+		birth = yes
+	}
+	1050.1.1 = {
+		death = yes
+	}
+}
+zarma0056 = {
+	name = "Fabule" #fictional
+	dynasty = zarmadyn006
+	religion = west_african_roog_pagan
+	culture = zarma
+	father = zarma0055
+	1033.1.1 = {
+		birth = yes
+	}
+	1094.1.1 = {
+		death = yes
+	}
+}
+zarma0057 = {
+	name = "Kpangbah" #fictional
+	dynasty = zarmadyn006
+	religion = west_african_roog_pagan
+	culture = zarma
+	father = zarma0056
+	1077.1.1 = {
+		birth = yes
+	}
+	1105.1.1 = {
+		religion = ashari
+	}
+	1140.1.1 = {
+		death = yes
+	}
+}
+zarma0058 = {
+	name = "Jahnyaho" #fictional
+	dynasty = zarmadyn006
+	religion = ashari
+	culture = zarma
+	father = zarma0057
+	1120.1.1 = {
+		birth = yes
+	}
+	1181.1.1 = {
+		death = yes
+	}
+}
+zarma0059 = {
+	name = "Kpangbah" #fictional
+	dynasty = zarmadyn006
+	religion = ashari
+	culture = zarma
+	father = zarma0058
+	1159.1.1 = {
+		birth = yes
+	}
+	1216.1.1 = {
+		death = yes
+	}
+}
+
+#unused characters
+
+##fictional rulers for c_geba and c_kasa
+#zarma0061 = {
+#	name = "Kpangbah" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	835.1.1 = {
+#		birth = yes
+#	}
+#	890.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0062 = {
+#	name = "Fabule" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0061
+#	870.1.1 = {
+#		birth = yes
+#	}
+#	933.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0063 = {
+#	name = "Kpangbah" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0062
+#	915.1.1 = {
+#		birth = yes
+#	}
+#	990.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0064 = {
+#	name = "Jahn" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0063
+#	973.1.1 = {
+#		birth = yes
+#	}
+#	1050.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0065 = {
+#	name = "Saa" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0064
+#	1022.1.1 = {
+#		birth = yes
+#	}
+#	1081.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0066 = {
+#	name = "Kpangbah" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0065
+#	1062.1.1 = {
+#		birth = yes
+#	}
+#	1120.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0067 = {
+#	name = "Kpangbah" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0066
+#	1100.1.1 = {
+#		birth = yes
+#	}
+#	1159.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0068 = {
+#	name = "Saa" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0067
+#	1142.1.1 = {
+#		birth = yes
+#	}
+#	1199.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0069 = {
+#	name = "Jahn" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0068
+#	1180.1.1 = {
+#		birth = yes
+#	}
+#	1235.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0070 = {
+#	name = "Saa" #fictional
+#	dynasty = zarmadyn007
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0069
+#	1215.1.1 = {
+#		birth = yes
+#	}
+#	1270.1.1 = {
+#		death = yes
+#	}
+#}
+#
+##fictional rulers of c_timbi
+#zarma0071 = {
+#	name = "Tondikiwindi" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	842.1.1 = {
+#		birth = yes
+#	}
+#	898.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0072 = {
+#	name = "Djeliba" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0071
+#	880.1.1 = {
+#		birth = yes
+#	}
+#	950.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0073 = {
+#	name = "Djiba" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0072
+#	925.1.1 = {
+#		birth = yes
+#	}
+#	1000.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0074 = {
+#	name = "Wallam" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0073
+#	980.1.1 = {
+#		birth = yes
+#	}
+#	1035.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0075 = {
+#	name = "Zokaya" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0074
+#	1015.1.1 = {
+#		birth = yes
+#	}
+#	1070.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0076 = {
+#	name = "Yeanue" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0075
+#	1045.1.1 = {
+#		birth = yes
+#	}
+#	1098.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0077 = {
+#	name = "Zokaya" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0076
+#	1072.1.1 = {
+#		birth = yes
+#	}
+#	1133.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0078 = {
+#	name = "KiaBolonbooti" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0077
+#	1099.1.1 = {
+#		birth = yes
+#	}
+#	1163.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0079 = {
+#	name = "Zokaya" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0078
+#	1132.1.1 = {
+#		birth = yes
+#	}
+#	1195.1.1 = {
+#		death = yes
+#	}
+#}
+#zarma0080 = {
+#	name = "KiaBolonbooti" #fictional
+#	dynasty = zarmadyn008
+#	religion = west_african_roog_pagan
+#	culture = zarma
+#	father = zarma0079
+#	1168.1.1 = {
+#		birth = yes
+#	}
+#	1221.1.1 = {
+#		death = yes
+#	}
+#}
+#
+##zarma0081-91 moved to kurumba culture in gur_ibl
+##--------- female characters zarma0092-zarma0102 -----------

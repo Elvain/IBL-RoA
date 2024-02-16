@@ -1,0 +1,241 @@
+#k_gurma
+##d_lower_gurma ###################################
+###c_gurma
+6689 = {	#BILANGA
+	culture = gur
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+
+}
+6691 = {	#NUNGU
+	holding = none
+}
+14440 = {	#BONSOAGA
+	holding = none
+}
+
+###c_sirba
+6686 = {	#SIRBA
+	culture = gur
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1250.1.1 = { culture = mossi }
+
+}
+6687 = {	#TONDIKWAREY
+	holding = none
+}
+14439 = {	#FAGA
+	holding = none
+}
+
+
+###c_bulsa
+14381 = {	# BULSA
+	culture = kurumba
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+	
+}
+
+6690 = {	# GURMA-WEST -> BOGANDE
+	holding = none
+}
+
+14382 = {	# KAYA
+	holding = none
+}
+
+###c_biun
+6721 = {	# BIUN
+	culture = gur
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1280.1.1 = { culture = mossi }
+
+}
+
+6719 = {	# GOBNANGOU
+	holding = none
+}
+
+6720 = {	# PENTENGA
+	holding = none
+}
+
+##d_lurum ###################################
+###c_kurumba -> Lurum
+14383 = {	#NAMISI
+	culture = kurumba
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+
+}
+
+6693 = {	# BURZANGA
+	holding = none
+}
+
+6695 = {	# MERGAO
+	holding = none
+}
+
+14385 = {	# BELEHEDE
+	holding = none
+}
+
+###c_zaran
+14386 = {	#ZARAN
+	culture = kurumba
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+}
+
+6685 = {	# ARIBINDA
+	holding = none
+}
+
+14387 = {	# SOUM-ZARAN
+	holding = none
+}
+
+###c_yatenga #Pela
+6694 = {	# GITI
+	culture = kibsi
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+}
+
+6697 = {	# ZONDOMA
+	holding = none
+}
+
+14378 = {	# LA-KIBSI
+	holding = none
+}
+
+###c_oudalan
+6680 = {	# KISSI
+	culture = kurumba
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1150.1.1 = { culture = songhai }
+}
+
+6681 = {	# SAOUGA
+	holding = none
+}
+
+6682 = {	# DORI
+	holding = none
+}
+
+###c_oursi
+6679 = {	# OURSI
+	culture = kurumba
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+6678 = {	# DINDE
+	holding = none
+}
+
+14388 = {	# DEOU
+	holding = none
+}
+
+##d_wagadugu ###################################
+###c_wagadugu
+6700 = {	#WAGADUGU
+	culture = kibsi
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+}
+
+6699 = {	# GUILONGU
+	holding = none
+}
+
+14379 = {	# DULUGU
+	holding = none
+}
+
+14380 = {	# ZORGO
+	holding = none
+}
+
+###c_kayao
+6997 = {	#KAYAO
+	culture = kibsi
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+}
+
+6949 = {	# GURUNSI
+	holding = none
+}
+
+###c_po
+6948 = {	#PO
+	culture = dagaaba
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+}
+
+6947 = {	# NAKANBE
+	holding = none
+}
+
+14394 = {	# NAZINON
+	holding = none
+}
+
+###c_tenkudugo
+6692 = {	#TENKUDUGO
+	culture = dagaaba
+	religion = west_african_pagan
+	holding = tribal_holding
+	
+	# History
+	1340.1.1 = { culture = mossi }
+}
+
+6935 = {	# BAWKU
+	holding = none
+}
+
+8935 = {	# BISA
+	holding = none
+}
+
