@@ -51921,13 +51921,13 @@ e_mali = {
 			c_dodugu = {
 				color = { 48 143 228 }
 
-				b_kri = {
-					province = 6632
+				b_niamina = {
+					province = 6634
 
 					color = { 48 143 228 }
 				}
-				b_niamina = {
-					province = 6634
+				b_kri = {
+					province = 6632
 
 					color = { 48 143 228 }
 				}
