@@ -364,7 +364,8 @@ impassable_mountains = RANGE { 14176 14178 }
 impassable_mountains = RANGE { 14186 14188 }
 impassable_mountains = RANGE { 14211 14279 }
 impassable_mountains = RANGE { 14360 14364 }
-#impassable_mountains = RANGE { 14436 14437 }
+impassable_mountains = RANGE { 14436 14437 }
+impassable_mountains = RANGE { 14447 14452 }
 #impassable_mountains = LIST { 14302 }
 #impassable_mountains = RANGE { 14411 14435 }
 

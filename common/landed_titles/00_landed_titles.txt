@@ -48089,30 +48089,6 @@ e_ajuraan = {
 					color = { 241 117 47 }
 				}
 			}
-			c_marka = {
-				color = { 235 112 42 }
-
-				b_marka = {
-					province = 8461
-
-					color = { 235 112 42 }
-				}
-				b_baraawe = {
-					province = 8460
-
-					color = { 235 112 42 }
-				}
-				b_role = {
-					province = 14436
-
-					color = { 235 112 42 }
-				}
-				b_doondide = {
-					province = 14437
-
-					color = { 235 112 42 }
-				}
-			}
 			c_hobyo = {
 				color = { 232 98 38 }
 
@@ -48178,6 +48154,89 @@ e_ajuraan = {
 					province = 8474
 
 					color = { 238 114 43 }
+				}
+			}
+		}
+
+		d_kismayo = {
+			color = { 210 130 40 }
+
+			capital = c_jubba
+
+			c_kismayo = {
+				color = { 215 138 40 }
+
+				b_kismayo = {
+					province = 14461
+
+					color = { 215 138 40 }
+				}
+				b_burgao = {
+					province = 14462
+
+					color = { 215 138 40 }
+				}
+				b_dagood = {
+					province = 14453
+
+					color = { 215 138 40 }
+				}
+			}
+			c_marka = {
+				color = { 215 132 42 }
+
+				b_marka = {
+					province = 8461
+
+					color = { 215 132 42 }
+				}
+				b_baraawe = {
+					province = 8460
+
+					color = { 215 132 42 }
+				}
+				b_role = {
+					province = 14445
+
+					color = { 215 132 42 }
+				}
+			}
+			c_bimal = {
+				color = { 218 135 48 }
+
+				b_bimal = {
+					province = 14460
+
+					color = { 218 135 48 }
+				}
+				b_doondide = {
+					province = 14446
+
+					color = { 218 135 48 }
+				}
+				b_dirisamo = {
+					province = 14459
+
+					color = { 218 135 48 }
+				}
+			}
+			c_ntikuu = {
+				color = { 212 138 48 }
+
+				b_ishakani = {
+					province = 14454
+
+					color = { 212 138 48 }
+				}
+				b_omwe = {
+					province = 14455
+
+					color = { 212 138 48 }
+				}
+				b_talamoge = {
+					province = 14456
+
+					color = { 212 138 48 }
 				}
 			}
 		}
@@ -48252,11 +48311,11 @@ e_ajuraan = {
 
 					color = { 227 126 58 }
 				}
-				#b_dabarre = {
-				#	province = 14447
-				#
-				#	color = { 227 126 58 }
-				#}
+				b_dabarre = {
+					province = 14457
+				
+					color = { 227 126 58 }
+				}
 			}
 			c_luuq = {
 				color = { 233 121 64 }
@@ -48486,6 +48545,11 @@ e_ajuraan = {
 				}
 				b_lower_kutulo = {
 					province = 8486
+
+					color = { 78 179 207 }
+				}
+				b_barsane = {
+					province = 14458
 
 					color = { 78 179 207 }
 				}
