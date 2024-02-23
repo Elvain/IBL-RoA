@@ -1,0 +1,97 @@
+###c_navarra
+1806 = {	# PAMPLONA
+	# Misc
+	culture = basque
+	religion = catholic
+	
+	holding = castle_holding
+	1066.1.1 = {
+		buildings = {
+			pastures_01
+			quarries_01
+			#outposts_01
+		}
+	}
+}
+1889 = {	# TAFALLA -> Leyre
+	holding = church_holding
+}
+1809 = {	# LIZARRA -> Estella
+	holding = city_holding
+}
+8793 = {	# SANGUESA
+	holding = none
+}
+
+###c_tudela
+1890 = {	# TUDELA
+	#Misc
+	culture = andalusian
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	950.1.1 = { culture = andalusian }
+}
+14227 = {	# OLITE
+	holding = city_holding
+}
+
+#### d_viscaya
+###c_viscaya
+14234 = {	# DURANGO
+	# Misc
+	culture = basque
+	religion = catholic
+	
+	holding = castle_holding
+}
+1803 = {	# BILIBIO/Vizcaya -> Ayala
+	holding = city_holding
+}
+
+###c_alava
+1808 = {	# ALAVA
+	# Misc
+	culture = basque
+	religion = catholic
+	
+	holding = castle_holding
+}
+14232 = {	# MIRANDA_DE_EBRO
+	holding = church_holding
+}
+14233 = {	# TREVINO
+	holding = city_holding
+}
+
+###c_ipuskoa
+1805 = {	#  IRUN
+	# Misc
+	culture = basque
+	religion = catholic
+	
+	holding = castle_holding
+}
+1804 = {	# IZURUM
+	holding = church_holding
+}
+
+###c_najera
+1811 = {	# NAJERA
+	# Misc
+	culture = basque
+	religion = mozarabic_church
+	
+	holding = castle_holding
+
+	# History
+	950.1.1 = { religion = catholic }
+}
+1810 = {	# LOGRONO
+	holding = none
+}
+14230 = {	# CALAHORRA
+	holding = castle_holding
+}
