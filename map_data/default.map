@@ -155,6 +155,15 @@ river_provinces = RANGE { 8586 8587 }	#Dvina
 river_provinces = RANGE { 8558 8559 }	#Norway Fjords
 river_provinces = RANGE { 14248 14250 }	#Ebro
 river_provinces = RANGE { 14251 14253 }	#Duero
+river_provinces = RANGE { 14277 14278 }	#Odra
+river_provinces = LIST { 14268 14279 }	#Weser
+river_provinces = LIST { 14276 }	#Danube
+river_provinces = RANGE { 14251 14253 }	#Duero
+river_provinces = RANGE { 14261 14262 }	#Loire 2
+river_provinces = RANGE { 14265 14267 }	#Rhine 2
+river_provinces = RANGE { 14269 14270 }	#Shanon
+river_provinces = RANGE { 14273 14274 }	#Meusse
+river_provinces = LIST { 14263 14264 14271 14272 14275 }
 
 #Russian rivers
 river_provinces = RANGE { 8561 8562 }	#Dniestr
@@ -366,10 +375,8 @@ impassable_mountains = RANGE { 8802 8919 }
 impassable_mountains = RANGE { 14015 14054 }
 impassable_mountains = RANGE { 14066 14069 }
 impassable_mountains = RANGE { 14086 14087 }
-impassable_mountains = RANGE { 14176 14178 }
 #IBL Iberia and some rivers
 impassable_mountains = RANGE { 14243 14247 }
-impassable_mountains = RANGE { 14254 14279 }
 impassable_mountains = RANGE { 14360 14364 }
 impassable_mountains = RANGE { 14436 14437 }
 impassable_mountains = RANGE { 14447 14452 }

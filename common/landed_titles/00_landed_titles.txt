@@ -32546,6 +32546,45 @@ e_carpathia = {
 					}
 				}
 			}
+			c_nograd = {
+				color = { 245 150 110 }
+				
+				cultural_names = {
+					name_list_slovien = cn_novohrad
+					name_list_czech = cn_novohrad
+				}
+
+				b_nograd = {
+					province = 3849
+					
+					color = { 245 150 110 }
+					
+					cultural_names = {
+						name_list_slovien = cn_novohrad
+						name_list_czech = cn_novohrad
+					}
+				}
+				b_balassagyarmat = {
+					province = 3850
+					
+					color = { 245 150 110 }
+					
+					cultural_names = {
+						name_list_slovien = cn_balazske_darmoty
+						name_list_czech = cn_balazske_darmoty
+					}
+				}
+				b_vac = {
+					province = 14178
+					
+					color = { 245 150 110 }
+					
+					cultural_names = {
+						name_list_slovien = cn_vacov
+						name_list_czech = cn_vacov
+					}
+				}
+			}
 		}
 
 		d_somogy = {
@@ -32772,45 +32811,6 @@ e_carpathia = {
 					color = { 228 62 90 }
 				}
 			}
-			c_gemer = {
-				color = { 230 37 69 }
-
-				cultural_names = {
-					name_list_mogyer = cn_gomor
-					name_list_hungarian = cn_gomor
-				}
-
-				b_gemer = {
-					province = 524
-
-					color = { 230 37 69 }
-
-					cultural_names = {
-						name_list_mogyer = cn_gomor
-						name_list_hungarian = cn_gomor
-					}
-				}
-				b_murany = {
-					province = 3858
-
-					color = { 230 37 69 }
-
-					cultural_names = {
-						name_list_slovien = cn_muran
-						name_list_czech = cn_muran
-					}
-				}
-				b_rimaszombat = {
-					province = 3859
-
-					color = { 230 37 69 }
-
-					cultural_names = {
-						name_list_slovien = cn_rimavska_sobota
-						name_list_czech = cn_rimavska_sobota
-					}
-				}
-			}
 			c_orava = {
 				color = { 255 40 65 }
 
@@ -33007,12 +33007,12 @@ e_carpathia = {
 				b_smozolany = {
 					province = 3816
 
-					color = { 255 100 125 }
+					color = { 185 105 90 }
 				}
 				b_sasvar = {
 					province = 3834
 
-					color = { 228 62 90 }
+					color = { 185 105 90 }
 
 					cultural_names = {
 						name_list_slovien = cn_sastin
@@ -33027,26 +33027,6 @@ e_carpathia = {
 					province = 3848
 
 					color = { 210 55 100 }
-				}
-				b_nograd = {
-					province = 3849
-
-					color = { 210 55 100 }
-
-					cultural_names = {
-						name_list_slovien = cn_novohrad
-						name_list_czech = cn_novohrad
-					}
-				}
-				b_balassagyarmat = {
-					province = 3850
-
-					color = { 210 55 100 }
-
-					cultural_names = {
-						name_list_slovien = cn_balazske_darmoty
-						name_list_czech = cn_balazske_darmoty
-					}
 				}
 				b_koporna = {
 					province = 3851
@@ -33122,80 +33102,17 @@ e_carpathia = {
 				}
 			}
 		}
-
-		d_ungvar = {
-			color = { 156 15 15 }
-
-			capital = c_ungvar
-
+		
+		d_borsod = {
+			color = { 138 53 53 }
+			
+			capital = c_borsod
+			
 			cultural_names = {
-				name_list_slovien = cn_uzhorod
-				name_list_czech = cn_uzhorod
+				name_list_slovien = cn_borssod
+				name_list_czech = cn_borssod
 			}
-
-			c_ungvar = {
-				color = { 146 25 15 }
-
-				cultural_names = {
-					name_list_slovien = cn_uzhorod
-					name_list_czech = cn_uzhorod
-				}
-
-				b_ungvar = {
-					province = 3897
-
-					color = { 156 15 15 }
-
-					cultural_names = {
-						name_list_slovien = cn_uzhorod
-						name_list_czech = cn_uzhorod
-					}
-				}
-				b_nagyberezna = {
-					province = 3895
-
-					color = { 156 15 15 }
-				}
-			}
-			c_zemplen = {
-				color = { 155 30 30 }
-
-				cultural_names = {
-					name_list_slovien = cn_zemplin
-					name_list_czech = cn_zemplin
-				}
-
-				b_zemplen = {
-					province = 3885
-
-					color = { 155 30 30 }
-
-					cultural_names = {
-						name_list_slovien = cn_zemplin
-						name_list_czech = cn_zemplin
-					}
-				}
-				b_szerencs = {
-					province = 3886
-
-					color = { 155 30 30 }
-				}
-				b_zynna = {
-					province = 3887
-
-					color = { 155 30 30 }
-				}
-				b_toporo = {
-					province = 3888
-
-					color = { 155 30 30 }
-				}
-				b_varanno = {
-					province = 3896
-
-					color = { 155 30 30 }
-				}
-			}
+			
 			c_borsod = {
 				color = { 135 50 50 }
 
@@ -33208,6 +33125,55 @@ e_carpathia = {
 					province = 3871
 
 					color = { 135 50 50 }
+				}
+				b_torna = {
+					province = 3978
+
+					color = { 190 10 10 }
+
+					cultural_names = {
+						name_list_czech = cn_turna
+						name_list_slovien = cn_turna
+					}
+				}
+			}
+			c_gemer = {
+				color = { 230 37 69 }
+
+				cultural_names = {
+					name_list_mogyer = cn_gomor
+					name_list_hungarian = cn_gomor
+				}
+
+				b_gemer = {
+					province = 524
+
+					color = { 230 37 69 }
+
+					cultural_names = {
+						name_list_mogyer = cn_gomor
+						name_list_hungarian = cn_gomor
+					}
+				}
+				b_murany = {
+					province = 3858
+
+					color = { 230 37 69 }
+
+					cultural_names = {
+						name_list_slovien = cn_muran
+						name_list_czech = cn_muran
+					}
+				}
+				b_rimaszombat = {
+					province = 3859
+
+					color = { 230 37 69 }
+
+					cultural_names = {
+						name_list_slovien = cn_rimavska_sobota
+						name_list_czech = cn_rimavska_sobota
+					}
 				}
 			}
 			c_saris = {
@@ -33301,15 +33267,119 @@ e_carpathia = {
 						name_list_slovien = cn_kosice
 					}
 				}
-				b_torna = {
-					province = 3978
+				b_szerencs = {
+					province = 3886
 
-					color = { 190 10 10 }
+					color = { 155 30 30 }
+				}
+			}
+		}
+
+		d_ungvar = {
+			color = { 156 15 15 }
+
+			capital = c_ungvar
+
+			cultural_names = {
+				name_list_slovien = cn_uzhorod
+				name_list_czech = cn_uzhorod
+			}
+
+			c_ungvar = {
+				color = { 146 25 15 }
+
+				cultural_names = {
+					name_list_slovien = cn_uzhorod
+					name_list_czech = cn_uzhorod
+				}
+
+				b_ungvar = {
+					province = 3897
+
+					color = { 156 15 15 }
 
 					cultural_names = {
-						name_list_czech = cn_turna
-						name_list_slovien = cn_turna
+						name_list_slovien = cn_uzhorod
+						name_list_czech = cn_uzhorod
 					}
+				}
+				b_nagyberezna = {
+					province = 3895
+
+					color = { 156 15 15 }
+				}
+				b_kapos = {
+					province = 14176
+					
+					color = { 156 15 15 }
+					
+					cultural_names = {
+						name_list_slovien = cn_kapusany
+						name_list_czech = cn_kapusany
+					}
+				}
+			}
+			c_zemplen = {
+				color = { 155 30 30 }
+
+				cultural_names = {
+					name_list_slovien = cn_zemplin
+					name_list_czech = cn_zemplin
+				}
+
+				b_zemplen = {
+					province = 3885
+
+					color = { 155 30 30 }
+
+					cultural_names = {
+						name_list_slovien = cn_zemplin
+						name_list_czech = cn_zemplin
+					}
+				}
+				b_zynna = {
+					province = 3887
+
+					color = { 155 30 30 }
+				}
+				b_toporo = {
+					province = 3888
+
+					color = { 155 30 30 }
+				}
+				b_varanno = {
+					province = 3896
+
+					color = { 155 30 30 }
+				}
+			}
+			c_bereg = {
+				color = { 190 10 10 }
+
+				b_beregszasz = {
+					province = 537
+
+					color = { 190 10 10 }
+				}
+				b_munkacz = {
+					province = 3893
+
+					color = { 190 10 10 }
+				}
+				b_alsoverecke = {
+					province = 3894
+
+					color = { 190 10 10 }
+				}
+				b_borsova = {
+					province = 3898
+
+					color = { 190 10 10 }
+				}
+				b_kisvarda = {
+					province = 14177
+					
+					color = { 190 10 10 }
 				}
 			}
 		}
@@ -33348,31 +33418,16 @@ e_carpathia = {
 					color = { 217 11 26 }
 				}
 			}
-			c_bereg = {
+			c_ugocsa = {
 				color = { 225 30 45 }
-
-				b_beregszasz = {
-					province = 537
-
-					color = { 225 30 45 }
-				}
+				
 				b_nagyszolos = {
 					province = 3913
 
 					color = { 225 30 45 }
 				}
-				b_munkacz = {
-					province = 3893
-
-					color = { 225 30 45 }
-				}
-				b_alsoverecke = {
-					province = 3894
-
-					color = { 225 30 45 }
-				}
-				b_borsova = {
-					province = 3898
+				b_nagybanya = {
+					province = 3908
 
 					color = { 225 30 45 }
 				}
@@ -33665,11 +33720,6 @@ e_carpathia = {
 
 				b_szatmar = {
 					province = 3907
-
-					color = { 164 45 45 }
-				}
-				b_nagybanya = {
-					province = 3908
 
 					color = { 164 45 45 }
 				}
