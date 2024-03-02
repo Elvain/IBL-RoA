@@ -89,6 +89,10 @@
 # >> 'other outlying isles'
 # > world_mainland_southeast_asia
 
+
+
+
+
 ## Southeast Asia ##
 world_arakan = {
 	duchies = {
@@ -110,9 +114,6 @@ world_burma = {
 		# k_thaton
 		d_thaton d_ramannadesa d_dagon d_krapan d_yebyu d_tanintharyi
 	}
-	regions = {
-		world_arakan
-	}
 }
 world_nanzhao = {
 	duchies = {
@@ -121,7 +122,7 @@ world_nanzhao = {
 }
 world_luodian = {
 	duchies = {
-		d_mangbu d_luoshi d_luodian d_yushi d_baise
+		d_luoshi d_luodian d_yushi d_baise
 	}
 }
 world_annam = {
@@ -294,6 +295,70 @@ world_asia = {
 	}
 }
 
+## custom regions
+custom_indo_greek_kingdom_heartland = {
+	# Required lands for reforming Indo-Greek Kingdom
+	duchies = {
+		#Sindh
+		d_sauvira
+		d_bhakkar
+		#Punjab
+		d_multan
+		d_lahore
+		d_gandhara
+	}
+}
+
+custom_indo_greek_kingdom_extra = {
+	# Territory near the main Indo-Greek kingdom, part of optional kingdoms.
+	duchies = {
+		# Kashmir
+		d_kasmira
+		d_pamir
+		# Kabulistan
+		d_kabul
+		d_zabulistan
+		# Makran
+		d_makran
+		d_jabal_kufs
+		d_sistan
+	}
+}
+
+custom_indo_greek_kingdom = {
+	regions = {
+		custom_indo_greek_kingdom_heartland
+		custom_indo_greek_kingdom_extra
+	}
+}
+
+RICE_pamir_region = {
+	counties = {
+		c_gilgit c_yasin c_golaghmuli c_chitral c_skardu c_shigar c_astore c_allai
+	}
+}
+
+RICE_pamir_full_region = {
+	counties = {
+		c_badakhshan
+		c_munjan
+		c_wakhan
+		c_shughnan
+		c_karran
+	}
+	regions = {
+		RICE_pamir_region
+	}
+}
+
+RICE_brahui_region = {
+	counties = {
+		c_kalat
+		c_sibi
+		c_turan
+	}
+}
+
 ### Vanilla ###
 world_europe_west_britannia = {
 	duchies = {
@@ -332,7 +397,7 @@ world_europe_west_francia = {
 }
 world_europe_west_iberia = {
 	duchies = {
-		d_castilla d_aragon d_barcelona d_valencia d_mallorca d_navarra d_asturias d_leon d_galicia d_porto d_beja d_algarve d_cordoba d_murcia d_granada d_sevilla d_badajoz d_toledo d_coimbra d_cantabria d_viscaya
+		d_castilla d_avila d_aragon d_barcelona d_urgell d_zaragoza d_valencia d_mallorca d_navarra d_asturias d_leon d_galicia d_porto d_beja d_algarve d_cordoba d_murcia d_granada d_sevilla d_badajoz d_toledo d_coimbra d_cantabria d_viscaya
 	}
 }
 world_europe_west = {
@@ -393,7 +458,7 @@ world_europe_east = {
 		#West Perm
 		# d_hlynov d_bjarmia
 		#Hungary
-		d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
+		d_visegrad d_somogy d_nyitra d_borsod d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
 		#Estonia
 		d_esthonia
 		#Wallachia
@@ -407,7 +472,7 @@ world_asia_minor = {
 		#Armenia
 		d_mesopotamia d_vaspurakan d_greater_armenia
 		#Georgia
-		d_tao-klarjeti d_abkhazia d_georgia
+		d_tao-klarjeti d_abkhazia d_georgia d_odishi
 		#Azerbaijan
 		d_shirvan
 	}
@@ -429,7 +494,7 @@ world_middle_east_arabia = {
 		#Yemen
 		d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra d_socotra
 		#Mesopotamia
-		d_kermanshah d_basra d_baghdad d_samarra d_kurdistan d_wasit d_kufa
+		d_basra d_baghdad d_samarra d_kurdistan d_wasit d_kufa
 		#Sinai
 		d_sinai
 	}
@@ -438,7 +503,7 @@ world_middle_east_persia = {
 	# Persia, minus duchies which already exist in world_middle_east
 	duchies = {
 		#Persia
-		d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan
+		d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah
 		#k_khorasan
 		d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan
 		#k_daylam
@@ -471,20 +536,26 @@ world_india_deccan = {
 		# d_lanka
 	}
 }
+
 world_india_bengal = {
 	duchies = {
 		#Gondwana
 		d_dahala d_ratanpur
 		#Bengal
-		d_vanga d_varendra d_gauda d_nadia d_suhma
+		d_gauda d_nadia d_suhma
 		#Kamarupa
-		d_kamarupanagara d_para_lauhitya d_sutiya d_jaintia
+		d_kamarupanagara d_para_lauhitya d_sutiya
 		#Orissa
 		d_daksina_kosala d_tosali d_kalinga d_dandakaranya
 		#Bihar
 		d_tirabhukti d_kasi d_jharkand d_magadha
+		#Bengal East
+		d_varendra d_vanga d_jaintia
+		#Arakan
+		d_chattogram d_ramu d_arakan d_sandoway
 	}
 }
+
 world_india_rajastan = {
 	duchies = {
 		#Sindh
@@ -504,7 +575,7 @@ world_india_rajastan = {
 		#Himalaya
 		d_kurmanchal d_khasa d_nepal d_limbuwan
 		#Kashmir
-		d_kasmira
+		d_kasmira d_pamir
 	}
 }
 custom_lanka = {
@@ -515,7 +586,7 @@ custom_lanka = {
 }
 world_africa_north_west = {
 	duchies = {
-		d_marrakesh d_fes d_tlemcen d_alger d_tunis d_gabes d_tahert d_rif d_sous d_tafilalt d_bejaia d_mzab d_kroumerie d_kairouan d_jerid d_zab d_canarias
+		d_marrakesh d_tadla d_tamasna d_fes d_muluya d_tlemcen d_alger d_tunis d_gabes d_tahert d_figuig d_rif d_sous d_draa d_tafilalt d_bejaia d_mzab d_kroumerie d_kairouan d_jerid d_zab d_canarias
 	}
 }
 world_africa_north_east = {
@@ -535,17 +606,17 @@ world_africa_north = {
 world_africa_west = {
 	duchies = {
 		#Songhay
-		d_kawkaw d_timbuktu d_dendi
+		d_kawkaw d_timbuktu d_dendi d_upper_gurma d_zarma
 		#Gurma
-		d_lower_gurma d_upper_gurma d_yatenga
+		d_lower_gurma d_mamprusi d_lurum d_wagadugu
 		#Ghana
-		d_wagadu d_mema d_tagant d_diafunu d_kaniaga
+		d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_soso d_diara
 		#Mali
 		d_manding d_bambuk d_futa_jalon
 		#Takrur
 		d_takrur d_silla d_djolof
 		#Jenne
-		d_jenne d_bobo
+		d_jenne d_yatenga d_kirikongo d_bobo
 		#Kaabu
 		d_kaabu d_wuli d_kasa
 
@@ -554,28 +625,30 @@ world_africa_west = {
 		#Toro
 		d_toro d_loma
 		#Kong
-		d_worodugu d_kong d_lobi
+		d_worodugu d_kong d_loropeni
 		#Adiukru
 		d_wenyon d_kru d_adiukru
 		#Akan
 		d_gyaman d_brong d_ashanti d_eweland
 		#Gur
-		d_dagomba d_wagadugu d_mamprusi
+		d_dagomba d_lobi d_wa d_gonja
 		#Borgu
 		d_borgu d_savalu
 		#Yorubaland
-		d_ibadan d_oyo d_ife d_benin
-		#Igbo-Benue
-		d_igboland d_nupe d_kwararafa
+		d_ibadan d_oyo d_ife
+		#Igbo-Benue + Benin
+		d_igboland d_akpoto d_ejagham d_benin d_ijaw 
+		#Kwararafa
+		d_kwararafa d_upper_kwararafa d_bauchi
 
 		#Kanem
 		d_kanem d_bornu d_kagha
 		#Sao
 		d_baguirmi d_salamat d_wandala
 		#Hausaland
-		d_kano d_katsina d_kebbi d_gobir
+		d_kano d_katsina d_kebbi d_gobir d_nupe d_zamfara
 		#Darfur
-		d_darfur d_west_darfur d_wadai d_kordofan
+		d_darfur d_west_darfur d_wadai d_kordofan d_fitri
 	}
 }
 world_africa_east = {
@@ -583,16 +656,16 @@ world_africa_east = {
 		#Abyssinia
 		d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa
 		#Nubia
-		d_nobatia d_makuria d_shamir d_alwa d_sennar
+		d_nobatia d_makuria d_shamir d_wadi_milk d_alwa d_sennar d_abwab
 		#Blemmyia
-		d_naqis d_bazin d_baqlin
+		d_naqis d_bazin d_baqlin d_djarin
 		#Damot
 		d_damot d_kaffa d_sharka
 		#Adal
 		d_dawaro d_adal d_mora d_danakil d_zaila d_sanaag
 
 		#Ajuraan
-		d_hafun d_mogadishu d_west_ajuraan
+		d_hafun d_mogadishu d_west_ajuraan d_kismayo
 		#Outer Ajuraan
 		d_shabelle d_bali d_samalo
 	}
@@ -613,7 +686,7 @@ world_steppe_west = {
 		d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz
 		d_salair d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe
 		#Pontic Steppe
-		d_yedisan d_levedia d_don_valley d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg
+		d_yedisan d_levedia d_don_valley d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg d_tmutarakan d_circassia d_kumykia d_chechnya
 		#Volga Bulgaria
 		d_volga_bulgaria d_kazan d_bashkiria d_voronezh d_mordvinia d_chuvashia d_khopyor d_ural d_udmurtia d_martyuba d_uraltau d_aqtobe d_jalmat d_vogulia d_perm
 		#Turkestan
@@ -686,8 +759,6 @@ world_tibet = {
 		d_ladakh d_zanskar d_baltiyul d_aksai_chin d_rutog
 		#Lhomon
 		d_bumthang d_paro d_monyul d_lhoyul d_dzayul
-		#Kashmir
-		d_pamir
 	}
 }
 world_himalaya = {
@@ -837,7 +908,7 @@ world_korea = {
 
 world_japan = {
 	duchies = {
-		d_dewa d_hitachi d_hokkai d_hokuriku d_izumo d_kansai d_kanto d_kuril d_nagato d_nankai d_ou d_saikai d_sanina d_sanyo d_tokai d_tootuomi
+		d_dewa d_hitachi d_hokkai d_hokuriku d_izumo d_kansai d_kanto d_rurutom d_nagato d_nankai d_ou d_saikai d_sanina d_sanyo d_tokai d_tootuomi
 
 		d_ryukyu_china
 	}
@@ -916,7 +987,7 @@ material_wood_maple = {
 		#Zaporizhia
 		d_yedisan d_levedia d_don_valley d_crimea
 		#Caucasus
-		d_khazaria d_azov d_alania d_ciscaucasia
+		d_khazaria d_azov d_alania d_ciscaucasia d_tmutarakan d_circassia d_kumykia d_chechnya
 		#Punjab
 		d_multan d_lahore d_trigarta d_gandhara
 		#Delhi
@@ -1022,7 +1093,7 @@ material_woods_yew = {
 		d_tyrol d_carinthia d_salzburg
 
 		#Caucasia
-		d_abkhazia d_tao-klarjeti d_georgia d_antioch
+		d_abkhazia d_tao-klarjeti d_georgia d_antioch d_odishi
 	}
 }
 
@@ -1210,9 +1281,6 @@ material_hsb_deer_antler = {
 		world_java
 		world_philippines
 	}
-	duchies = {
-		d_kermanshah
-	}
 }
 
 material_hsb_boar_tusk = {
@@ -1242,7 +1310,7 @@ material_hsb_boar_tusk = {
 	}
 
 	duchies = {
-		d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_sinai d_kermanshah
+		d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_sinai
 	}
 }
 
@@ -1342,6 +1410,7 @@ material_hsb_seashell = {
 
 
 world_persian_empire = {
+	generate_modifiers = yes
 	regions = {
 		world_persia
 		world_khorasan
@@ -1444,7 +1513,7 @@ custom_navarra = {
 }
 custom_catalan = {
 	duchies = {
-		d_barcelona d_valencia d_mallorca
+		d_barcelona d_urgell d_zaragoza d_valencia d_mallorca
 	}
 }
 custom_portuguese = {
@@ -1529,6 +1598,7 @@ custom_roman_africa = {
 		d_kairouan
 		d_kroumerie
 		d_jerid
+		d_gabes
 		d_tripolitania
 	}
 }
@@ -1554,9 +1624,12 @@ custom_roman_illyricum = {
 custom_roman_hispania = {
 	duchies = {
 		d_castilla
+		d_avila
 		d_cantabria
 		d_aragon
 		d_barcelona
+		d_urgell
+		d_zaragoza
 		d_valencia
 		d_mallorca
 		d_navarra
@@ -1580,12 +1653,16 @@ custom_roman_mauretania = {
 	duchies = {
 		d_tlemcen
 		d_tahert
+		d_figuig
 		d_alger
 		d_bejaia
 		d_zab
 		d_mzab
 		d_marrakesh
+		d_tadla
+		d_tamasna
 		d_sous
+		d_draa
 		d_tafilalt
 		d_fes
 		d_rif
@@ -1656,13 +1733,13 @@ custom_sicily = {
 custom_hungary = {
 	duchies = {
 		#Hungary
-		d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
+		d_visegrad d_somogy d_nyitra d_borsod d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
 	}
 }
 custom_carpathia = {
 	duchies = {
 		#Hungary
-		d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
+		d_visegrad d_somogy d_nyitra d_borsod d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
 		#Dacia
 		d_transylvanian_alps d_muntenia d_oltenia
 		#Moldavia
@@ -1781,7 +1858,7 @@ custom_slavia = {
 		#Moldavia
 		d_bukovina d_moldova d_bugeac
 		#Hungary
-		d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
+		d_visegrad d_somogy d_nyitra d_borsod d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
 		#White Rus
 		d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_opolye
 		#Galicia-Volhynia
@@ -1881,15 +1958,15 @@ custom_k_hellas = {
 custom_sahara_proper = {
 	duchies = {
 		#k_maghreb
-		d_sous d_tafilalt
+		d_sous d_draa d_tafilalt
 		#k_tahert
-		d_mzab
+		d_mzab d_figuig
 		#k_africa
 		d_kairouan d_tunis d_kroumerie d_gabes d_jerid d_tripolitania d_syrte
 		#k_anbiya
 		d_zammour d_adrar d_touat d_taghaza
 		#k_sahara
-		d_tadmekka d_ghat d_air d_kawar d_tibesti d_fezzan
+		d_tadmekka d_ghat d_air d_kawar d_tibesti d_fezzan d_ahaggar
 	}
 }
 
@@ -1898,21 +1975,21 @@ custom_sahel_proper = {
 		#k_takrur
 		d_takrur d_silla d_djolof
 		#k_ghana
-		d_wagadu d_mema d_tagant d_diafunu d_kaniaga
+		d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_soso d_diara
 		#k_songhay
-		d_kawkaw d_timbuktu d_dendi
+		d_kawkaw d_timbuktu d_dendi d_upper_gurma d_zarma
 		#k_hausaland
-		d_kano d_katsina d_kebbi d_gobir
+		d_kano d_katsina d_kebbi d_gobir d_zamfara
 		#k_kanem
 		d_kanem d_bornu d_kagha
 		#k_sao
 		d_baguirmi d_salamat d_wandala
 		#k_darfur
-		d_darfur d_west_darfur d_wadai d_kordofan
+		d_darfur d_west_darfur d_wadai d_kordofan d_fitri
 		#k_nubia
-		d_nobatia d_makuria d_shamir d_alwa d_sennar
+		d_nobatia d_makuria d_shamir d_wadi_milk d_alwa d_sennar d_abwab
 		#k_blemmyia
-		d_naqis d_bazin d_baqlin
+		d_naqis d_bazin d_baqlin d_djarin
 	}
 }
 
@@ -1927,23 +2004,25 @@ custom_sub_saharan_africa_immediate = {
 		#k_guinea
 		d_sapi d_kono d_bassa
 		#k_jenne
-		d_jenne d_bobo
+		d_jenne d_yatenga d_kirikongo d_bobo
 		#k_kong
-		d_worodugu d_kong d_lobi
+		d_worodugu d_kong d_loropeni
 		#k_adiukru
 		d_wenyon d_kru d_adiukru
 		#k_gurma
-		d_lower_gurma d_upper_gurma d_yatenga
+		d_lower_gurma d_wagadugu d_mamprusi d_lurum
 		#k_gur
-		d_dagomba d_wagadugu d_mamprusi
+		d_dagomba d_lobi d_wa d_gonja
 		#k_akan
 		d_gyaman d_brong d_ashanti d_eweland
 		#k_borgu
 		d_borgu d_savalu
 		#k_yorubaland
-		d_ibadan d_oyo d_ife d_benin
+		d_ibadan d_oyo d_ife
 		#k_igbo-benue
-		d_igboland d_nupe d_kwararafa
+		d_igboland d_akpoto d_ejagham d_ijaw d_benin
+		#k_kwararafa
+		d_kwararafa d_upper_kwararafa d_bauchi
 		#k_abyssinia
 		d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa
 		#k_damot
@@ -1961,7 +2040,7 @@ custom_carolingian_francia = {
 custom_carolingian_iberia = {
 	duchies = {
 		#k_aragorn, except Mallorca.
-		d_aragon d_barcelona
+		d_aragon d_barcelona d_urgell d_zaragoza
 		#k_navarra
 		d_navarra d_viscaya
 	}
@@ -2230,13 +2309,6 @@ world_innovation_camels = {
 	}
 }
 
-world_innovation_repeating_crossbow = {
-	generate_modifiers = yes
-	regions = {
-		world_china world_korea
-	}
-}
-
 ## SEA ##
 
 world_innovation_highland_horse_breeding = {
@@ -2256,7 +2328,7 @@ world_horse_buildings_in_hills_and_mountains = {
 		#Armenia
 		d_mesopotamia d_vaspurakan d_greater_armenia
 		# k_georgia
-		d_tao-klarjeti d_abkhazia d_georgia
+		d_tao-klarjeti d_abkhazia d_georgia d_odishi
 		#Punjab
 		d_multan d_lahore d_trigarta d_gandhara
 		#Delhi
@@ -2269,34 +2341,34 @@ world_horse_buildings_in_hills_and_mountains = {
 		d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz
 		d_salair d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe
 		#Pontic Steppe
-		d_yedisan d_levedia d_don_valley d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg
+		d_yedisan d_levedia d_don_valley d_khazaria d_ciscaucasia d_kumykia d_chechnya d_itil d_crimea d_alania d_azov d_pecheneg d_tmutarakan d_circassia
 		#Turkestan
 		#d_transcaspiana d_barsuki d_tarbagatai d_jemba d_aral_il d_chah d_syr_darya d_alakol
 		#Cumania
 		d_kurgan d_mugodzhar_hills d_atyrau d_turgay d_kush-murun d_saryarka d_kazakh d_kentarlau d_karkaraly d_karabas d_betpa d_semey
 
 		#Songhay
-		d_kawkaw d_timbuktu d_dendi
+		d_kawkaw d_timbuktu d_dendi d_upper_gurma d_zarma
 		#Gurma
-		d_lower_gurma d_upper_gurma d_yatenga
+		d_lower_gurma d_wagadugu d_mamprusi d_lurum
 		#Ghana
 		d_wagadu d_mema d_tagant d_diafunu d_kaniaga
 		#Jenne
-		d_jenne d_bobo
+		d_jenne d_yatenga d_kirikongo d_bobo
 
 		#Kanem
-		d_kanem d_bornu d_kagha
+		d_kanem d_bornu d_kagha d_bedde
 		#Sao
 		d_baguirmi d_salamat d_wandala
 		#Hausaland
-		d_kano d_katsina d_kebbi d_gobir
+		d_kano d_katsina d_kebbi d_gobir d_zamfara
 		#Darfur
-		d_darfur d_west_darfur d_wadai d_kordofan
+		d_darfur d_west_darfur d_wadai
 
 		#Nubia
-		d_nobatia d_makuria d_shamir d_alwa d_sennar
+		d_nobatia d_makuria d_wadi_milk d_shamir d_alwa d_abwab d_sennar d_kordofan
 		#Blemmyia
-		d_naqis d_bazin d_baqlin
+		d_naqis d_bazin d_baqlin d_djarin
 
 		# k_galicia-volhynia
 		d_volhynia d_halych d_cherven_cities
@@ -2440,7 +2512,7 @@ special_mongol_empire_conquest_region_prio_3 = {
 		# k_caspian_steppe
 		d_itil d_pecheneg
 		# k_caucasus
-		d_khazaria d_azov d_alania d_ciscaucasia
+		d_khazaria d_azov d_alania d_ciscaucasia d_tmutarakan d_circassia d_kumykia d_chechnya
 	}
 }
 
@@ -2460,7 +2532,7 @@ special_mongol_empire_conquest_region_prio_4 = {
 special_mongol_empire_conquest_region_prio_5 = {
 	duchies = {
 		# k_georgia
-		d_tao-klarjeti d_abkhazia d_georgia
+		d_tao-klarjeti d_abkhazia d_georgia d_odishi
 		# k_armenia
 		d_mesopotamia d_vaspurakan d_greater_armenia
 		# k_ruthenia
@@ -2501,7 +2573,7 @@ special_mongol_empire_conquest_all_regions = {
 # Mongol successor empires
 special_mongol_empire_ilkhanate_region = {
 	duchies = {
-		d_jawf d_amman d_shammar d_medina d_mecca d_asir d_najd d_yamama d_al-hasa d_bahrain d_oman d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra d_socotra d_oultrejourdain d_palestine d_urdunn d_aleppo d_edessa d_homs d_antioch d_lebanon d_damascus d_palmyra d_thrace d_strymon d_aegean_islands d_thessalonika d_thessaly d_epirus d_dyrrachion d_cephalonia d_athens d_achaia d_krete d_dalmatia d_croatia d_slavonia d_bosna d_lower_bosna d_usora d_ragusa d_rashka d_macva d_duklja d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_cyprus d_opsikion d_ephese d_thracesia d_optimatoi d_bucellaria d_cilicia d_cibyrrhaeot d_anatolia d_cappadocia d_charsianon d_paphlagonia d_armeniac d_sebasteia d_chaldia d_mesopotamia d_vaspurakan d_greater_armenia d_tao-klarjeti d_abkhazia d_georgia d_venice d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan d_daylam d_tabaristan d_gurgan d_azerbaijan d_shirvan d_makran d_jabal_kufs d_sistan d_kabul d_zabulistan d_walishtan d_samarra d_wasit d_kufa d_basra d_baghdad d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_kurdistan
+		d_jawf d_amman d_shammar d_medina d_mecca d_asir d_najd d_yamama d_al-hasa d_bahrain d_oman d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra d_socotra d_oultrejourdain d_palestine d_urdunn d_aleppo d_edessa d_homs d_antioch d_lebanon d_damascus d_palmyra d_thrace d_strymon d_aegean_islands d_thessalonika d_thessaly d_epirus d_dyrrachion d_cephalonia d_athens d_achaia d_krete d_dalmatia d_croatia d_slavonia d_bosna d_lower_bosna d_usora d_ragusa d_rashka d_macva d_duklja d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_cyprus d_opsikion d_ephese d_thracesia d_optimatoi d_bucellaria d_cilicia d_cibyrrhaeot d_anatolia d_cappadocia d_charsianon d_paphlagonia d_armeniac d_sebasteia d_chaldia d_mesopotamia d_vaspurakan d_greater_armenia d_tao-klarjeti d_abkhazia d_odishi d_georgia d_venice d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan d_daylam d_tabaristan d_gurgan d_azerbaijan d_shirvan d_makran d_jabal_kufs d_sistan d_kabul d_zabulistan d_walishtan d_samarra d_wasit d_kufa d_basra d_baghdad d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_kurdistan
 
 		d_khorezm d_uzboy d_sinai
 		d_sauvira d_bhakkar d_multan d_lahore d_trigarta d_gandhara
@@ -2520,7 +2592,7 @@ ilkhanate_de_jure_region = {
 		#Armenia
 		d_mesopotamia d_vaspurakan d_greater_armenia
 		#Georgia
-		d_tao-klarjeti d_abkhazia d_georgia
+		d_tao-klarjeti d_abkhazia d_georgia d_odishi
 	}
 }
 
@@ -2542,7 +2614,7 @@ chagatai_de_jure_region = {
 
 special_mongol_empire_golden_horde_region = {
 	duchies = {
-		d_pereyaslavl d_chernigov d_karachev d_novosil d_vepsia d_luki d_smolensk d_opolye d_ryazan d_nizhny_novgorod d_biarmia d_chudia d_vologda d_ustyug d_levedia d_don_valley d_crimea d_khazaria d_azov d_alania d_ciscaucasia d_itil d_pecheneg d_volga_bulgaria d_kazan d_jalmat d_martyuba d_mordvinia d_voronezh d_chuvashia d_khopyor d_perm d_ural d_udmurtia d_bashkiria d_uraltau d_vogulia d_salair d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz d_mugodzhar_hills d_aqtobe d_atyrau d_turgay d_kurgan d_kush-murun d_saryarka d_kazakh d_semey d_kentarlau d_karkaraly d_karabas d_betpa d_alakol d_qobaq
+		d_pereyaslavl d_chernigov d_karachev d_novosil d_vepsia d_luki d_smolensk d_opolye d_ryazan d_nizhny_novgorod d_biarmia d_chudia d_vologda d_ustyug d_levedia d_don_valley d_crimea d_khazaria d_azov d_tmutarakan d_circassia d_alania d_ciscaucasia d_kumykia d_chechnya d_itil d_pecheneg d_volga_bulgaria d_kazan d_jalmat d_martyuba d_mordvinia d_voronezh d_chuvashia d_khopyor d_perm d_ural d_udmurtia d_bashkiria d_uraltau d_vogulia d_salair d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz d_mugodzhar_hills d_aqtobe d_atyrau d_turgay d_kurgan d_kush-murun d_saryarka d_kazakh d_semey d_kentarlau d_karkaraly d_karabas d_betpa d_alakol d_qobaq
 
 		d_transcaspiana d_jemba d_aral_il d_barsuki
 	}
@@ -2553,7 +2625,7 @@ golden_horde_de_jure_region = {
 		#Turkestan
 		d_transcaspiana d_jemba d_barsuki d_aral_il d_khorezm
 		#Pontic Steppe
-		d_yedisan d_levedia d_don_valley d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg
+		d_yedisan d_levedia d_don_valley d_khazaria d_ciscaucasia d_kumykia d_chechnya d_itil d_crimea d_alania d_azov d_pecheneg d_tmutarakan d_circassia
 		#Cumania
 		d_kurgan d_mugodzhar_hills d_atyrau d_turgay d_kush-murun d_saryarka d_kazakh d_kentarlau d_karkaraly d_karabas d_betpa d_semey
 	}
@@ -2632,7 +2704,7 @@ togskol_khanatede_jure_region = {
 
 special_mongol_empire_baruun_khanate_region = {
 	duchies = {
-		d_zammour d_adrar d_touat d_taghaza d_tadmekka d_ghat d_air d_kawar d_tibesti d_fezzan d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_bazin d_baqlin d_damot d_kaffa d_sharka d_dawaro d_adal d_mora d_danakil d_zaila d_sanaag d_hafun d_mogadishu d_west_ajuraan d_shabelle d_bali d_samalo d_kanem d_bornu d_kagha d_baguirmi d_salamat d_wandala d_kano d_katsina d_kebbi d_gobir d_darfur d_west_darfur d_wadai d_kordofan d_kawkaw d_timbuktu d_dendi d_lower_gurma d_upper_gurma d_yatenga d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_manding d_bambuk d_futa_jalon d_loma d_takrur d_silla d_djolof d_jenne d_bobo d_kaabu d_wuli d_kasa d_sapi d_kono d_bassa d_toro d_wenyon d_kru d_worodugu d_kong d_lobi d_ashanti d_adiukru d_gyaman d_brong d_eweland d_dagomba d_wagadugu d_mamprusi d_borgu d_savalu d_ibadan d_oyo d_ife d_benin d_igboland d_nupe d_kwararafa
+		d_zammour d_adrar d_touat d_taghaza d_tadmekka d_ghat d_air d_kawar d_tibesti d_fezzan d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_bazin d_baqlin d_damot d_kaffa d_sharka d_dawaro d_adal d_mora d_danakil d_zaila d_sanaag d_hafun d_mogadishu d_kismayo d_west_ajuraan d_shabelle d_bali d_samalo d_kanem d_bornu d_kagha d_baguirmi d_salamat d_wandala d_kano d_katsina d_kebbi d_gobir d_darfur d_west_darfur d_wadai d_kordofan d_kawkaw d_timbuktu d_dendi d_lower_gurma d_upper_gurma d_yatenga d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_manding d_bambuk d_futa_jalon d_loma d_takrur d_silla d_djolof d_jenne d_bobo d_kaabu d_wuli d_kasa d_sapi d_kono d_bassa d_toro d_wenyon d_kru d_worodugu d_kong d_lobi d_ashanti d_adiukru d_gyaman d_brong d_eweland d_dagomba d_wagadugu d_mamprusi d_borgu d_savalu d_ibadan d_oyo d_ife d_benin d_igboland d_nupe d_kwararafa
 	}
 }
 
@@ -2661,7 +2733,7 @@ special_sicilian_culture_region = {
 ### Special Cagot region
 special_cagot_region = {
 	duchies = {
-		d_navarra d_gascogne d_armagnac d_aragon d_viscaya d_cantabria d_asturias d_castilla d_leon
+		d_navarra d_gascogne d_armagnac d_aragon d_viscaya d_cantabria d_asturias d_castilla d_avila d_leon
 	}
 }
 
@@ -2723,13 +2795,13 @@ ghw_region_england = {
 ghw_region_caucasus = {
 	duchies = {
 		#Georgia
-		d_tao-klarjeti d_abkhazia d_georgia
+		d_tao-klarjeti d_abkhazia d_georgia d_odishi
 		#Armenia
 		d_mesopotamia d_vaspurakan d_greater_armenia
 		#Western Daylam
 		d_shirvan d_azerbaijan d_daylam
 		#Caucasus
-		d_khazaria d_azov d_alania d_ciscaucasia
+		d_khazaria d_azov d_alania d_ciscaucasia d_tmutarakan d_circassia d_kumykia d_chechnya
 	}
 }
 ghw_region_anatolia = {
@@ -2801,11 +2873,11 @@ ghw_region_iberia = {
 		#Leon
 		d_leon d_asturias
 		#Castille
-		d_castilla d_cantabria
+		d_castilla d_avila d_cantabria
 		#Navarra
 		d_navarra d_viscaya
 		#Aragon
-		d_aragon d_barcelona
+		d_aragon d_barcelona d_urgell d_zaragoza
 		#Badajoz
 		d_beja d_badajoz d_algarve
 		#Andalusia
@@ -2839,7 +2911,7 @@ ghw_region_germanic = {
 ghw_region_central_european = {
 	duchies = {
 		#Hungary
-		d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
+		d_visegrad d_somogy d_nyitra d_borsod d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia
 		#Moldavia
 		d_bukovina d_moldova d_bugeac
 		#Wallachia
@@ -2882,7 +2954,7 @@ ghw_region_egypt_et_al = {
 	}
 	duchies = {
 		#Northern Nubia
-		d_nobatia d_makuria d_shamir
+		d_nobatia d_makuria d_shamir d_wadi_milk
 		#Northern Blemmiya
 		d_naqis d_bazin
 	}
@@ -2936,9 +3008,9 @@ ghw_region_north_africa = {
 		#Africa
 		d_kairouan d_tunis d_kroumerie d_gabes d_jerid d_tripolitania d_syrte
 		#Tahert
-		d_tlemcen d_tahert d_alger d_bejaia d_zab d_mzab
+		d_tlemcen d_tahert d_figuig d_alger d_bejaia d_zab d_mzab
 		#Maghreb
-		d_marrakesh d_sous d_tafilalt d_fes d_rif d_canarias
+		d_marrakesh d_tadla d_tamasna d_sous d_draa d_tafilalt d_fes d_muluya d_rif d_canarias
 	}
 }
 ghw_region_sicily = {
@@ -2962,9 +3034,9 @@ ghw_region_ethiopia = {
 		#Abyssinia
 		d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa
 		#Southern Nubia
-		d_alwa d_sennar
+		d_alwa d_sennar d_abwab
 		#Southern Blemmyia
-		d_baqlin
+		d_baqlin d_djarin
 		#Damot
 		d_damot d_kaffa d_sharka
 		#Eastern Darfur
@@ -2976,7 +3048,7 @@ ghw_region_horn_of_africa = {
 		#Adal
 		d_dawaro d_adal d_mora d_danakil d_zaila d_sanaag
 		#Ajuraan
-		d_hafun d_mogadishu d_west_ajuraan
+		d_hafun d_mogadishu d_kismayo d_west_ajuraan
 		#Outer Ajuraan
 		d_shabelle d_bali d_samalo
 	}
@@ -2984,9 +3056,9 @@ ghw_region_horn_of_africa = {
 ghw_region_the_sahel = {
 	duchies = {
 		#Songhay
-		d_kawkaw d_timbuktu d_dendi
+		d_kawkaw d_timbuktu d_dendi d_upper_gurma d_zarma
 		#Gurma
-		d_lower_gurma d_upper_gurma d_yatenga
+		d_lower_gurma d_mamprusi d_lurum d_wagadugu
 		#Ghana
 		d_wagadu d_mema d_tagant d_diafunu d_kaniaga
 		#Mali
@@ -2994,7 +3066,7 @@ ghw_region_the_sahel = {
 		#Takrur
 		d_takrur d_silla d_djolof
 		#Jenne
-		d_jenne d_bobo
+		d_jenne d_yatenga d_kirikongo d_bobo
 		#Kaabu
 		d_kaabu d_wuli d_kasa
 	}
@@ -3006,9 +3078,11 @@ ghw_region_north_african_interior = {
 		#Sao
 		d_baguirmi d_salamat d_wandala
 		#Hausaland
-		d_kano d_katsina d_kebbi d_gobir
+		d_kano d_katsina d_kebbi d_gobir d_nupe d_zamfara
+		#Kwararafa
+		d_kwararafa d_upper_kwararafa d_bauchi
 		#Western Darfur
-		d_darfur d_west_darfur d_wadai
+		d_darfur d_west_darfur d_wadai d_fitri
 	}
 }
 ghw_region_subsahelian_africa = {
@@ -3018,19 +3092,19 @@ ghw_region_subsahelian_africa = {
 		#Toro
 		d_toro d_loma
 		#Kong
-		d_worodugu d_kong d_lobi
+		d_worodugu d_kong d_loropeni
 		#Adiukru
 		d_wenyon d_kru d_adiukru
 		#Akan
 		d_gyaman d_brong d_ashanti d_eweland
 		#Gur
-		d_dagomba d_wagadugu d_mamprusi
+		d_dagomba d_lobi d_wa d_gonja
 		#Borgu
 		d_borgu d_savalu
 		#Yorubaland
-		d_ibadan d_oyo d_ife d_benin
+		d_ibadan d_oyo d_ife
 		#Igbo-Benue
-		d_igboland d_nupe d_kwararafa
+		d_igboland d_akpoto d_ejagham d_benin d_ijaw
 	}
 }
 ghw_region_western_sahara = {
@@ -3277,7 +3351,7 @@ ghw_region_crimea = {
 		#Zaporizhia
 		d_yedisan d_levedia d_don_valley d_crimea
 		#Caucasus
-		d_khazaria d_azov d_alania d_ciscaucasia
+		d_khazaria d_azov d_alania d_ciscaucasia d_kumykia d_chechnya d_tmutarakan d_circassia
 	}
 }
 ghw_region_poland_bohemia_bavaria = {
@@ -3822,7 +3896,7 @@ dlc_fp2_old_vasconia = {
 
 dlc_fp2_old_vasconia_pushed = {
 	duchies = {
-		d_viscaya d_navarra d_gascogne d_armagnac d_aragon d_barcelona
+		d_viscaya d_navarra d_gascogne d_armagnac d_aragon d_barcelona d_urgell
 	}
 }
 
@@ -3852,7 +3926,7 @@ dlc_fp2_form_aragon_region = {
 		# k_navarra
 		d_viscaya d_navarra
 		# k_valencia
-		d_aragon d_valencia d_mallorca
+		d_aragon d_valencia d_zaragoza d_mallorca
 		# k_aquitaine
 		d_gascogne d_toulouse d_armagnac d_languedoc d_barcelona
 	}
@@ -3869,6 +3943,50 @@ dlc_fp2_lyonese_monk_region = {
 }
 
 ### END FP2 Regions
+
+#####################
+# FP3 Regions
+#####################
+dlc_fp3_eastern_persian_frontier_regions = {
+	regions = {
+		world_khorasan
+		world_transoxiana
+		world_makran
+		world_kabulistan
+	}
+}
+
+dlc_fp3_greater_persian_frontier_regions = {
+	duchies = {
+		#Sindh
+		d_sauvira d_bhakkar
+		#Punjab
+		d_multan d_lahore d_gandhara
+		# k_syr_darya
+		d_syr_darya d_chah d_muyunkum
+		# k_oghuz_il
+		d_transcaspiana d_jemba d_aral_il d_barsuki
+		# k_daylam
+		d_daylam d_tabaristan d_gurgan d_azerbaijan
+	}
+	regions = {
+		world_khorasan
+		world_transoxiana
+		world_makran
+		world_kabulistan
+		world_mesopotamia
+		world_asia_minor
+		world_jazira
+	}
+}
+
+dlc_fp3_seljuk_birth_region = {
+	duchies = {
+		d_transcaspiana d_barsuki d_jemba d_aral_il d_syr_darya d_uzboy d_khorezm d_atyrau
+	}
+}
+
+### END FP3 Regions
 
 #####################
 # Achievements - 1.4
@@ -4057,6 +4175,7 @@ world_west_indian_ocean_region = {# Then check is_coastal_county = yes
 		d_sanaag
 		d_hafun
 		d_mogadishu
+		d_kismayo
 	# arabian peninsula
 		d_socotra
 		d_mahra
@@ -4478,7 +4597,7 @@ hunt_animal_reindeer_region = {
 		# k_solon
 		d_solon d_yakesa d_selemda d_ulyagir
 		# k_amgun
-		d_ykh-mif d_tonchi d_amgun d_ukh
+		d_ykh-mif d_tonchi d_amgun d_ukhta
 	}
 	regions = {
 		ghw_region_siberia
@@ -4533,5 +4652,39 @@ board_game_fidchell_region = {
 		d_albany d_the_isles d_galloway d_western_isles d_lothian d_moray
 		#Norway
 		d_northern_isles
+	}
+}
+
+## Added and Modified by Huanglukuzhu
+
+world_east_asian_technology = {
+	regions = {
+		world_japan world_korea world_china
+	}
+}
+
+world_chinese_technology = {
+	regions = {
+		world_china world_korea
+	}
+}
+
+world_old_roman_technology = {
+	regions = {
+		world_asia_minor
+	}
+	duchies = {
+		# Hellas
+		d_thrace d_strymon d_thessalonika d_thessaly d_dyrrachion d_cephalonia d_epirus d_athens d_achaia d_krete d_cyprus d_philippopolis
+		# Asia
+		d_aleppo d_antioch d_edessa d_lebanon d_palmyra
+		# Africa
+		d_alexandria d_delta d_alger d_tunis
+	}
+}
+
+world_bed_crossbow_technology = {
+	regions = {
+		world_china world_korea world_mainland_southeast_asia
 	}
 }

@@ -1,0 +1,166 @@
+###c_leon
+14236 = {	# GORDON
+	# Misc
+	culture = asturleonese
+	religion = catholic
+	
+	holding = castle_holding
+	
+	#History
+	945.1.1 = { culture = asturleonese }
+	1066.1.1 = {
+		buildings = {
+			pastures_01
+			barracks_01
+			#military_camps_01
+		}
+	}
+}
+1816 = {	# LEON
+	holding = city_holding
+}
+1820 = {	# PONFERRADA -> Somoza
+	holding = none
+}
+1824 = {	# VILLABLINO -> El Bierzo
+	holding = castle_holding
+}
+1817 = {	# RIANO -> Veldeón
+	holding = church_holding
+}
+
+###c_cea
+1825 = {	# GUARDO/Cea
+	# Misc
+	culture = asturleonese
+	religion = catholic
+	
+	holding = castle_holding
+	
+	#History
+	945.1.1 = { culture = asturleonese }
+	1066.1.1 = {
+		buildings = {
+			pastures_01
+			barracks_01
+			#military_camps_01
+		}
+	}
+}
+1911 = {	# VALENCIA DE CAMPOS -> Sahagún
+	holding = church_holding
+}
+
+###c_benavente
+1826 = {	# BENAVENTE
+	# Misc
+	culture = asturleonese
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	#History
+	945.1.1 = { religion = catholic }
+}
+14241 = {	# ALISTE_LEON
+	holding = none
+}
+
+###c_zamora
+1895 = {	# TORO
+	# Misc
+	culture = asturleonese
+	religion = 	catholic
+	
+	holding = castle_holding
+	
+	#History
+	#945.1.1 = { culture = asturleonese }
+}
+1894 = {	# ZAMORA
+	holding = city_holding
+}
+1910 = {	# VILLAFAFILA -> Mayorga
+	holding = none
+}
+
+###c_salamanca
+1913 = {	# BEJAR
+	# Misc
+	culture = asturleonese
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	#955.1.1 = { culture = asturleonese }
+}
+1828 = {	# SALAMANCA
+	holding = city_holding
+}
+1829 = {	# CIDUAD RODRIGO/Ciudad Rodrigo
+	holding = church_holding
+}
+
+###c_olmedo -> Alba
+1827 = {	# ALBA
+	# Misc
+	culture = asturleonese
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	955.1.1 = { culture = asturleonese }
+}
+1922 = {	# CORACERA # -> Penaranda
+	holding = none
+	
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+1916 = {	# SIERRA DE GREDOS -> Salvatierra
+	holding = none
+}
+
+#### d_asturias
+###c_asturias_de_oviedo
+1796 = {	# GIJON
+	# Misc
+	culture = asturleonese
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	950.1.1 = {
+		culture = asturleonese
+	}
+}
+1797 = {	# OVIEDO
+	holding = church_holding
+}
+1798 = {	# VILLAVICIOSA
+	holding = none
+}
+
+###c_pravia
+1795 = {	# PRAVIA
+	# Misc
+	culture = asturleonese
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	950.1.1 = {
+		culture = asturleonese
+	}
+}
+1794 = {	# LUARCA
+	holding = city_holding
+}
+1823 = {	# CANGAS DEL NARCEA
+	holding = none
+}

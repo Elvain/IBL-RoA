@@ -153,6 +153,17 @@ river_provinces = RANGE { 3231 3252 }
 river_provinces = RANGE { 3253 3254 }	#Guadalquivir
 river_provinces = RANGE { 8586 8587 }	#Dvina
 river_provinces = RANGE { 8558 8559 }	#Norway Fjords
+river_provinces = RANGE { 14248 14250 }	#Ebro
+river_provinces = RANGE { 14251 14253 }	#Duero
+river_provinces = RANGE { 14277 14278 }	#Odra
+river_provinces = LIST { 14268 14279 }	#Weser
+river_provinces = LIST { 14276 }	#Danube
+river_provinces = RANGE { 14251 14253 }	#Duero
+river_provinces = RANGE { 14261 14262 }	#Loire 2
+river_provinces = RANGE { 14265 14267 }	#Rhine 2
+river_provinces = RANGE { 14269 14270 }	#Shanon
+river_provinces = RANGE { 14273 14274 }	#Meusse
+river_provinces = LIST { 14263 14264 14271 14272 14275 }
 
 #Russian rivers
 river_provinces = RANGE { 8561 8562 }	#Dniestr
@@ -180,7 +191,12 @@ river_provinces = RANGE { 6026 6029 }	# Nile
 river_provinces = RANGE { 6126 6128 }	# Euphrates
 river_provinces = RANGE { 6791 6796 }	# Niger
 river_provinces = RANGE { 8092 8096 }	# Niger
-river_provinces = LIST { 8958 }	#West African rivers
+river_provinces = LIST { 8958 }			#Benue
+river_provinces = LIST { 14254 }		#Sokoto
+river_provinces = LIST { 14255 14256 }	#Volta
+river_provinces = LIST { 14257 14258 }	#Komoe
+river_provinces = LIST { 14259 14260 }	#Bandama
+
 
 river_provinces = LIST { 626 689 1063 1065 1066 1067 1077 1078 1079 1081 1082 1083 1084 1487 5510 5511 6125 }
 river_provinces = LIST { 8560 8568 8571 8572 8573 8577 8602 }
@@ -359,13 +375,11 @@ impassable_mountains = RANGE { 8802 8919 }
 impassable_mountains = RANGE { 14015 14054 }
 impassable_mountains = RANGE { 14066 14069 }
 impassable_mountains = RANGE { 14086 14087 }
-impassable_mountains = RANGE { 14176 14178 }
 #IBL Iberia and some rivers
-impassable_mountains = RANGE { 14186 14188 }
-impassable_mountains = RANGE { 14211 14279 }
+impassable_mountains = RANGE { 14243 14247 }
 impassable_mountains = RANGE { 14360 14364 }
 impassable_mountains = RANGE { 14436 14437 }
-impassable_mountains = RANGE { 14447 14452 }
+#impassable_mountains = RANGE { 14447 14452 }
 #impassable_mountains = LIST { 14302 }
 #impassable_mountains = RANGE { 14411 14435 }
 
