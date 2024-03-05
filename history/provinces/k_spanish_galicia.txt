@@ -1,0 +1,266 @@
+#### d_galicia
+###c_coruna
+1786 = {	# BETANZOS
+	# Misc
+	culture = galician
+	religion = catholic
+	
+	holding = castle_holding
+	
+}
+1787 = {	# LA CORUNA
+	holding = city_holding
+
+	98.1.1 = { 
+		special_building = tower_of_hercules_01
+	}
+}
+
+###c_mondonedo
+1788 = {	# FERROL
+	# Misc
+	culture = galician
+	religion = catholic
+	
+	holding = castle_holding
+	
+}
+1789 = {	# MONDONEDO
+	holding = none
+	
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+1790 = {	# VILALBA
+	holding = none
+}
+
+###c_santiago
+1785 = {	# SANTIAGO DE COMPOSTELA
+	# Misc
+	culture = galician
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	867.1.1 = {
+		special_building_slot = holy_site_basilica_santiago_01
+	}
+	1066.1.1 = {
+		buildings = {
+			hill_forts_01
+			#pastures_01
+			hill_farms_01
+		}
+	}
+}
+1791 = {	# MELIDE -> Monterroso
+	holding = church_holding
+}
+1783 = {	# PADRON
+	holding = none
+}
+
+###c_tui
+1784 = {	# MONTE FARO -> Deza
+	# Misc
+	culture = galician
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+}
+1781 = {	# TUI
+	holding = church_holding
+}
+1782 = {	# VIGO
+	holding = none
+	
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_lemos
+1819 = {	# MONFORTE DE LEMOS
+	# Misc
+	culture = galician
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+}
+1792 = {	# LUGO
+	holding = church_holding
+
+	276.1.1 = { 
+		special_building = roman_wall_of_lugo_01
+	}
+}
+1822 = {	# SARRIA
+	holding = city_holding
+}
+1793 = {	# CARBALLIDO
+	holding = none
+}
+
+###c_astorga
+1821 = {	# ASTORGA
+	# Misc
+	culture = galician
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+}
+1818 = {	# MONTERREI -> Sanabria
+	holding = none
+}
+
+###c_monterrei -> LIMIA
+1800 = {	# LIMIA
+	# Misc
+	culture = galician
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+}
+1799 = {	# OURENSE
+	holding = church_holding
+}
+
+###c_porto
+1760 = {	# PORTO
+	# Misc
+	culture = galician
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	926.1.1 = {
+		religion = catholic
+	}
+}
+1761 = {	# BRAGA
+	holding = city_holding
+}
+1762 = {	# CHAVEZ/Chaves
+	holding = church_holding
+}
+1766 = {	# GUIMARAES
+	holding = castle_holding
+}
+
+###c_braganza
+1763 = {	# BRAGANCA
+	# Misc
+	culture = galician
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	926.1.1 = {
+		religion = catholic
+	}
+}
+1764 = {	# MIRANDA DO DUORO
+	holding = city_holding
+}
+1765 = {	# VILLA REAL
+	holding = none
+	
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+1767 = {	# MOGADOURO
+	holding = none
+}
+
+###c_coimbra
+1758 = {	# COIMBRA
+	# Misc
+	culture = galician
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	1126.1.1 = {
+		religion = catholic
+	}
+}
+1757 = {	# LEIRIA
+	holding = church_holding
+}
+1756 = {	# OBIDOS
+	holding = city_holding
+}
+
+###c_viseu
+1769 = {	# VISEU
+	# Misc
+	culture = galician
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	1125.1.1 = {
+		religion = catholic
+	}
+}
+1770 = {	# TRANCOSO
+	holding = city_holding
+}
+
+###c_aveiro
+1759 = {	# 1759 - AVEIRO
+	# Misc
+	culture = galician
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	926.1.1 = {
+		religion = catholic
+	}
+}
+2003 = {	# GRALHEIRA/Cinfaes
+	holding = none
+}
+1768 = {	# 1768 - LAMEGO
+	holding = church_holding
+}
+
+###c_castelo_branco
+1773 = {	# CASTELO BRANCO
+	# Misc
+	culture = andalusian
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	#950.1.1 = { religion = muwalladi }
+	1090.1.1 = {
+		culture = asturleonese
+		religion = catholic
+	}
+}
+1771 = {	# IDANHA/Beira
+	holding = city_holding
+}
+1772 = {	# ABRANTES
+	holding = church_holding
+}

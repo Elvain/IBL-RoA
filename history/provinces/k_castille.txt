@@ -1,0 +1,204 @@
+###c_burgos
+1906 = {	# BURGOS
+	# Misc
+	culture = castilian
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	945.1.1 = { culture = castilian }
+	1066.1.1 = {
+		buildings = {
+			curtain_walls_01
+			#hunting_grounds_01
+			military_camps_01
+		}
+	}
+}
+1907 = {	# ATAPUERCA ->BRIVIESCA
+	holding = city_holding
+}
+14237 = {	# UBIERNA
+	holding = castle_holding
+}
+1908 = {	# LERMA
+	holding = castle_holding
+}
+1898 = {	# ARANDA DE DUERO -> Berlanga
+	holding = none
+	
+	1080.1.1 = {
+		holding = church_holding
+	}
+}
+
+###c_monzon
+14239 = {	# MONZON
+	# Misc
+	culture = castilian
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	945.1.1 = { culture = castilian }
+}
+1905 = {	# PALENCIA
+	holding = church_holding
+}
+14238 = {	# SALDANA
+	holding = none
+}
+
+###c_valladolid
+1897 = {	# VALLADOLID
+	# Misc
+	culture = castilian
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	#945.1.1 = { religion = catholic }
+}
+1896 = {	# SIMANCAS
+	holding = none
+	
+	1080.1.1 = {
+		holding = castle_holding
+	}
+}
+14240 = {	# TORDESILLAS
+	holding = church_holding
+}
+14242 = {	# ROA
+	holding = none
+}
+
+###c_lara
+1903 = {	# ARNEDO -> Lara
+	#Misc
+	culture = castilian
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	950.1.1 = { religion = catholic }
+}
+1909 = {	# SAN LEONARDO DE YAGUE -> Auca
+	holding = church_holding
+}
+1899 = {	# SAN ESTEBAN -> Clunia
+	holding = none
+}
+
+#### d_avila
+###c_avila
+1915 = {	# OLMEDO
+	# Misc
+	culture = castilian
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	1080.1.1 = { religion = catholic }
+}
+1912 = {	# AVILA
+	holding = church_holding
+}
+1914 = {	# MEDINA DEL CAMPO
+	holding = city_holding
+}
+1921 = {	# LA ADRADA -> Arevalo/Arévalo
+	holding = none
+}
+
+###c_cuellar
+1925 = {	# CUELLAR
+	# Misc
+	culture = castilian
+	religion = mozarabic_church
+	
+	holding = castle_holding
+	
+	# History
+	1080.1.1 = { religion = catholic }
+}
+1924 = {	# SEGOVIA
+	holding = city_holding
+
+	# History
+	800.1.1 = { culture = andalusian }
+	867.1.1 = { special_building_slot = alcazar_of_segovia_01 }
+	955.1.1 = { culture = castilian }
+	1120.1.1 = { special_building_slot = alcazar_of_segovia_01 }
+}
+1926 = {	# UCEDA -> Ayllón
+	holding = castle_holding
+}
+14219 = {	# SEPULVEDA
+	holding = none
+	
+	1080.1.1 = {
+		holding = city_holding
+	}
+}
+
+#### d_cantabria
+###c_asturias_de_santillana
+1801 = {	# SANTIALLANA
+	# Misc
+	culture = castilian
+	religion = catholic
+	
+	# History
+	945.1.1 = {
+		culture = castilian
+	}
+}
+1802 = {	# SANTANDER
+	holding = city_holding
+}
+1904 = {	# SEDANO -> Liébana
+	holding = church_holding
+}
+
+###c_frias
+14235 = {	# FRIAS
+	# Misc
+	culture = castilian
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	945.1.1 = { culture = castilian }
+}
+1812 = {	# MEDINA DE POMAR -> Espinosa
+	holding = none
+}
+
+###c_amaya
+1815 = {	# REINOSA
+	# Misc
+	culture = castilian
+	religion = catholic
+	
+	holding = castle_holding
+	
+	# History
+	945.1.1 = { culture = castilian }
+}
+1814 = {	# AMAYA
+	holding = church_holding
+}
+1813 = {	# MIRANDA DE EBRO -> Oña
+	holding = none
+	
+	1080.1.1 = {
+		holding = church_holding
+	}
+}

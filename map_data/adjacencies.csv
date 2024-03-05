@@ -15,12 +15,18 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1689;1691;sea;700;-1;-1;-1;-1;Islay-Mull
 1707;8;sea;693;-1;-1;-1;-1;Thurso-Kirkwall
 1711;1692;sea;696;-1;-1;-1;-1;Glenfinnan-Skye
+45;8749;river_large;14269;-1;-1;-1;-1;Limerick-Kincora
+1587;1592;river_large;14271;-1;-1;-1;-1;Grimsby-Doncaster
 #IBERIA
 1748;1839;river_large;3250;-1;-1;-1;-1;Faor-Ayamonte
 1833;1835;river_large;3252;-1;-1;-1;-1;Zalaca-Badajoz
 1845;4682;sea;954;-1;-1;-1;-1;Algeciras-Sabta
 1979;1995;river_large;3253;-1;-1;-1;-1;Cabra-Cordoba
-1981;1993;river_large;3253;-1;-1;-1;-1;Seville-Triana
+1981;14187;river_large;3253;619;1732;-1;-1;Seville-San Ysidoro
+1759;1760;river_large;14251;-1;-1;-1;-1;Aveiro-Porto
+1858;1859;river_large;14248;-1;-1;-1;-1;Amposta-Tortosa
+1883;1892;river_large;14249;-1;-1;-1;-1;Caspe-Alcaniz
+1885;1887;river_large;14250;-1;-1;-1;-1;Sarinena-Zaragoza
 #FRANCE
 2016;2017;river_large;3247;-1;-1;-1;-1;Nimes-Arles
 2142;2144;river_large;3224;-1;-1;-1;-1;Bordeaux-Blaye
@@ -29,6 +35,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2151;2152;river_large;3226;-1;-1;-1;-1;Rais-Nantes
 2332;2181;river_large;3236;-1;-1;-1;-1;Montfort-Mantes
 2333;2357;river_large;3236;-1;-1;-1;-1;Paris-Saint-Denis
+2143;2144;river_large;14264;-1;-1;-1;-1;Fronsac-Blaye
+2252;2253;river_large;14263;-1;-1;-1;-1;Poitiers-Chatellerault
+2317;2338;river_large;14261;-1;-1;-1;-1;Olivet-Orleans
+2273;2274;river_large;3228;-1;-1;-1;-1;Langeais-Tours
 #GERMANY
 2113;2401;sea;3230;-1;-1;-1;-1;Bergen op Zoom-Brielle
 2402;2401;sea;3230;-1;-1;-1;-1;Dort-Brielle
@@ -38,6 +48,14 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2413;2412;sea;973;-1;-1;-1;-1;Leeuwarden-Wadeilannen
 2802;2803;river_large;3237;-1;-1;-1;-1;Hamburg-Buxtehude
 2814;2899;river_large;3239;-1;-1;-1;-1;Havelberg-Weben
+2438;2793;river_large;14268;-1;-1;-1;-1;Oldenburg-Bremen
+2097;2093;river_large;14274;-1;-1;-1;-1;Liege-Aachen
+2450;2104;river_large;14273;-1;-1;-1;-1;Geldern-Kleve
+2088;2433;river_large;3232;-1;-1;-1;-1;Cologne-Bergh
+2084;2086;river_large;14272;-1;-1;-1;-1;Koblenz-Adenau
+2694;2854;river_large;14267;-1;-1;-1;-1;Mainz-Limburg
+2732;2733;river_large;14267;-1;-1;-1;-1;Speyer-Heidelberg
+2741;2854;river_large;14275;-1;-1;-1;-1;Russelsheim-Limburg
 #ITALY
 2489;2491;river_large;3245;-1;-1;-1;-1;Roncaglia-Cremona
 2497;2530;river_large;3244;-1;-1;-1;-1;Mantua-Guastalla
@@ -83,6 +101,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 3808;3976;river_large;1066;-1;-1;-1;-1;Esztergom-Bény
 3809;3916;river_large;1067;-1;-1;-1;-1;Komárom-Bátorkeszi
 3610;518;river_large;8560;-1;-1;-1;-1;Vakovo-Bacs
+3815;3822;river_large;14276;-1;-1;-1;-1;Pozsony-Moson
 #GREECE
 472;3710;sea;1038;-1;-1;-1;-1;Buthrothum-Corfu
 3701;474;sea;1037;-1;-1;-1;-1;Vonitsa-Cephalonia
@@ -183,6 +202,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 6577;6579;river_large;6794;-1;-1;-1;-1;Gao-Koima
 6608;6670;river_large;6793;-1;-1;-1;-1;Kabara-Bangu
 6620;6647;river_large;6791;-1;-1;-1;-1;Mara-Kaniana
+6555;14133;river_large;14254;-1;-1;-1;-1;Kebbi-Dakingari
+8137;8207;river_large;14259;-1;-1;-1;-1;Attie-Boubo
+8025;8135;river_large;14257;-1;-1;-1;-1;Aowin-East Attie
+8005;8031;river_large;14255;-1;-1;-1;-1;Afram-Wusuta
+8102;8107;river_large;8958;-1;-1;-1;-1;Opanda/Keana-Igala
 #MESOPOTAMIA
 4822;4823;river_large;6127;-1;-1;-1;-1;Kaskar-An-Numaniya
 4797;4824;river_large;6126;-1;-1;-1;-1;Iskaf-Humaniya
@@ -230,7 +254,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2115;2112;sea;3229;-1;-1;-1;-1;Bruges-Middelberg
 #BURMA
 10963;11521;river_large;8610;-1;-1;-1;-1;Sale-Tanyaung
-9588;10961;river_large;8609;-1;-1;-1;-1;Sriksetra-Hpo U;U
+9588;10961;river_large;8609;-1;-1;-1;-1;Sriksetra-Hpo
 9599;11528;river_large;8607;-1;-1;-1;-1;Dala-Pyapon
 9633;9626;river_large;8606;-1;-1;-1;-1;Myaungmya-Bogale
 9556;9568;river_large;8610;-1;-1;-1;-1;Ava-Sagaing

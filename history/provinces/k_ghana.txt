@@ -16,7 +16,10 @@
 6627 = {	#KUMBI
 	holding = city_holding
 }
-9748 = {	#KORONGA
+14196 = {	#Dyenguede
+	holding = church_holding
+}
+14148 = {	#KORONGA
 	holding = castle_holding
 	1150.1.1 = { #to represent the downfall of Ghana
 		holding = none
@@ -25,9 +28,6 @@
 6624 = {	#BOU_KHZAMA
 	holding = church_holding
 }
-9736 = {	#BANAKOLO
-	holding = none
-}
 
 ###c_baghena
 6623 = {	#NIARA
@@ -35,12 +35,17 @@
 	religion = west_african_bidu_pagan
 	holding = castle_holding
 	1076.1.1 = { religion = ashari }
-
 }
 6629 = {	#GUMBU
+	holding = city_holding
+}
+14195 = {	#Dyagaba
+	holding = church_holding
+}
+6757 = {	#BAKUNU -> Gire
 	holding = none
 }
-6757 = {	#BAKUNU
+14365 = {	#Wosebugu
 	holding = none
 }
 
@@ -62,12 +67,11 @@
 		}
 	}
 }
-6630 = {	#BIRU2 / Biru
+6630 = {	#BIRU_walata / Biru
 	holding = none
-	1066.1.1 = {
+	900.1.1 = {
 		holding = city_holding
 	}
-
 }
 8930 = {	#SETTAH
 	holding = none
@@ -81,14 +85,13 @@
 	960.1.1 = { religion = ibadi }
 	960.1.1 = { culture = butr }
 	#960.1.1 = { culture = tagelmust }
-	1050.1.1 = { religion = ashari }
-	1066.1.1 = {
+	1050.1.1 = {
+		religion = ashari
 		holding = castle_holding
 	}
 }
 6631 = {	#AWGHAM
 	holding = none
-
 }
 
 ###c_masin
@@ -109,36 +112,47 @@
 }
 6626 = {	#TIMBEDRA
 	holding = none
-	1066.1.1 = {
+	900.1.1 = {
 		holding = city_holding
 	}
-
 }
 
 ##d_mema ###################################
 ###c_mema
+6615 = {	#AKUMBU
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = castle_holding
+	#1176.1.1 = { religion = ashari }
+}
+6617 = {	#TOLADIE
+	holding = city_holding
+}
+14150 = {	#Kobadi
+	holding = none
+}
+14190 = {	#Beretouma
+	holding = church_holding
+}
+14191 = {	#Pehe
+	holding = none
+}
+
+###c_kolima
 6616 = {	#KOLIMA
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = castle_holding
 	#1176.1.1 = { religion = ashari }
-
-}
-6615 = {	#AKUMBU
-	holding = none
-
-}
-6617 = {	#TOLADIE
-	holding = city_holding
-
 }
 6618 = {	#BOULEL
 	holding = church_holding
-
 }
-6622 = {	#WEST_MEMA
+14149 = {	#Toubel
 	holding = none
-
+}
+14189 = {	#Faita
+	holding = none
 }
 
 ###c_kouga
@@ -152,15 +166,12 @@
 		#culture = tagelmust
 	}
 	1083.1.1 = { religion = ashari } #almoravid
-
 }
 6611 = {	#RAS_AL-MA
 	holding = none
-
 }
 6614 = {	#TONDIARU
 	holding = city_holding #to have some holdings
-
 }
 
 ###c_massina
@@ -168,21 +179,26 @@
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = castle_holding
-
 }
 6620 = {	#MARA
 	holding = none
-
 }
 9751 = {	#MASSINA
 	holding = church_holding #to have some holdings
-
 }
 9967 = {	#BARA
 	holding = city_holding
-
 }
 
+###c_molodo
+6622 = {	#WEST_MEMA -> Sokolo
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = castle_holding
+}
+14192 = {	#Kuruma
+	holding = none
+}
 
 ##d_tagant ###################################
 ###c_hodh
@@ -195,23 +211,26 @@
 			market_villages_01
 		}
 	}
-	895.1.1 = { culture = butr }
-	960.1.1 = { religion = ashari }
-	1066.1.1 = {
+	895.1.1 = { 
+		culture = butr
 		holding = castle_holding
 	}
-
+	960.1.1 = { religion = ashari }
+}
+14143 = {	#Musala-Hodh
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
 }
 6765 = {	#HODH-SOUTH
 	holding = none
 	1066.1.1 = {
 		holding = city_holding
 	}
-
 }
-6766 = {	#HODH-WEST
+6766 = {	#HODH-WEST -> Affole
 	holding = none
-
 }
 
 ###c_tichitt
@@ -219,19 +238,14 @@
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = tribal_holding
-	960.1.1 = {
-		religion = ashari
+	895.1.1 = { 
 		culture = butr
-		#culture = tagelmust
-	}
-	1066.1.1 = {
 		holding = castle_holding
 	}
-
+	960.1.1 = { religion = ashari }
 }
 6762 = {	#AKRIJIT
 	holding = none
-
 }
 
 ###c_tagant
@@ -239,109 +253,111 @@
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = tribal_holding
-	960.1.1 = {
-		religion = ashari
+	895.1.1 = { 
 		culture = butr
-		#culture = tagelmust
-	}
-	1066.1.1 = {
 		holding = castle_holding
 	}
-
+	960.1.1 = { religion = ashari }
 }
-6768 = {	#TAGANT-WEST
+14207 = {	#Boumdeit
 	holding = none
+}
+14208 = {	#Tidjikja
+	holding = none
+}
 
+###c_assaba
+14209 = {	#Kiffa
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	895.1.1 = { 
+		culture = butr
+		holding = castle_holding
+	}
+	960.1.1 = { religion = ashari }
+}
+6768 = {	#TAGANT-WEST -> Assaba
+	holding = none
+}
+14206 = {	#Mbout
+	holding = none
 }
 
 ##d_diafunu ###################################
+###c_diafunu
+6773 = {	#DIAFUNU
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1176.1.1 = { religion = ashari }
+}
+6770 = {	#YELIMANE -> Tiringa
+	holding = none
+}
+14142 = {	#Kirane
+	holding = none
+}
+
 ###c_guidimaka
 6772 = {	#GUIDIMAKA
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = tribal_holding
-	1066.1.1 = {
+	900.1.1 = {
 		holding = castle_holding
 	}
 	1176.1.1 = { religion = ashari }
-
-}
-6773 = {	#DIAFUNU
-	holding = none
-	1066.1.1 = {
-		holding = city_holding
-	}
-
 }
 6774 = {	#KARAKORO
 	holding = none
-
+}
+14205 = {	#Sasangue
+	holding = none
 }
 
-###c_yelimane
-6770 = {	#YELIMANE
+###c_yelimane -> Khaso
+14204 = {	#Khaso
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = tribal_holding
-	1066.1.1 = {
+	900.1.1 = {
 		holding = castle_holding
 	}
 	1176.1.1 = { religion = ashari }
-
 }
 6756 = {	#SORMA
 	holding = none
-
 }
 6771 = {	#SERO
 	holding = none
-	1066.1.1 = {
+	900.1.1 = {
 		holding = church_holding
 	}
-
-}
-
-###c_kingui
-6759 = {	#NIORO
-	culture = soninke
-	religion = west_african_bidu_pagan
-	holding = tribal_holding
-	1066.1.1 = {
-		holding = castle_holding
-	}
-	1076.1.1 = { religion = ashari }
-
-}
-6799 = {	#KINGUI
-	holding = none
-
 }
 
 ##d_kaniaga ###################################
-###c_kaniaga
-6758 = {	#DIARA
+###c_kaarta
+14199 = {	#Arifonda
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = tribal_holding
-	1066.1.1 = {
+	900.1.1 = {
 		holding = castle_holding
 	}
 	1276.1.1 = { religion = ashari }
-
 }
-6769 = {	#KANIAGA
+6754 = {	#GEMUKURA
 	holding = none
-	1066.1.1 = {
-		holding = city_holding
-	}
-
 }
-8928 = {	#BALLE
+14200 = {	#Lakamane
 	holding = none
-
 }
 
-###c_kaarta
+###c_kaniaga -> Farabugu
 6755 = {	#FARABUGU
 	culture = soninke
 	religion = west_african_bidu_pagan
@@ -350,11 +366,18 @@
 		holding = castle_holding
 	}
 	1176.1.1 = { religion = ashari }
-
 }
-6754 = {	#GEMUKURA
+14137 = {	#Diamadji
 	holding = none
-
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+6642 = {	#LANBA
+	holding = none
+}
+14198 = {	#Bakono
+	holding = none
 }
 
 ###c_kita
@@ -362,31 +385,50 @@
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = tribal_holding
-	1066.1.1 = {
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1286.1.1 = { religion = ashari }
+}
+6753 = {	#BIRGO
+	holding = none
+}
+
+6641 = {	#BANGASI
+	holding = none
+	900.1.1 = {
+		holding = church_holding
+	}
+}
+
+##d_soso ###################################
+###c_soso
+14136 = {	#BANAKOLO
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	900.1.1 = {
 		holding = castle_holding
 	}
 	1286.1.1 = { religion = ashari }
 
 }
-6753 = {	#BIRGO
-	holding = none
-
-}
-
-6641 = {	#BANGASI
+14366 = {	#Fadugu
 	holding = none
 	1066.1.1 = {
 		holding = church_holding
 	}
-
+}
+14193 = {	#Fallu
+	holding = none
 }
 
-###c_soso
+###c_beledugu
 6633 = {	#BANAMBA
 	culture = soninke
 	religion = west_african_bidu_pagan
 	holding = tribal_holding
-	1066.1.1 = {
+	900.1.1 = {
 		holding = castle_holding
 	}
 	1286.1.1 = { religion = ashari }
@@ -397,10 +439,85 @@
 	1066.1.1 = {
 		holding = church_holding
 	}
-
+}
+14194 = {	#Mercoya
+	holding = none
 }
 
-6642 = {	#LANBA
+##d_diara ###################################
+###c_diara
+6758 = {	#DIARA
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1276.1.1 = { religion = ashari }
+}
+6769 = {	#KANIAGA
 	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+8928 = {	#BALLE
+	holding = none
+}
+6759 = {	#NIORO
+	holding = none
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
 
+###c_diakha
+14202 = {	#Diakha-Ghana
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1076.1.1 = { religion = ashari }
+}
+14201 = {	#Diawara
+	holding = none
+}
+14203 = {	#Gidiume
+	holding = none
+}
+
+###c_kingui
+6799 = {	#KINGUI
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1076.1.1 = { religion = ashari }
+}
+14138 = {	#Zagari
+	holding = none
+}
+14197 = {	#Tengoumbe
+	holding = none
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
+
+###c_labiar
+14147 = {	#Labiar
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1076.1.1 = { religion = ashari }
+}
+14210 = {	#Terenni
+	holding = none
 }
